@@ -9,19 +9,15 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `byDistrict2019`,
-        path: `${__dirname}/src/data/2019/byDistrict/output/${new Date()
-          .toISOString()
-          .substring(0, 10)}.json`,
+        name: `ByDistrict2019`,
+        path: `${__dirname}/src/data/2019/byDistrict`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `Federal2019`,
-        path: `${__dirname}/src/data/2019/federal/output/${new Date()
-          .toISOString()
-          .substring(0, 10)}.json`,
+        path: `${__dirname}/src/data/2019/federal`,
       },
     },
     `gatsby-plugin-react-helmet`,

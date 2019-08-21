@@ -1,5 +1,5 @@
 const path = require("path")
-const data = require("./src/data/2019/districts.json")
+const data = require("./src/data/districts.json")
 
 exports.createPages = ({ boundActionCreators }) => {
   const { createPage } = boundActionCreators

@@ -202,7 +202,7 @@ function saveToFile() {
   var fs = require("fs")
   const date = new Date().toISOString().substring(0, 10)
   fs.writeFile(
-    `output/${date}.json`,
+    `federal/${date}.json`,
     JSON.stringify(output, null, 2),
     "utf8",
     () => {}

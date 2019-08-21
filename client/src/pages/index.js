@@ -8,9 +8,16 @@ const IndexPage = () => (
   <StaticQuery
     query={graphql`
       query Federal2019Query {
-        allFederal2019Json {
-          edges {
-            node
+        federalJson {
+          parties {
+            avg
+            name
+            projections {
+              calculatedPolitics
+              cdnElectionWatch
+              threethirtyeight
+              cbc
+            }
           }
         }
       }
@@ -20,8 +27,9 @@ const IndexPage = () => (
         <SEO title="Home" />
         <h2>Federal projection</h2>
         <h3>Party seats</h3>
+        <div>{JSON.stringify(data)}</div>
         <ol>
-          <li>LPC: {data}</li>
+          {/* <li>LPC: {data.parties.find(x => (x.name = "lpc")).seats}</li> */}
           <li>CPC: </li>
           <li>NDP: </li>
         </ol>
