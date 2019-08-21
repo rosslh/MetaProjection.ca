@@ -1,0 +1,73 @@
+{
+  "parties": [
+    {
+      "name": "cpc",
+      "projections": {
+        "cdnElectionWatch": 144.3,
+        "threethirtyeight": 146.2,
+        "calculatedPolitics": 136,
+        "cbc": 146
+      },
+      "avg": 143.13
+    },
+    {
+      "name": "lpc",
+      "projections": {
+        "cdnElectionWatch": 152.9,
+        "threethirtyeight": 151.8,
+        "calculatedPolitics": 162,
+        "cbc": 154
+      },
+      "avg": 155.18
+    },
+    {
+      "name": "ndp",
+      "projections": {
+        "cdnElectionWatch": 23,
+        "threethirtyeight": 20.7,
+        "calculatedPolitics": 24,
+        "cbc": 21
+      },
+      "avg": 22.18
+    },
+    {
+      "name": "bq",
+      "projections": {
+        "cdnElectionWatch": 13.2,
+        "threethirtyeight": 13,
+        "calculatedPolitics": 11,
+        "cbc": 12
+      },
+      "avg": 12.3
+    },
+    {
+      "name": "gpc",
+      "projections": {
+        "cdnElectionWatch": 3.6,
+        "threethirtyeight": 5.5,
+        "calculatedPolitics": 5,
+        "cbc": 4
+      },
+      "avg": 4.53
+    },
+    {
+      "name": "ind",
+      "projections": {
+        "cdnElectionWatch": 0.5,
+        "threethirtyeight": 0.6,
+        "cbc": 1
+      },
+      "avg": 0.7
+    },
+    {
+      "name": "ppc",
+      "projections": {
+        "cdnElectionWatch": 0.5,
+        "threethirtyeight": 0.2,
+        "cbc": 0
+      },
+      "avg": 0.23
+    }
+  ],
+  "valid": true
+}

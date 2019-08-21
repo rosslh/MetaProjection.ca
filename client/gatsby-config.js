@@ -5,6 +5,25 @@ module.exports = {
     author: `@gatsbyjs`,
   },
   plugins: [
+    `gatsby-transformer-json`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `byDistrict2019`,
+        path: `${__dirname}/src/data/2019/byDistrict/output/${new Date()
+          .toISOString()
+          .substring(0, 10)}.json`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `Federal2019`,
+        path: `${__dirname}/src/data/2019/federal/output/${new Date()
+          .toISOString()
+          .substring(0, 10)}.json`,
+      },
+    },
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
