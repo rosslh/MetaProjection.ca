@@ -1,0 +1,17 @@
+{
+  "name": "politics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^15.1.1",
+    "nearest-color": "^0.4.4",
+    "node-fetch": "^2.6.0",
+    "puppeteer": "^1.19.0"
+  }
+}

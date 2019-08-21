@@ -1,0 +1,1692 @@
+[
+    {
+        "number": 10001,
+        "name": "Avalon",
+        "name_fr": "Avalon"
+    },
+    {
+        "number": 10002,
+        "name": "Bonavista--Burin--Trinity",
+        "name_fr": "Bonavista--Burin--Trinity"
+    },
+    {
+        "number": 10003,
+        "name": "Coast of Bays--Central--Notre Dame",
+        "name_fr": "Coast of Bays--Central--Notre Dame"
+    },
+    {
+        "number": 10004,
+        "name": "Labrador",
+        "name_fr": "Labrador"
+    },
+    {
+        "number": 10005,
+        "name": "Long Range Mountains",
+        "name_fr": "Long Range Mountains"
+    },
+    {
+        "number": 10006,
+        "name": "St. John's East",
+        "name_fr": "St. John's-Est"
+    },
+    {
+        "number": 10007,
+        "name": "St. John's South--Mount Pearl",
+        "name_fr": "St. John's-Sud--Mount Pearl"
+    },
+    {
+        "number": 11001,
+        "name": "Cardigan",
+        "name_fr": "Cardigan"
+    },
+    {
+        "number": 11002,
+        "name": "Charlottetown",
+        "name_fr": "Charlottetown"
+    },
+    {
+        "number": 11003,
+        "name": "Egmont",
+        "name_fr": "Egmont"
+    },
+    {
+        "number": 11004,
+        "name": "Malpeque",
+        "name_fr": "Malpeque"
+    },
+    {
+        "number": 12001,
+        "name": "Cape Breton--Canso",
+        "name_fr": "Cape Breton--Canso"
+    },
+    {
+        "number": 12002,
+        "name": "Central Nova",
+        "name_fr": "Nova-Centre"
+    },
+    {
+        "number": 12003,
+        "name": "Cumberland--Colchester",
+        "name_fr": "Cumberland--Colchester"
+    },
+    {
+        "number": 12004,
+        "name": "Dartmouth--Cole Harbour",
+        "name_fr": "Dartmouth--Cole Harbour"
+    },
+    {
+        "number": 12005,
+        "name": "Halifax",
+        "name_fr": "Halifax"
+    },
+    {
+        "number": 12006,
+        "name": "Halifax West",
+        "name_fr": "Halifax-Ouest"
+    },
+    {
+        "number": 12007,
+        "name": "Kings--Hants",
+        "name_fr": "Kings--Hants"
+    },
+    {
+        "number": 12008,
+        "name": "Sackville--Preston--Chezzetcook",
+        "name_fr": "Sackville--Preston--Chezzetcook"
+    },
+    {
+        "number": 12009,
+        "name": "South Shore--St. Margarets",
+        "name_fr": "South Shore--St. Margarets"
+    },
+    {
+        "number": 12010,
+        "name": "Sydney--Victoria",
+        "name_fr": "Sydney--Victoria"
+    },
+    {
+        "number": 12011,
+        "name": "West Nova",
+        "name_fr": "Nova-Ouest"
+    },
+    {
+        "number": 13001,
+        "name": "Acadie--Bathurst",
+        "name_fr": "Acadie--Bathurst"
+    },
+    {
+        "number": 13002,
+        "name": "Beauséjour",
+        "name_fr": "Beauséjour"
+    },
+    {
+        "number": 13003,
+        "name": "Fredericton",
+        "name_fr": "Fredericton"
+    },
+    {
+        "number": 13004,
+        "name": "Fundy Royal",
+        "name_fr": "Fundy Royal"
+    },
+    {
+        "number": 13005,
+        "name": "Madawaska--Restigouche",
+        "name_fr": "Madawaska--Restigouche"
+    },
+    {
+        "number": 13006,
+        "name": "Miramichi--Grand Lake",
+        "name_fr": "Miramichi--Grand Lake"
+    },
+    {
+        "number": 13007,
+        "name": "Moncton--Riverview--Dieppe",
+        "name_fr": "Moncton--Riverview--Dieppe"
+    },
+    {
+        "number": 13008,
+        "name": "New Brunswick Southwest",
+        "name_fr": "Nouveau-Brunswick-Sud-Ouest"
+    },
+    {
+        "number": 13009,
+        "name": "Saint John--Rothesay",
+        "name_fr": "Saint John--Rothesay"
+    },
+    {
+        "number": 13010,
+        "name": "Tobique--Mactaquac",
+        "name_fr": "Tobique--Mactaquac"
+    },
+    {
+        "number": 24001,
+        "name": "Abitibi--Baie-James--Nunavik--Eeyou",
+        "name_fr": "Abitibi--Baie-James--Nunavik--Eeyou"
+    },
+    {
+        "number": 24002,
+        "name": "Abitibi--Témiscamingue",
+        "name_fr": "Abitibi--Témiscamingue"
+    },
+    {
+        "number": 24003,
+        "name": "Ahuntsic-Cartierville",
+        "name_fr": "Ahuntsic-Cartierville"
+    },
+    {
+        "number": 24004,
+        "name": "Alfred-Pellan",
+        "name_fr": "Alfred-Pellan"
+    },
+    {
+        "number": 24005,
+        "name": "Argenteuil--La Petite-Nation",
+        "name_fr": "Argenteuil--La Petite-Nation"
+    },
+    {
+        "number": 24006,
+        "name": "Avignon--La Mitis--Matane--Matapédia",
+        "name_fr": "Avignon--La Mitis--Matane--Matapédia"
+    },
+    {
+        "number": 24007,
+        "name": "Beauce",
+        "name_fr": "Beauce"
+    },
+    {
+        "number": 24008,
+        "name": "Beauport--Limoilou",
+        "name_fr": "Beauport--Limoilou"
+    },
+    {
+        "number": 24009,
+        "name": "Bécancour--Nicolet--Saurel",
+        "name_fr": "Bécancour--Nicolet--Saurel"
+    },
+    {
+        "number": 24010,
+        "name": "Bellechasse--Les Etchemins--Lévis",
+        "name_fr": "Bellechasse--Les Etchemins--Lévis"
+    },
+    {
+        "number": 24011,
+        "name": "Beloeil--Chambly",
+        "name_fr": "Beloeil--Chambly"
+    },
+    {
+        "number": 24012,
+        "name": "Berthier--Maskinongé",
+        "name_fr": "Berthier--Maskinongé"
+    },
+    {
+        "number": 24013,
+        "name": "Thérèse-De Blainville",
+        "name_fr": "Thérèse-De Blainville"
+    },
+    {
+        "number": 24014,
+        "name": "Pierre-Boucher--Les Patriotes--Verchères",
+        "name_fr": "Pierre-Boucher--Les Patriotes--Verchères"
+    },
+    {
+        "number": 24015,
+        "name": "Bourassa",
+        "name_fr": "Bourassa"
+    },
+    {
+        "number": 24016,
+        "name": "Brome--Missisquoi",
+        "name_fr": "Brome--Missisquoi"
+    },
+    {
+        "number": 24017,
+        "name": "Brossard--Saint-Lambert",
+        "name_fr": "Brossard--Saint-Lambert"
+    },
+    {
+        "number": 24018,
+        "name": "Rimouski-Neigette--Témiscouata--Les Basques",
+        "name_fr": "Rimouski-Neigette--Témiscouata--Les Basques"
+    },
+    {
+        "number": 24019,
+        "name": "Charlesbourg--Haute-Saint-Charles",
+        "name_fr": "Charlesbourg--Haute-Saint-Charles"
+    },
+    {
+        "number": 24020,
+        "name": "Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix",
+        "name_fr": "Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix"
+    },
+    {
+        "number": 24021,
+        "name": "Châteauguay--Lacolle",
+        "name_fr": "Châteauguay--Lacolle"
+    },
+    {
+        "number": 24022,
+        "name": "Chicoutimi--Le Fjord",
+        "name_fr": "Chicoutimi--Le Fjord"
+    },
+    {
+        "number": 24023,
+        "name": "Compton--Stanstead",
+        "name_fr": "Compton--Stanstead"
+    },
+    {
+        "number": 24024,
+        "name": "Dorval--Lachine--LaSalle",
+        "name_fr": "Dorval--Lachine--LaSalle"
+    },
+    {
+        "number": 24025,
+        "name": "Drummond",
+        "name_fr": "Drummond"
+    },
+    {
+        "number": 24026,
+        "name": "Gaspésie--Les Îles-de-la-Madeleine",
+        "name_fr": "Gaspésie--Les Îles-de-la-Madeleine"
+    },
+    {
+        "number": 24027,
+        "name": "Gatineau",
+        "name_fr": "Gatineau"
+    },
+    {
+        "number": 24028,
+        "name": "Hochelaga",
+        "name_fr": "Hochelaga"
+    },
+    {
+        "number": 24029,
+        "name": "Honoré-Mercier",
+        "name_fr": "Honoré-Mercier"
+    },
+    {
+        "number": 24030,
+        "name": "Hull--Aylmer",
+        "name_fr": "Hull--Aylmer"
+    },
+    {
+        "number": 24031,
+        "name": "Joliette",
+        "name_fr": "Joliette"
+    },
+    {
+        "number": 24032,
+        "name": "Jonquière",
+        "name_fr": "Jonquière"
+    },
+    {
+        "number": 24033,
+        "name": "La Pointe-de-l'Île",
+        "name_fr": "La Pointe-de-l'Île"
+    },
+    {
+        "number": 24034,
+        "name": "La Prairie",
+        "name_fr": "La Prairie"
+    },
+    {
+        "number": 24035,
+        "name": "Lac-Saint-Jean",
+        "name_fr": "Lac-Saint-Jean"
+    },
+    {
+        "number": 24036,
+        "name": "Lac-Saint-Louis",
+        "name_fr": "Lac-Saint-Louis"
+    },
+    {
+        "number": 24037,
+        "name": "LaSalle--Émard--Verdun",
+        "name_fr": "LaSalle--Émard--Verdun"
+    },
+    {
+        "number": 24038,
+        "name": "Laurentides--Labelle",
+        "name_fr": "Laurentides--Labelle"
+    },
+    {
+        "number": 24039,
+        "name": "Laurier--Sainte-Marie",
+        "name_fr": "Laurier--Sainte-Marie"
+    },
+    {
+        "number": 24040,
+        "name": "Laval--Les Îles",
+        "name_fr": "Laval--Les Îles"
+    },
+    {
+        "number": 24041,
+        "name": "Longueuil--Charles-LeMoyne",
+        "name_fr": "Longueuil--Charles-LeMoyne"
+    },
+    {
+        "number": 24042,
+        "name": "Lévis--Lotbinière",
+        "name_fr": "Lévis--Lotbinière"
+    },
+    {
+        "number": 24043,
+        "name": "Longueuil--Saint-Hubert",
+        "name_fr": "Longueuil--Saint-Hubert"
+    },
+    {
+        "number": 24044,
+        "name": "Louis-Hébert",
+        "name_fr": "Louis-Hébert"
+    },
+    {
+        "number": 24045,
+        "name": "Louis-Saint-Laurent",
+        "name_fr": "Louis-Saint-Laurent"
+    },
+    {
+        "number": 24046,
+        "name": "Manicouagan",
+        "name_fr": "Manicouagan"
+    },
+    {
+        "number": 24047,
+        "name": "Mégantic--L'Érable",
+        "name_fr": "Mégantic--L'Érable"
+    },
+    {
+        "number": 24048,
+        "name": "Mirabel",
+        "name_fr": "Mirabel"
+    },
+    {
+        "number": 24049,
+        "name": "Montarville",
+        "name_fr": "Montarville"
+    },
+    {
+        "number": 24050,
+        "name": "Montcalm",
+        "name_fr": "Montcalm"
+    },
+    {
+        "number": 24051,
+        "name": "Montmagny--L'Islet--Kamouraska--Rivière-du-Loup",
+        "name_fr": "Montmagny--L'Islet--Kamouraska--Rivière-du-Loup"
+    },
+    {
+        "number": 24052,
+        "name": "Mount Royal",
+        "name_fr": "Mont-Royal"
+    },
+    {
+        "number": 24053,
+        "name": "Notre-Dame-de-Grâce--Westmount",
+        "name_fr": "Notre-Dame-de-Grâce--Westmount"
+    },
+    {
+        "number": 24054,
+        "name": "Outremont",
+        "name_fr": "Outremont"
+    },
+    {
+        "number": 24055,
+        "name": "Papineau",
+        "name_fr": "Papineau"
+    },
+    {
+        "number": 24056,
+        "name": "Pierrefonds--Dollard",
+        "name_fr": "Pierrefonds--Dollard"
+    },
+    {
+        "number": 24057,
+        "name": "Pontiac",
+        "name_fr": "Pontiac"
+    },
+    {
+        "number": 24058,
+        "name": "Portneuf--Jacques-Cartier",
+        "name_fr": "Portneuf--Jacques-Cartier"
+    },
+    {
+        "number": 24059,
+        "name": "Québec",
+        "name_fr": "Québec"
+    },
+    {
+        "number": 24060,
+        "name": "Repentigny",
+        "name_fr": "Repentigny"
+    },
+    {
+        "number": 24061,
+        "name": "Richmond--Arthabaska",
+        "name_fr": "Richmond--Arthabaska"
+    },
+    {
+        "number": 24062,
+        "name": "Rivière-des-Mille-Îles",
+        "name_fr": "Rivière-des-Mille-Îles"
+    },
+    {
+        "number": 24063,
+        "name": "Rivière-du-Nord",
+        "name_fr": "Rivière-du-Nord"
+    },
+    {
+        "number": 24064,
+        "name": "Rosemont--La Petite-Patrie",
+        "name_fr": "Rosemont--La Petite-Patrie"
+    },
+    {
+        "number": 24065,
+        "name": "Marc-Aurèle-Fortin",
+        "name_fr": "Marc-Aurèle-Fortin"
+    },
+    {
+        "number": 24066,
+        "name": "Saint-Hyacinthe--Bagot",
+        "name_fr": "Saint-Hyacinthe--Bagot"
+    },
+    {
+        "number": 24067,
+        "name": "Saint-Jean",
+        "name_fr": "Saint-Jean"
+    },
+    {
+        "number": 24068,
+        "name": "Saint-Laurent",
+        "name_fr": "Saint-Laurent"
+    },
+    {
+        "number": 24069,
+        "name": "Saint-Léonard--Saint-Michel",
+        "name_fr": "Saint-Léonard--Saint-Michel"
+    },
+    {
+        "number": 24070,
+        "name": "Saint-Maurice--Champlain",
+        "name_fr": "Saint-Maurice--Champlain"
+    },
+    {
+        "number": 24071,
+        "name": "Salaberry--Suroît",
+        "name_fr": "Salaberry--Suroît"
+    },
+    {
+        "number": 24072,
+        "name": "Shefford",
+        "name_fr": "Shefford"
+    },
+    {
+        "number": 24073,
+        "name": "Sherbrooke",
+        "name_fr": "Sherbrooke"
+    },
+    {
+        "number": 24074,
+        "name": "Vaudreuil--Soulanges",
+        "name_fr": "Vaudreuil--Soulanges"
+    },
+    {
+        "number": 24075,
+        "name": "Terrebonne",
+        "name_fr": "Terrebonne"
+    },
+    {
+        "number": 24076,
+        "name": "Trois-Rivières",
+        "name_fr": "Trois-Rivières"
+    },
+    {
+        "number": 24077,
+        "name": "Ville-Marie--Le Sud-Ouest--Île-des-Soeurs",
+        "name_fr": "Ville-Marie--Le Sud-Ouest--Île-des-Soeurs"
+    },
+    {
+        "number": 24078,
+        "name": "Vimy",
+        "name_fr": "Vimy"
+    },
+    {
+        "number": 35001,
+        "name": "Ajax",
+        "name_fr": "Ajax"
+    },
+    {
+        "number": 35002,
+        "name": "Algoma--Manitoulin--Kapuskasing",
+        "name_fr": "Algoma--Manitoulin--Kapuskasing"
+    },
+    {
+        "number": 35003,
+        "name": "Aurora--Oak Ridges--Richmond Hill",
+        "name_fr": "Aurora--Oak Ridges--Richmond Hill"
+    },
+    {
+        "number": 35004,
+        "name": "Barrie--Innisfil",
+        "name_fr": "Barrie--Innisfil"
+    },
+    {
+        "number": 35005,
+        "name": "Barrie--Springwater--Oro-Medonte",
+        "name_fr": "Barrie--Springwater--Oro-Medonte"
+    },
+    {
+        "number": 35006,
+        "name": "Bay of Quinte",
+        "name_fr": "Baie de Quinte"
+    },
+    {
+        "number": 35007,
+        "name": "Beaches--East York",
+        "name_fr": "Beaches--East York"
+    },
+    {
+        "number": 35008,
+        "name": "Brampton Centre",
+        "name_fr": "Brampton-Centre"
+    },
+    {
+        "number": 35009,
+        "name": "Brampton East",
+        "name_fr": "Brampton-Est"
+    },
+    {
+        "number": 35010,
+        "name": "Brampton North",
+        "name_fr": "Brampton-Nord"
+    },
+    {
+        "number": 35011,
+        "name": "Brampton South",
+        "name_fr": "Brampton-Sud"
+    },
+    {
+        "number": 35012,
+        "name": "Brampton West",
+        "name_fr": "Brampton-Ouest"
+    },
+    {
+        "number": 35013,
+        "name": "Brantford--Brant",
+        "name_fr": "Brantford--Brant"
+    },
+    {
+        "number": 35014,
+        "name": "Bruce--Grey--Owen Sound",
+        "name_fr": "Bruce--Grey--Owen Sound"
+    },
+    {
+        "number": 35015,
+        "name": "Burlington",
+        "name_fr": "Burlington"
+    },
+    {
+        "number": 35016,
+        "name": "Cambridge",
+        "name_fr": "Cambridge"
+    },
+    {
+        "number": 35017,
+        "name": "Chatham-Kent--Leamington",
+        "name_fr": "Chatham-Kent--Leamington"
+    },
+    {
+        "number": 35018,
+        "name": "Davenport",
+        "name_fr": "Davenport"
+    },
+    {
+        "number": 35019,
+        "name": "Don Valley East",
+        "name_fr": "Don Valley-Est"
+    },
+    {
+        "number": 35020,
+        "name": "Don Valley North",
+        "name_fr": "Don Valley-Nord"
+    },
+    {
+        "number": 35021,
+        "name": "Don Valley West",
+        "name_fr": "Don Valley-Ouest"
+    },
+    {
+        "number": 35022,
+        "name": "Dufferin--Caledon",
+        "name_fr": "Dufferin--Caledon"
+    },
+    {
+        "number": 35023,
+        "name": "Durham",
+        "name_fr": "Durham"
+    },
+    {
+        "number": 35024,
+        "name": "Eglinton--Lawrence",
+        "name_fr": "Eglinton--Lawrence"
+    },
+    {
+        "number": 35025,
+        "name": "Elgin--Middlesex--London",
+        "name_fr": "Elgin--Middlesex--London"
+    },
+    {
+        "number": 35026,
+        "name": "Essex",
+        "name_fr": "Essex"
+    },
+    {
+        "number": 35027,
+        "name": "Etobicoke Centre",
+        "name_fr": "Etobicoke-Centre"
+    },
+    {
+        "number": 35028,
+        "name": "Etobicoke--Lakeshore",
+        "name_fr": "Etobicoke--Lakeshore"
+    },
+    {
+        "number": 35029,
+        "name": "Etobicoke North",
+        "name_fr": "Etobicoke-Nord"
+    },
+    {
+        "number": 35030,
+        "name": "Flamborough--Glanbrook",
+        "name_fr": "Flamborough--Glanbrook"
+    },
+    {
+        "number": 35031,
+        "name": "Glengarry--Prescott--Russell",
+        "name_fr": "Glengarry--Prescott--Russell"
+    },
+    {
+        "number": 35032,
+        "name": "Guelph",
+        "name_fr": "Guelph"
+    },
+    {
+        "number": 35033,
+        "name": "Haldimand--Norfolk",
+        "name_fr": "Haldimand--Norfolk"
+    },
+    {
+        "number": 35034,
+        "name": "Haliburton--Kawartha Lakes--Brock",
+        "name_fr": "Haliburton--Kawartha Lakes--Brock"
+    },
+    {
+        "number": 35035,
+        "name": "Hamilton Centre",
+        "name_fr": "Hamilton-Centre"
+    },
+    {
+        "number": 35036,
+        "name": "Hamilton East--Stoney Creek",
+        "name_fr": "Hamilton-Est--Stoney Creek"
+    },
+    {
+        "number": 35037,
+        "name": "Hamilton Mountain",
+        "name_fr": "Hamilton Mountain"
+    },
+    {
+        "number": 35038,
+        "name": "Hamilton West--Ancaster--Dundas",
+        "name_fr": "Hamilton-Ouest--Ancaster--Dundas"
+    },
+    {
+        "number": 35039,
+        "name": "Hastings--Lennox and Addington",
+        "name_fr": "Hastings--Lennox and Addington"
+    },
+    {
+        "number": 35040,
+        "name": "Huron--Bruce",
+        "name_fr": "Huron--Bruce"
+    },
+    {
+        "number": 35041,
+        "name": "Kanata--Carleton",
+        "name_fr": "Kanata--Carleton"
+    },
+    {
+        "number": 35042,
+        "name": "Kenora",
+        "name_fr": "Kenora"
+    },
+    {
+        "number": 35043,
+        "name": "King--Vaughan",
+        "name_fr": "King--Vaughan"
+    },
+    {
+        "number": 35044,
+        "name": "Kingston and the Islands",
+        "name_fr": "Kingston et les Îles"
+    },
+    {
+        "number": 35045,
+        "name": "Kitchener Centre",
+        "name_fr": "Kitchener-Centre"
+    },
+    {
+        "number": 35046,
+        "name": "Kitchener--Conestoga",
+        "name_fr": "Kitchener--Conestoga"
+    },
+    {
+        "number": 35047,
+        "name": "Kitchener South--Hespeler",
+        "name_fr": "Kitchener-Sud--Hespeler"
+    },
+    {
+        "number": 35048,
+        "name": "Lambton--Kent--Middlesex",
+        "name_fr": "Lambton--Kent--Middlesex"
+    },
+    {
+        "number": 35049,
+        "name": "Lanark--Frontenac--Kingston",
+        "name_fr": "Lanark--Frontenac--Kingston"
+    },
+    {
+        "number": 35050,
+        "name": "Leeds-Grenville-Thousand Islands and Rideau Lakes",
+        "name_fr": "Leeds-Grenville-Thousand Islands et Rideau Lakes"
+    },
+    {
+        "number": 35051,
+        "name": "London--Fanshawe",
+        "name_fr": "London--Fanshawe"
+    },
+    {
+        "number": 35052,
+        "name": "London North Centre",
+        "name_fr": "London-Centre-Nord"
+    },
+    {
+        "number": 35053,
+        "name": "London West",
+        "name_fr": "London-Ouest"
+    },
+    {
+        "number": 35054,
+        "name": "Markham--Stouffville",
+        "name_fr": "Markham--Stouffville"
+    },
+    {
+        "number": 35055,
+        "name": "Markham--Thornhill",
+        "name_fr": "Markham--Thornhill"
+    },
+    {
+        "number": 35056,
+        "name": "Markham--Unionville",
+        "name_fr": "Markham--Unionville"
+    },
+    {
+        "number": 35057,
+        "name": "Milton",
+        "name_fr": "Milton"
+    },
+    {
+        "number": 35058,
+        "name": "Mississauga Centre",
+        "name_fr": "Mississauga-Centre"
+    },
+    {
+        "number": 35059,
+        "name": "Mississauga East--Cooksville",
+        "name_fr": "Mississauga-Est--Cooksville"
+    },
+    {
+        "number": 35060,
+        "name": "Mississauga--Erin Mills",
+        "name_fr": "Mississauga--Erin Mills"
+    },
+    {
+        "number": 35061,
+        "name": "Mississauga--Lakeshore",
+        "name_fr": "Mississauga--Lakeshore"
+    },
+    {
+        "number": 35062,
+        "name": "Mississauga--Malton",
+        "name_fr": "Mississauga--Malton"
+    },
+    {
+        "number": 35063,
+        "name": "Mississauga--Streetsville",
+        "name_fr": "Mississauga--Streetsville"
+    },
+    {
+        "number": 35064,
+        "name": "Nepean",
+        "name_fr": "Nepean"
+    },
+    {
+        "number": 35065,
+        "name": "Newmarket--Aurora",
+        "name_fr": "Newmarket--Aurora"
+    },
+    {
+        "number": 35066,
+        "name": "Niagara Centre",
+        "name_fr": "Niagara-Centre"
+    },
+    {
+        "number": 35067,
+        "name": "Niagara Falls",
+        "name_fr": "Niagara Falls"
+    },
+    {
+        "number": 35068,
+        "name": "Niagara West",
+        "name_fr": "Niagara-Ouest"
+    },
+    {
+        "number": 35069,
+        "name": "Nickel Belt",
+        "name_fr": "Nickel Belt"
+    },
+    {
+        "number": 35070,
+        "name": "Nipissing--Timiskaming",
+        "name_fr": "Nipissing--Timiskaming"
+    },
+    {
+        "number": 35071,
+        "name": "Northumberland--Peterborough South",
+        "name_fr": "Northumberland--Peterborough-Sud"
+    },
+    {
+        "number": 35072,
+        "name": "Oakville",
+        "name_fr": "Oakville"
+    },
+    {
+        "number": 35073,
+        "name": "Oakville North--Burlington",
+        "name_fr": "Oakville-Nord--Burlington"
+    },
+    {
+        "number": 35074,
+        "name": "Oshawa",
+        "name_fr": "Oshawa"
+    },
+    {
+        "number": 35075,
+        "name": "Ottawa Centre",
+        "name_fr": "Ottawa-Centre"
+    },
+    {
+        "number": 35076,
+        "name": "Orléans",
+        "name_fr": "Orléans"
+    },
+    {
+        "number": 35077,
+        "name": "Ottawa South",
+        "name_fr": "Ottawa-Sud"
+    },
+    {
+        "number": 35078,
+        "name": "Ottawa--Vanier",
+        "name_fr": "Ottawa--Vanier"
+    },
+    {
+        "number": 35079,
+        "name": "Ottawa West--Nepean",
+        "name_fr": "Ottawa-Ouest--Nepean"
+    },
+    {
+        "number": 35080,
+        "name": "Oxford",
+        "name_fr": "Oxford"
+    },
+    {
+        "number": 35081,
+        "name": "Parkdale--High Park",
+        "name_fr": "Parkdale--High Park"
+    },
+    {
+        "number": 35082,
+        "name": "Parry Sound--Muskoka",
+        "name_fr": "Parry Sound--Muskoka"
+    },
+    {
+        "number": 35083,
+        "name": "Perth--Wellington",
+        "name_fr": "Perth--Wellington"
+    },
+    {
+        "number": 35084,
+        "name": "Peterborough--Kawartha",
+        "name_fr": "Peterborough--Kawartha"
+    },
+    {
+        "number": 35085,
+        "name": "Pickering--Uxbridge",
+        "name_fr": "Pickering--Uxbridge"
+    },
+    {
+        "number": 35086,
+        "name": "Renfrew--Nipissing--Pembroke",
+        "name_fr": "Renfrew--Nipissing--Pembroke"
+    },
+    {
+        "number": 35087,
+        "name": "Richmond Hill",
+        "name_fr": "Richmond Hill"
+    },
+    {
+        "number": 35088,
+        "name": "Carleton",
+        "name_fr": "Carleton"
+    },
+    {
+        "number": 35089,
+        "name": "St. Catharines",
+        "name_fr": "St. Catharines"
+    },
+    {
+        "number": 35090,
+        "name": "Toronto--St. Paul's",
+        "name_fr": "Toronto--St. Paul's"
+    },
+    {
+        "number": 35091,
+        "name": "Sarnia--Lambton",
+        "name_fr": "Sarnia--Lambton"
+    },
+    {
+        "number": 35092,
+        "name": "Sault Ste. Marie",
+        "name_fr": "Sault Ste. Marie"
+    },
+    {
+        "number": 35093,
+        "name": "Scarborough--Agincourt",
+        "name_fr": "Scarborough--Agincourt"
+    },
+    {
+        "number": 35094,
+        "name": "Scarborough Centre",
+        "name_fr": "Scarborough-Centre"
+    },
+    {
+        "number": 35095,
+        "name": "Scarborough--Guildwood",
+        "name_fr": "Scarborough--Guildwood"
+    },
+    {
+        "number": 35096,
+        "name": "Scarborough North",
+        "name_fr": "Scarborough-Nord"
+    },
+    {
+        "number": 35097,
+        "name": "Scarborough--Rouge Park",
+        "name_fr": "Scarborough--Rouge Park"
+    },
+    {
+        "number": 35098,
+        "name": "Scarborough Southwest",
+        "name_fr": "Scarborough-Sud-Ouest"
+    },
+    {
+        "number": 35099,
+        "name": "Simcoe--Grey",
+        "name_fr": "Simcoe--Grey"
+    },
+    {
+        "number": 35100,
+        "name": "Simcoe North",
+        "name_fr": "Simcoe-Nord"
+    },
+    {
+        "number": 35101,
+        "name": "Spadina--Fort York",
+        "name_fr": "Spadina--Fort York"
+    },
+    {
+        "number": 35102,
+        "name": "Stormont--Dundas--South Glengarry",
+        "name_fr": "Stormont--Dundas--South Glengarry"
+    },
+    {
+        "number": 35103,
+        "name": "Sudbury",
+        "name_fr": "Sudbury"
+    },
+    {
+        "number": 35104,
+        "name": "Thornhill",
+        "name_fr": "Thornhill"
+    },
+    {
+        "number": 35105,
+        "name": "Thunder Bay--Rainy River",
+        "name_fr": "Thunder Bay--Rainy River"
+    },
+    {
+        "number": 35106,
+        "name": "Thunder Bay--Superior North",
+        "name_fr": "Thunder Bay--Supérieur-Nord"
+    },
+    {
+        "number": 35107,
+        "name": "Timmins--James Bay",
+        "name_fr": "Timmins--Baie James"
+    },
+    {
+        "number": 35108,
+        "name": "Toronto Centre",
+        "name_fr": "Toronto-Centre"
+    },
+    {
+        "number": 35109,
+        "name": "Toronto--Danforth",
+        "name_fr": "Toronto--Danforth"
+    },
+    {
+        "number": 35110,
+        "name": "University--Rosedale",
+        "name_fr": "University--Rosedale"
+    },
+    {
+        "number": 35111,
+        "name": "Vaughan--Woodbridge",
+        "name_fr": "Vaughan--Woodbridge"
+    },
+    {
+        "number": 35112,
+        "name": "Waterloo",
+        "name_fr": "Waterloo"
+    },
+    {
+        "number": 35113,
+        "name": "Wellington--Halton Hills",
+        "name_fr": "Wellington--Halton Hills"
+    },
+    {
+        "number": 35114,
+        "name": "Whitby",
+        "name_fr": "Whitby"
+    },
+    {
+        "number": 35115,
+        "name": "Willowdale",
+        "name_fr": "Willowdale"
+    },
+    {
+        "number": 35116,
+        "name": "Windsor--Tecumseh",
+        "name_fr": "Windsor--Tecumseh"
+    },
+    {
+        "number": 35117,
+        "name": "Windsor West",
+        "name_fr": "Windsor-Ouest"
+    },
+    {
+        "number": 35118,
+        "name": "York Centre",
+        "name_fr": "York-Centre"
+    },
+    {
+        "number": 35119,
+        "name": "York--Simcoe",
+        "name_fr": "York--Simcoe"
+    },
+    {
+        "number": 35120,
+        "name": "York South--Weston",
+        "name_fr": "York-Sud--Weston"
+    },
+    {
+        "number": 35121,
+        "name": "Humber River--Black Creek",
+        "name_fr": "Humber River--Black Creek"
+    },
+    {
+        "number": 46001,
+        "name": "Brandon--Souris",
+        "name_fr": "Brandon--Souris"
+    },
+    {
+        "number": 46002,
+        "name": "Charleswood--St. James--Assiniboia--Headingley",
+        "name_fr": "Charleswood--St. James--Assiniboia--Headingley"
+    },
+    {
+        "number": 46003,
+        "name": "Churchill--Keewatinook Aski",
+        "name_fr": "Churchill--Keewatinook Aski"
+    },
+    {
+        "number": 46004,
+        "name": "Dauphin--Swan River--Neepawa",
+        "name_fr": "Dauphin--Swan River--Neepawa"
+    },
+    {
+        "number": 46005,
+        "name": "Elmwood--Transcona",
+        "name_fr": "Elmwood--Transcona"
+    },
+    {
+        "number": 46006,
+        "name": "Kildonan--St. Paul",
+        "name_fr": "Kildonan--St. Paul"
+    },
+    {
+        "number": 46007,
+        "name": "Portage--Lisgar",
+        "name_fr": "Portage--Lisgar"
+    },
+    {
+        "number": 46008,
+        "name": "Provencher",
+        "name_fr": "Provencher"
+    },
+    {
+        "number": 46009,
+        "name": "Saint Boniface--Saint Vital",
+        "name_fr": "Saint-Boniface--Saint-Vital"
+    },
+    {
+        "number": 46010,
+        "name": "Selkirk--Interlake--Eastman",
+        "name_fr": "Selkirk--Interlake--Eastman"
+    },
+    {
+        "number": 46011,
+        "name": "Winnipeg Centre",
+        "name_fr": "Winnipeg-Centre"
+    },
+    {
+        "number": 46012,
+        "name": "Winnipeg North",
+        "name_fr": "Winnipeg-Nord"
+    },
+    {
+        "number": 46013,
+        "name": "Winnipeg South",
+        "name_fr": "Winnipeg-Sud"
+    },
+    {
+        "number": 46014,
+        "name": "Winnipeg South Centre",
+        "name_fr": "Winnipeg-Centre-Sud"
+    },
+    {
+        "number": 47001,
+        "name": "Battlefords--Lloydminster",
+        "name_fr": "Battlefords--Lloydminster"
+    },
+    {
+        "number": 47002,
+        "name": "Cypress Hills--Grasslands",
+        "name_fr": "Cypress Hills--Grasslands"
+    },
+    {
+        "number": 47003,
+        "name": "Desnethé--Missinippi--Churchill River",
+        "name_fr": "Desnethé--Missinippi--Rivière Churchill"
+    },
+    {
+        "number": 47004,
+        "name": "Carlton Trail--Eagle Creek",
+        "name_fr": "Sentier Carlton--Eagle Creek"
+    },
+    {
+        "number": 47005,
+        "name": "Moose Jaw--Lake Centre--Lanigan",
+        "name_fr": "Moose Jaw--Lake Centre--Lanigan"
+    },
+    {
+        "number": 47006,
+        "name": "Prince Albert",
+        "name_fr": "Prince Albert"
+    },
+    {
+        "number": 47007,
+        "name": "Regina--Lewvan",
+        "name_fr": "Regina--Lewvan"
+    },
+    {
+        "number": 47008,
+        "name": "Regina--Qu'Appelle",
+        "name_fr": "Regina--Qu'Appelle"
+    },
+    {
+        "number": 47009,
+        "name": "Regina--Wascana",
+        "name_fr": "Regina--Wascana"
+    },
+    {
+        "number": 47010,
+        "name": "Saskatoon--Grasswood",
+        "name_fr": "Saskatoon--Grasswood"
+    },
+    {
+        "number": 47011,
+        "name": "Saskatoon--University",
+        "name_fr": "Saskatoon--University"
+    },
+    {
+        "number": 47012,
+        "name": "Saskatoon West",
+        "name_fr": "Saskatoon-Ouest"
+    },
+    {
+        "number": 47013,
+        "name": "Souris--Moose Mountain",
+        "name_fr": "Souris--Moose Mountain"
+    },
+    {
+        "number": 47014,
+        "name": "Yorkton--Melville",
+        "name_fr": "Yorkton--Melville"
+    },
+    {
+        "number": 48001,
+        "name": "Banff--Airdrie",
+        "name_fr": "Banff--Airdrie"
+    },
+    {
+        "number": 48002,
+        "name": "Battle River--Crowfoot",
+        "name_fr": "Battle River--Crowfoot"
+    },
+    {
+        "number": 48003,
+        "name": "Bow River",
+        "name_fr": "Bow River"
+    },
+    {
+        "number": 48004,
+        "name": "Calgary Centre",
+        "name_fr": "Calgary-Centre"
+    },
+    {
+        "number": 48005,
+        "name": "Calgary Confederation",
+        "name_fr": "Calgary Confederation"
+    },
+    {
+        "number": 48006,
+        "name": "Calgary Forest Lawn",
+        "name_fr": "Calgary Forest Lawn"
+    },
+    {
+        "number": 48007,
+        "name": "Calgary Heritage",
+        "name_fr": "Calgary Heritage"
+    },
+    {
+        "number": 48008,
+        "name": "Calgary Midnapore",
+        "name_fr": "Calgary Midnapore"
+    },
+    {
+        "number": 48009,
+        "name": "Calgary Nose Hill",
+        "name_fr": "Calgary Nose Hill"
+    },
+    {
+        "number": 48010,
+        "name": "Calgary Rocky Ridge",
+        "name_fr": "Calgary Rocky Ridge"
+    },
+    {
+        "number": 48011,
+        "name": "Calgary Shepard",
+        "name_fr": "Calgary Shepard"
+    },
+    {
+        "number": 48012,
+        "name": "Calgary Signal Hill",
+        "name_fr": "Calgary Signal Hill"
+    },
+    {
+        "number": 48013,
+        "name": "Calgary Skyview",
+        "name_fr": "Calgary Skyview"
+    },
+    {
+        "number": 48014,
+        "name": "Edmonton Centre",
+        "name_fr": "Edmonton-Centre"
+    },
+    {
+        "number": 48015,
+        "name": "Edmonton Griesbach",
+        "name_fr": "Edmonton Griesbach"
+    },
+    {
+        "number": 48016,
+        "name": "Edmonton Manning",
+        "name_fr": "Edmonton Manning"
+    },
+    {
+        "number": 48017,
+        "name": "Edmonton Mill Woods",
+        "name_fr": "Edmonton Mill Woods"
+    },
+    {
+        "number": 48018,
+        "name": "Edmonton Riverbend",
+        "name_fr": "Edmonton Riverbend"
+    },
+    {
+        "number": 48019,
+        "name": "Edmonton Strathcona",
+        "name_fr": "Edmonton Strathcona"
+    },
+    {
+        "number": 48020,
+        "name": "Edmonton West",
+        "name_fr": "Edmonton-Ouest"
+    },
+    {
+        "number": 48021,
+        "name": "Edmonton--Wetaskiwin",
+        "name_fr": "Edmonton--Wetaskiwin"
+    },
+    {
+        "number": 48022,
+        "name": "Foothills",
+        "name_fr": "Foothills"
+    },
+    {
+        "number": 48023,
+        "name": "Fort McMurray--Cold Lake",
+        "name_fr": "Fort McMurray--Cold Lake"
+    },
+    {
+        "number": 48024,
+        "name": "Grande Prairie--Mackenzie",
+        "name_fr": "Grande Prairie--Mackenzie"
+    },
+    {
+        "number": 48025,
+        "name": "Lakeland",
+        "name_fr": "Lakeland"
+    },
+    {
+        "number": 48026,
+        "name": "Lethbridge",
+        "name_fr": "Lethbridge"
+    },
+    {
+        "number": 48027,
+        "name": "Medicine Hat--Cardston--Warner",
+        "name_fr": "Medicine Hat--Cardston--Warner"
+    },
+    {
+        "number": 48028,
+        "name": "Peace River--Westlock",
+        "name_fr": "Peace River--Westlock"
+    },
+    {
+        "number": 48029,
+        "name": "Red Deer--Mountain View",
+        "name_fr": "Red Deer--Mountain View"
+    },
+    {
+        "number": 48030,
+        "name": "Red Deer--Lacombe",
+        "name_fr": "Red Deer--Lacombe"
+    },
+    {
+        "number": 48031,
+        "name": "St. Albert--Edmonton",
+        "name_fr": "St. Albert--Edmonton"
+    },
+    {
+        "number": 48032,
+        "name": "Sherwood Park--Fort Saskatchewan",
+        "name_fr": "Sherwood Park--Fort Saskatchewan"
+    },
+    {
+        "number": 48033,
+        "name": "Sturgeon River--Parkland",
+        "name_fr": "Sturgeon River--Parkland"
+    },
+    {
+        "number": 48034,
+        "name": "Yellowhead",
+        "name_fr": "Yellowhead"
+    },
+    {
+        "number": 59001,
+        "name": "Abbotsford",
+        "name_fr": "Abbotsford"
+    },
+    {
+        "number": 59002,
+        "name": "Burnaby North--Seymour",
+        "name_fr": "Burnaby-Nord--Seymour"
+    },
+    {
+        "number": 59003,
+        "name": "Burnaby South",
+        "name_fr": "Burnaby-Sud"
+    },
+    {
+        "number": 59004,
+        "name": "Cariboo--Prince George",
+        "name_fr": "Cariboo--Prince George"
+    },
+    {
+        "number": 59005,
+        "name": "Central Okanagan--Similkameen--Nicola",
+        "name_fr": "Central Okanagan--Similkameen--Nicola"
+    },
+    {
+        "number": 59006,
+        "name": "Chilliwack--Hope",
+        "name_fr": "Chilliwack--Hope"
+    },
+    {
+        "number": 59007,
+        "name": "Cloverdale--Langley City",
+        "name_fr": "Cloverdale--Langley City"
+    },
+    {
+        "number": 59008,
+        "name": "Coquitlam--Port Coquitlam",
+        "name_fr": "Coquitlam--Port Coquitlam"
+    },
+    {
+        "number": 59009,
+        "name": "Courtenay--Alberni",
+        "name_fr": "Courtenay--Alberni"
+    },
+    {
+        "number": 59010,
+        "name": "Cowichan--Malahat--Langford",
+        "name_fr": "Cowichan--Malahat--Langford"
+    },
+    {
+        "number": 59011,
+        "name": "Delta",
+        "name_fr": "Delta"
+    },
+    {
+        "number": 59012,
+        "name": "Fleetwood--Port Kells",
+        "name_fr": "Fleetwood--Port Kells"
+    },
+    {
+        "number": 59013,
+        "name": "Kamloops--Thompson--Cariboo",
+        "name_fr": "Kamloops--Thompson--Cariboo"
+    },
+    {
+        "number": 59014,
+        "name": "Kelowna--Lake Country",
+        "name_fr": "Kelowna--Lake Country"
+    },
+    {
+        "number": 59015,
+        "name": "Kootenay--Columbia",
+        "name_fr": "Kootenay--Columbia"
+    },
+    {
+        "number": 59016,
+        "name": "Langley--Aldergrove",
+        "name_fr": "Langley--Aldergrove"
+    },
+    {
+        "number": 59017,
+        "name": "Mission--Matsqui--Fraser Canyon",
+        "name_fr": "Mission--Matsqui--Fraser Canyon"
+    },
+    {
+        "number": 59018,
+        "name": "Nanaimo--Ladysmith",
+        "name_fr": "Nanaimo--Ladysmith"
+    },
+    {
+        "number": 59019,
+        "name": "New Westminster--Burnaby",
+        "name_fr": "New Westminster--Burnaby"
+    },
+    {
+        "number": 59020,
+        "name": "North Okanagan--Shuswap",
+        "name_fr": "North Okanagan--Shuswap"
+    },
+    {
+        "number": 59021,
+        "name": "North Vancouver",
+        "name_fr": "North Vancouver"
+    },
+    {
+        "number": 59022,
+        "name": "Pitt Meadows--Maple Ridge",
+        "name_fr": "Pitt Meadows--Maple Ridge"
+    },
+    {
+        "number": 59023,
+        "name": "Port Moody--Coquitlam",
+        "name_fr": "Port Moody--Coquitlam"
+    },
+    {
+        "number": 59024,
+        "name": "Prince George--Peace River--Northern Rockies",
+        "name_fr": "Prince George--Peace River--Northern Rockies"
+    },
+    {
+        "number": 59025,
+        "name": "Richmond Centre",
+        "name_fr": "Richmond-Centre"
+    },
+    {
+        "number": 59026,
+        "name": "Esquimalt--Saanich--Sooke",
+        "name_fr": "Esquimalt--Saanich--Sooke"
+    },
+    {
+        "number": 59027,
+        "name": "Saanich--Gulf Islands",
+        "name_fr": "Saanich--Gulf Islands"
+    },
+    {
+        "number": 59028,
+        "name": "Skeena--Bulkley Valley",
+        "name_fr": "Skeena--Bulkley Valley"
+    },
+    {
+        "number": 59029,
+        "name": "South Okanagan--West Kootenay",
+        "name_fr": "Okanagan-Sud--Kootenay-Ouest"
+    },
+    {
+        "number": 59030,
+        "name": "South Surrey--White Rock",
+        "name_fr": "Surrey-Sud--White Rock"
+    },
+    {
+        "number": 59031,
+        "name": "Steveston--Richmond East",
+        "name_fr": "Steveston--Richmond-Est"
+    },
+    {
+        "number": 59032,
+        "name": "Surrey Centre",
+        "name_fr": "Surrey-Centre"
+    },
+    {
+        "number": 59033,
+        "name": "Surrey--Newton",
+        "name_fr": "Surrey--Newton"
+    },
+    {
+        "number": 59034,
+        "name": "Vancouver Centre",
+        "name_fr": "Vancouver-Centre"
+    },
+    {
+        "number": 59035,
+        "name": "Vancouver East",
+        "name_fr": "Vancouver-Est"
+    },
+    {
+        "number": 59036,
+        "name": "Vancouver Granville",
+        "name_fr": "Vancouver Granville"
+    },
+    {
+        "number": 59037,
+        "name": "North Island--Powell River",
+        "name_fr": "North Island--Powell River"
+    },
+    {
+        "number": 59038,
+        "name": "Vancouver Kingsway",
+        "name_fr": "Vancouver Kingsway"
+    },
+    {
+        "number": 59039,
+        "name": "Vancouver Quadra",
+        "name_fr": "Vancouver Quadra"
+    },
+    {
+        "number": 59040,
+        "name": "Vancouver South",
+        "name_fr": "Vancouver-Sud"
+    },
+    {
+        "number": 59041,
+        "name": "Victoria",
+        "name_fr": "Victoria"
+    },
+    {
+        "number": 59042,
+        "name": "West Vancouver--Sunshine Coast--Sea to Sky Country",
+        "name_fr": "West Vancouver--Sunshine Coast--Sea to Sky Country"
+    },
+    {
+        "number": 60001,
+        "name": "Yukon",
+        "name_fr": "Yukon"
+    },
+    {
+        "number": 61001,
+        "name": "Northwest Territories",
+        "name_fr": "Territoires du Nord-Ouest"
+    },
+    {
+        "number": 62001,
+        "name": "Nunavut",
+        "name_fr": "Nunavut"
+    }
+]

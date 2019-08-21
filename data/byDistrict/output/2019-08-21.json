@@ -1,0 +1,3385 @@
+{
+  "districts": {
+    "10001": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "10002": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "10003": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "10004": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "10005": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "10006": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "10007": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "11001": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "11002": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "11003": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "11004": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "12001": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "12002": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "12003": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "12004": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "12005": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "12006": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "12007": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "12008": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": null,
+        "confidence": 0
+      }
+    },
+    "12009": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "12010": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "12011": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "13001": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "13002": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "13003": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "13004": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "13005": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "13006": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "13007": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "13008": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "13009": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "13010": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "24001": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24002": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24003": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24004": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24005": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24006": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24007": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "24008": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "24009": {
+      "threethirtyeight": {
+        "party": "bq",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "bq",
+        "confidence": 1
+      }
+    },
+    "24010": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "24011": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "24012": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "ndp",
+        "confidence": 0.5
+      }
+    },
+    "24013": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "24014": {
+      "threethirtyeight": {
+        "party": "bq",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": null,
+        "confidence": 0
+      }
+    },
+    "24015": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24016": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24017": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24018": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": null,
+        "confidence": 0
+      }
+    },
+    "24019": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "24020": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "24021": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24022": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24023": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24024": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24025": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "24026": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24027": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24028": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "24029": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24030": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24031": {
+      "threethirtyeight": {
+        "party": "bq",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "bq",
+        "confidence": 0.5
+      }
+    },
+    "24032": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "24033": {
+      "threethirtyeight": {
+        "party": "bq",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "bq",
+        "confidence": 0.5
+      }
+    },
+    "24034": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24035": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "24036": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24037": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24038": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "24039": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "bq",
+        "confidence": 0.5
+      }
+    },
+    "24040": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24041": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24042": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "24043": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "24044": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "24045": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "24046": {
+      "threethirtyeight": {
+        "party": "bq",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "bq",
+        "confidence": 1
+      }
+    },
+    "24047": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "24048": {
+      "threethirtyeight": {
+        "party": "bq",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "bq",
+        "confidence": 0.5
+      }
+    },
+    "24049": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "24050": {
+      "threethirtyeight": {
+        "party": "bq",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "bq",
+        "confidence": 1
+      }
+    },
+    "24051": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "24052": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24053": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24054": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24055": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24056": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24057": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24058": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "24059": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": null,
+        "confidence": 0
+      }
+    },
+    "24060": {
+      "threethirtyeight": {
+        "party": "bq",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "bq",
+        "confidence": 1
+      }
+    },
+    "24061": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "24062": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24063": {
+      "threethirtyeight": {
+        "party": "bq",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "bq",
+        "confidence": 0.5
+      }
+    },
+    "24064": {
+      "threethirtyeight": {
+        "party": "ndp",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "ndp",
+        "confidence": 1
+      }
+    },
+    "24065": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24066": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "24067": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24068": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24069": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24070": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24071": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "24072": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24073": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24074": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24075": {
+      "threethirtyeight": {
+        "party": "bq",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "bq",
+        "confidence": 0.5
+      }
+    },
+    "24076": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "24077": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "24078": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35001": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35002": {
+      "threethirtyeight": {
+        "party": "ndp",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "ndp",
+        "confidence": 1
+      }
+    },
+    "35003": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "35004": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35005": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35006": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35007": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35008": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35009": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35010": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35011": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35012": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35013": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35014": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35015": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "35016": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": null,
+        "confidence": 0
+      }
+    },
+    "35017": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35018": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "ndp",
+        "confidence": 0.5
+      }
+    },
+    "35019": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35020": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35021": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35022": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35023": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35024": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": null,
+        "confidence": 0
+      }
+    },
+    "35025": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35026": {
+      "threethirtyeight": {
+        "party": "ndp",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "ndp",
+        "confidence": 0.5
+      }
+    },
+    "35027": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35028": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35029": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35030": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35031": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35032": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35033": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35034": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35035": {
+      "threethirtyeight": {
+        "party": "ndp",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "ndp",
+        "confidence": 1
+      }
+    },
+    "35036": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "35037": {
+      "threethirtyeight": {
+        "party": "ndp",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "ndp",
+        "confidence": 1
+      }
+    },
+    "35038": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35039": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "35040": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35041": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35042": {
+      "threethirtyeight": {
+        "party": "ndp",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "ndp",
+        "confidence": 0.5
+      }
+    },
+    "35043": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "35044": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35045": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35046": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35047": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "35048": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35049": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35050": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35051": {
+      "threethirtyeight": {
+        "party": "ndp",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "ndp",
+        "confidence": 1
+      }
+    },
+    "35052": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35053": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "35054": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "35055": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35056": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35057": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35058": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35059": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35060": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "35061": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "35062": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35063": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": null,
+        "confidence": 0
+      }
+    },
+    "35064": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35065": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "35066": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": null,
+        "confidence": 0
+      }
+    },
+    "35067": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35068": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35069": {
+      "threethirtyeight": {
+        "party": "ndp",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": null,
+        "confidence": 0
+      }
+    },
+    "35070": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35071": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "35072": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "35073": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "35074": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "35075": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "35076": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35077": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35078": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35079": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35080": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35081": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": null,
+        "confidence": 0
+      }
+    },
+    "35082": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35083": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35084": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "35085": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35086": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35087": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "35088": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35089": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": null,
+        "confidence": 0
+      }
+    },
+    "35090": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35091": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35092": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35093": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35094": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35095": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35096": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35097": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35098": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35099": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35100": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35101": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35102": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35103": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35104": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35105": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35106": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "35107": {
+      "threethirtyeight": {
+        "party": "ndp",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "ndp",
+        "confidence": 1
+      }
+    },
+    "35108": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35109": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "ndp",
+        "confidence": 0.5
+      }
+    },
+    "35110": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35111": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": null,
+        "confidence": 0
+      }
+    },
+    "35112": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35113": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35114": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "35115": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35116": {
+      "threethirtyeight": {
+        "party": "ndp",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "ndp",
+        "confidence": 1
+      }
+    },
+    "35117": {
+      "threethirtyeight": {
+        "party": "ndp",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "ndp",
+        "confidence": 1
+      }
+    },
+    "35118": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "35119": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "35120": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "35121": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "46001": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "46002": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "46003": {
+      "threethirtyeight": {
+        "party": "ndp",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "ndp",
+        "confidence": 1
+      }
+    },
+    "46004": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "46005": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "46006": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "46007": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "46008": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "46009": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "46010": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "46011": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "46012": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "46013": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "46014": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "47001": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "47002": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "47003": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "47004": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "47005": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "47006": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "47007": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "47008": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "47009": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "47010": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "47011": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "47012": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "47013": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "47014": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48001": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48002": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48003": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48004": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "48005": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48006": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48007": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48008": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48009": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48010": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48011": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48012": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48013": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "48014": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "48015": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48016": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48017": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "48018": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48019": {
+      "threethirtyeight": {
+        "party": "ndp",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "ndp",
+        "confidence": 1
+      }
+    },
+    "48020": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48021": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48022": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48023": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48024": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48025": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48026": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48027": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48028": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48029": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48030": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48031": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48032": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48033": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "48034": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "59001": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "59002": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": null,
+        "confidence": 0
+      }
+    },
+    "59003": {
+      "threethirtyeight": {
+        "party": "ndp",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": null,
+        "confidence": 0
+      }
+    },
+    "59004": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "59005": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "59006": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "59007": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "59008": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "59009": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "ndp",
+        "confidence": 0.5
+      }
+    },
+    "59010": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": null,
+        "confidence": 0
+      }
+    },
+    "59011": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "59012": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "59013": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "59014": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "59015": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "59016": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "59017": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "59018": {
+      "threethirtyeight": {
+        "party": "gpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "gpc",
+        "confidence": 1
+      }
+    },
+    "59019": {
+      "threethirtyeight": {
+        "party": "ndp",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "ndp",
+        "confidence": 1
+      }
+    },
+    "59020": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "59021": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "59022": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "59023": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "59024": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "59025": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "59026": {
+      "threethirtyeight": {
+        "party": "gpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "gpc",
+        "confidence": 0.5
+      }
+    },
+    "59027": {
+      "threethirtyeight": {
+        "party": "gpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "gpc",
+        "confidence": 1
+      }
+    },
+    "59028": {
+      "threethirtyeight": {
+        "party": "ndp",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "ndp",
+        "confidence": 1
+      }
+    },
+    "59029": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "59030": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    },
+    "59031": {
+      "threethirtyeight": {
+        "party": "cpc",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 0.5
+      }
+    },
+    "59032": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "59033": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "59034": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "59035": {
+      "threethirtyeight": {
+        "party": "ndp",
+        "confidence": 0.5
+      },
+      "calculatedPolitics": {
+        "party": "ndp",
+        "confidence": 1
+      }
+    },
+    "59036": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "59037": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "ndp",
+        "confidence": 0.5
+      }
+    },
+    "59038": {
+      "threethirtyeight": {
+        "party": "ndp",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "ndp",
+        "confidence": 1
+      }
+    },
+    "59039": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "59040": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "59041": {
+      "threethirtyeight": {
+        "party": "gpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "gpc",
+        "confidence": 1
+      }
+    },
+    "59042": {
+      "threethirtyeight": {
+        "party": "lpc",
+        "confidence": 1
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 1
+      }
+    },
+    "60001": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": null,
+        "confidence": 0
+      }
+    },
+    "61001": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "lpc",
+        "confidence": 0.5
+      }
+    },
+    "62001": {
+      "threethirtyeight": {
+        "party": null,
+        "confidence": 0
+      },
+      "calculatedPolitics": {
+        "party": "cpc",
+        "confidence": 1
+      }
+    }
+  },
+  "valid": true
+}
