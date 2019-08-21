@@ -2,7 +2,7 @@
   "name": "politics-data-module",
   "version": "1.0.0",
   "description": "",
-  "main": "scraper.js",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
