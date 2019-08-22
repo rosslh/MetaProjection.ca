@@ -79,7 +79,16 @@ const IndexPage = () => (
                 <span>Party</span>
               </th>
               <th>
-                <span>Seats</span>
+                <span>
+                  Seats{" "}
+                  <span
+                    css={css`
+                      font-weight: normal;
+                    `}
+                  >
+                    (out of 338)
+                  </span>
+                </span>
               </th>
             </tr>
           </thead>
@@ -88,7 +97,7 @@ const IndexPage = () => (
               .sort((a, b) => b.avg - a.avg)
               .map(party => addPartyDetails(party))
               .map(party => (
-                <tr>
+                <tr key={party.name}>
                   <td
                     css={css`
                       width: 4rem;
@@ -116,7 +125,7 @@ const IndexPage = () => (
                       `}
                     >
                       <Popup
-                        pinned
+                        hoverable
                         content={
                           <FederalDetailPopup
                             data={party.projections}
