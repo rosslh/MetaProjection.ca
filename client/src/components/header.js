@@ -1,6 +1,6 @@
-import { Link } from "gatsby"
-import React from "react"
-import { css } from "@emotion/core"
+import { Link } from "gatsby";
+import React from "react";
+import { css } from "@emotion/core";
 
 const Header = () => (
   <header
@@ -10,9 +10,11 @@ const Header = () => (
       margin-bottom: 1rem;
     `}
   >
-    <span>Logo</span>
-    <Link to="/about">About</Link>
+    <div className="contentWrapper">
+      <span>Logo</span>
+      <Link to="/about">About</Link>
+    </div>
   </header>
-)
+);
 
-export default Header
+export default Header;

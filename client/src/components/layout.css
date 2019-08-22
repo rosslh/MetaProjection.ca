@@ -1,3 +1,9 @@
+.contentWrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
