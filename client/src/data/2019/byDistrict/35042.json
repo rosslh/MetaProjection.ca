@@ -1,0 +1,19 @@
+{
+  "number": 35042,
+  "projections": {
+    "threethirtyeight": {
+      "party": "ndp",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "ndp",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "ndp",
+      "score": 0.5
+    }
+  ]
+}

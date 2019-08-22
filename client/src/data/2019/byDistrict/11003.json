@@ -1,0 +1,23 @@
+{
+  "number": 11003,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.25
+    },
+    {
+      "party": "lpc",
+      "score": 0.5
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "number": 24014,
+  "projections": {
+    "threethirtyeight": {
+      "party": "bq",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": null,
+      "confidence": 0
+    }
+  },
+  "scores": [
+    {
+      "party": "bq",
+      "score": 0.5
+    }
+  ]
+}

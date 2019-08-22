@@ -1,0 +1,19 @@
+{
+  "number": 59018,
+  "projections": {
+    "threethirtyeight": {
+      "party": "gpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "gpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "gpc",
+      "score": 1
+    }
+  ]
+}

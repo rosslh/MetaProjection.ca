@@ -205,6 +205,10 @@ function validateOutput() {
   output.valid = true; // TODO: add actual checks here and cause build to fail if not valid
 }
 
+function sort() {
+  output.parties = output.parties.sort((a, b) => b.avg - a.avg);
+}
+
 function saveToFile() {
   var fs = require("fs");
   const date = new Date().toISOString().substring(0, 10);
@@ -223,6 +227,7 @@ Promise.all([
   getCdnElectionWatch(),
 ]).then(() => {
   getAverages();
+  sort();
   validateOutput();
   saveToFile();
 });
