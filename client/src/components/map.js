@@ -6,11 +6,10 @@ const Map = ({ selectedDistrict }) => (
   <div
     css={css`
       height: 200px;
-      background-color: #e3e9f0;
+      background-color: #aaa;
+      margin-bottom: 1.5rem;
     `}
-  >
-    Map...
-  </div>
+  />
 );
 
 Map.propTypes = {

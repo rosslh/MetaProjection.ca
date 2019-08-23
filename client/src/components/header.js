@@ -5,9 +5,9 @@ import { css } from "@emotion/core";
 const Header = () => (
   <header
     css={css`
-      height: 2rem;
       width: 100%;
-      margin-bottom: 1rem;
+      background-color: white;
+      padding: 1rem 0;
     `}
   >
     <div className="contentWrapper">

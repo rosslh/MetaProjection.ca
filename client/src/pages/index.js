@@ -41,7 +41,6 @@ const IndexPage = () => (
         <p
           css={css`
             font-size: 0.9rem;
-            color: #666;
           `}
         >
           Aggregated from{" "}
@@ -58,36 +57,19 @@ const IndexPage = () => (
           </a>
           , and <a href={projections["cbc"].url}>{projections["cbc"].name}</a>
         </p>
-        <table
-          css={css`
-            max-width: 800px;
-          `}
-        >
+        <table>
           <thead>
-            <tr
-              css={css`
-                th > span {
-                  font-size: 0.95rem;
-                  border-bottom: 1px solid #ccc;
-                  padding-bottom: 0.2rem;
-                  padding-right: 1rem;
-                }
-              `}
-            >
+            <tr>
               <th></th>
+              <th>Party</th>
               <th>
-                <span>Party</span>
-              </th>
-              <th>
-                <span>
-                  Seats{" "}
-                  <span
-                    css={css`
-                      font-weight: normal;
-                    `}
-                  >
-                    (out of 338)
-                  </span>
+                Seats{" "}
+                <span
+                  css={css`
+                    font-weight: normal;
+                  `}
+                >
+                  (out of 338)
                 </span>
               </th>
             </tr>
@@ -113,7 +95,7 @@ const IndexPage = () => (
                       font-weight: bold;
                       display: flex;
                       justify-content: space-between;
-                      width: 5rem;
+                      width: 6rem;
                     `}
                   >
                     <span>{Math.round(party.avg)}</span>

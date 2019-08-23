@@ -4,7 +4,25 @@
   padding: 0 5%;
 }
 
+table {
+  background-color: white;
+  border-radius: 4px;
+}
+
+table tbody {
+  border: 1px solid #eee;
+}
+
+table thead {
+  background-color: #fafafa;
+}
+
 td,
 th {
   border: none;
+  padding: 0.75rem 1rem !important;
+}
+
+th {
+  font-size: 0.95rem;
 }

@@ -24,8 +24,13 @@ function FederalDetailPopup(props) {
         css={css`
           margin-bottom: 0.5rem;
           td {
-            padding-top: 0.2rem;
-            padding-bottom: 0.2rem;
+            padding: 0.2rem 0 !important;
+          }
+          td:first-child {
+            padding-right: 0.5rem !important;
+          }
+          tbody {
+            border: none;
           }
         `}
       >

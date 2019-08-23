@@ -27,7 +27,11 @@ const Layout = ({ noMap, children }) => {
   `);
 
   return (
-    <>
+    <div
+      css={css`
+        background-color: #fafafa;
+      `}
+    >
       <Header siteTitle={data.site.siteMetadata.title} />
       {noMap ? "" : <Map />}
       <div
@@ -39,7 +43,7 @@ const Layout = ({ noMap, children }) => {
         {children}
       </div>
       <Footer />
-    </>
+    </div>
   );
 };
 

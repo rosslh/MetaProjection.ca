@@ -5,9 +5,10 @@ const Header = () => (
   <footer
     css={css`
       width: 100%;
-      margin-top: 1rem;
+      margin-top: 4rem;
       border-top: 1px solid #eee;
       padding: 1rem;
+      background-color: white;
     `}
   >
     <div className="contentWrapper">
