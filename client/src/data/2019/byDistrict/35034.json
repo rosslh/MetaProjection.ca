@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Haliburton--Kawartha Lakes--Brock",
+  "position": {
+    "y": -78.65939247286035,
+    "x": 44.82775736567029
+  }
 }

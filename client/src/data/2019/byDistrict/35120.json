@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "York South--Weston",
+  "position": {
+    "y": -79.49334009773969,
+    "x": 43.69493941490788
+  }
 }

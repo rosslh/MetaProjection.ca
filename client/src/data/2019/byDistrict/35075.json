@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Ottawa Centre",
+  "position": {
+    "y": -75.71901236571802,
+    "x": 45.39511717193907
+  }
 }

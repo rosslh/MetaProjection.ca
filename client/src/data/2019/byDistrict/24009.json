@@ -15,5 +15,14 @@
       "party": "bq",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "bq",
+    "score": 1
+  },
+  "name": "Bécancour--Nicolet--Saurel",
+  "position": {
+    "y": -72.51383426462466,
+    "x": 46.192233745557665
+  }
 }

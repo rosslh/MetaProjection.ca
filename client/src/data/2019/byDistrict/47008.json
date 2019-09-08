@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Regina--Qu'Appelle",
+  "position": {
+    "y": -103.93913853080853,
+    "x": 51.06482899004968
+  }
 }

@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Ahuntsic-Cartierville",
+  "position": {
+    "y": -73.68321297500326,
+    "x": 45.541153157960174
+  }
 }

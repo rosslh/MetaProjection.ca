@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Carleton",
+  "position": {
+    "y": -75.70685800998073,
+    "x": 45.17448859842876
+  }
 }

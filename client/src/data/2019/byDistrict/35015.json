@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 0.25
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Burlington",
+  "position": {
+    "y": -79.81778352499309,
+    "x": 43.33949034481203
+  }
 }

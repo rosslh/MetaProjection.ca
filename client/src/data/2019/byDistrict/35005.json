@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Barrie--Springwater--Oro-Medonte",
+  "position": {
+    "y": -79.74196766600005,
+    "x": 44.50702307783577
+  }
 }

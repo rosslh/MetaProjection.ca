@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Honoré-Mercier",
+  "position": {
+    "y": -73.56484693340842,
+    "x": 45.63929036255715
+  }
 }

@@ -6,14 +6,18 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "lpc",
+      "party": null,
       "confidence": 1
     }
   },
-  "scores": [
-    {
-      "party": "lpc",
-      "score": 0.5
-    }
-  ]
+  "scores": [],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Vancouver Granville",
+  "position": {
+    "y": -123.12998397844109,
+    "x": 49.238010552201985
+  }
 }

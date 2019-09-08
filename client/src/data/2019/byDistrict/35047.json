@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 0.25
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Kitchener South--Hespeler",
+  "position": {
+    "y": -80.40122584444705,
+    "x": 43.41621946250679
+  }
 }

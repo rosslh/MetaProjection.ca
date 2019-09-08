@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Saint-Laurent",
+  "position": {
+    "y": -73.71263227469605,
+    "x": 45.49833681787497
+  }
 }

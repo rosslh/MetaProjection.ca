@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Grande Prairie--Mackenzie",
+  "position": {
+    "y": -118.13056487792812,
+    "x": 57.77706881500357
+  }
 }

@@ -2,8 +2,8 @@
   "number": 35042,
   "projections": {
     "threethirtyeight": {
-      "party": "ndp",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
       "party": "ndp",
@@ -13,7 +13,16 @@
   "scores": [
     {
       "party": "ndp",
-      "score": 0.5
+      "score": 0.25
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Kenora",
+  "position": {
+    "y": -90.78817461226316,
+    "x": 52.729742622491145
+  }
 }

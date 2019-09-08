@@ -6,9 +6,23 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 0.5
     }
   },
-  "scores": []
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Vaughan--Woodbridge",
+  "position": {
+    "y": -79.60119414546486,
+    "x": 43.798603161389984
+  }
 }

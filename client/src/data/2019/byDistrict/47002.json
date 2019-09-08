@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Cypress Hills--Grasslands",
+  "position": {
+    "y": -108.00919287692646,
+    "x": 50.15864447497103
+  }
 }

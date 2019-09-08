@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "lpc",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,7 +13,16 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 0.75
+      "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "St. John's East",
+  "position": {
+    "y": -52.86310171158402,
+    "x": 47.68916020750526
+  }
 }

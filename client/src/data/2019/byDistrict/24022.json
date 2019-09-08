@@ -19,5 +19,14 @@
       "party": "lpc",
       "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Chicoutimi--Le Fjord",
+  "position": {
+    "y": -70.54552644312804,
+    "x": 48.203482392931704
+  }
 }

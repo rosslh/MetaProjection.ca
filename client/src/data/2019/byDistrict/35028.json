@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Etobicoke--Lakeshore",
+  "position": {
+    "y": -79.5181087185738,
+    "x": 43.614895483965604
+  }
 }

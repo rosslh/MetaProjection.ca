@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Longueuil--Charles-LeMoyne",
+  "position": {
+    "y": -73.44948749036281,
+    "x": 45.48878125545596
+  }
 }

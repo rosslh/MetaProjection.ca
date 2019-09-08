@@ -15,5 +15,14 @@
       "party": "ndp",
       "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "ndp",
+    "score": 0.75
+  },
+  "name": "New Westminster--Burnaby",
+  "position": {
+    "y": -122.92411394629363,
+    "x": 49.21555536812083
+  }
 }

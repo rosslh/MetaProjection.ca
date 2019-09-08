@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Ajax",
+  "position": {
+    "y": -79.0275655471477,
+    "x": 43.86907018953491
+  }
 }

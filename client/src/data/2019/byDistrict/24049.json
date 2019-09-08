@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Montarville",
+  "position": {
+    "y": -73.32756234956679,
+    "x": 45.54416275061752
+  }
 }

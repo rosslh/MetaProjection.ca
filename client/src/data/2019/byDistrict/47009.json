@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Regina--Wascana",
+  "position": {
+    "y": -104.55101246319751,
+    "x": 50.42669315769878
+  }
 }

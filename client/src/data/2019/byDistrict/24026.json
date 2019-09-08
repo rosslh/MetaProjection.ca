@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Gaspésie--Les Îles-de-la-Madeleine",
+  "position": {
+    "y": -65.10366205215311,
+    "x": 48.60765085835063
+  }
 }

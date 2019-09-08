@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Ottawa West--Nepean",
+  "position": {
+    "y": -75.82748084236076,
+    "x": 45.361415570000055
+  }
 }

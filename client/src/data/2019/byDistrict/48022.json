@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Foothills",
+  "position": {
+    "y": -114.16698799353472,
+    "x": 50.134582701136694
+  }
 }

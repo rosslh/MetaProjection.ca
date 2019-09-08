@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Yellowhead",
+  "position": {
+    "y": -116.93805130087398,
+    "x": 53.23533220176519
+  }
 }

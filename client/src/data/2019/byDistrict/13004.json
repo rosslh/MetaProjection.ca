@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Fundy Royal",
+  "position": {
+    "y": -65.3352401669624,
+    "x": 45.77802345125855
+  }
 }

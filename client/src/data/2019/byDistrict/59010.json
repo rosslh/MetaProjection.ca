@@ -6,9 +6,23 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": null,
-      "confidence": 0
+      "party": "ndp",
+      "confidence": 0.5
     }
   },
-  "scores": []
+  "scores": [
+    {
+      "party": "ndp",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Cowichan--Malahat--Langford",
+  "position": {
+    "y": -124.1313809410273,
+    "x": 48.69136155727462
+  }
 }

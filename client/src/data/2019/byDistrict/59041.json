@@ -3,17 +3,30 @@
   "projections": {
     "threethirtyeight": {
       "party": "gpc",
-      "confidence": 1
+      "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "gpc",
-      "confidence": 1
+      "party": "ndp",
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "gpc",
-      "score": 1
+      "score": 0.25
+    },
+    {
+      "party": "ndp",
+      "score": 0.25
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Victoria",
+  "position": {
+    "y": -123.28560467183836,
+    "x": 48.37388548892962
+  }
 }

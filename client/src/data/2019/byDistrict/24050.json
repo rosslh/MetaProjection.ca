@@ -15,5 +15,14 @@
       "party": "bq",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "bq",
+    "score": 1
+  },
+  "name": "Montcalm",
+  "position": {
+    "y": -73.67940777380845,
+    "x": 45.90023992745129
+  }
 }

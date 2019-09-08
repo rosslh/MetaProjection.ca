@@ -2,18 +2,27 @@
   "number": 59040,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "lpc",
-      "confidence": 0.5
+      "confidence": 1
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 0.25
+      "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Vancouver South",
+  "position": {
+    "y": -123.06944971210035,
+    "x": 49.218708325178085
+  }
 }

@@ -2,18 +2,27 @@
   "number": 35069,
   "projections": {
     "threethirtyeight": {
-      "party": "ndp",
+      "party": "lpc",
       "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 0.5
     }
   },
   "scores": [
     {
-      "party": "ndp",
-      "score": 0.25
+      "party": "lpc",
+      "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Nickel Belt",
+  "position": {
+    "y": -81.27137100148745,
+    "x": 47.0142726276843
+  }
 }

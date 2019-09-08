@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Langley--Aldergrove",
+  "position": {
+    "y": -122.54504998926724,
+    "x": 49.089283923068784
+  }
 }

@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Bonavista--Burin--Trinity",
+  "position": {
+    "y": -54.14956104624899,
+    "x": 48.12148640304629
+  }
 }

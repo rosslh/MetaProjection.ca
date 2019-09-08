@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Calgary Shepard",
+  "position": {
+    "y": -113.9403741664565,
+    "x": 50.94445967100772
+  }
 }

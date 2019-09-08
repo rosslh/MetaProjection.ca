@@ -7,13 +7,22 @@
     },
     "calculatedPolitics": {
       "party": "cpc",
-      "confidence": 0.5
+      "confidence": 1
     }
   },
   "scores": [
     {
       "party": "cpc",
-      "score": 0.25
+      "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Cumberland--Colchester",
+  "position": {
+    "y": -63.822272596269,
+    "x": 45.56939954101739
+  }
 }

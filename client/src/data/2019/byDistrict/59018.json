@@ -7,13 +7,22 @@
     },
     "calculatedPolitics": {
       "party": "gpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "gpc",
-      "score": 1
+      "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "gpc",
+    "score": 0.75
+  },
+  "name": "Nanaimo--Ladysmith",
+  "position": {
+    "y": -123.9921330744238,
+    "x": 49.12677206556529
+  }
 }

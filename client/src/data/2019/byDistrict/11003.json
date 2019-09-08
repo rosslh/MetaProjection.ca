@@ -2,22 +2,27 @@
   "number": 11003,
   "projections": {
     "threethirtyeight": {
-      "party": "cpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
-      "party": "cpc",
-      "score": 0.25
-    },
-    {
       "party": "lpc",
-      "score": 0.5
+      "score": 0.25
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Egmont",
+  "position": {
+    "y": -64.0667622332108,
+    "x": 46.66187159671811
+  }
 }

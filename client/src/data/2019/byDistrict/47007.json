@@ -7,13 +7,22 @@
     },
     "calculatedPolitics": {
       "party": "cpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "cpc",
-      "score": 1
+      "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.75
+  },
+  "name": "Regina--Lewvan",
+  "position": {
+    "y": -104.66529735220072,
+    "x": 50.45866949331742
+  }
 }

@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Scarborough--Agincourt",
+  "position": {
+    "y": -79.30811509895895,
+    "x": 43.79648879577382
+  }
 }

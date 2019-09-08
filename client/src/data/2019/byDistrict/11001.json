@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Cardigan",
+  "position": {
+    "y": -62.648294743996296,
+    "x": 46.20581123152137
+  }
 }

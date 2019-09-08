@@ -6,9 +6,23 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 0.5
     }
   },
-  "scores": []
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Burnaby North--Seymour",
+  "position": {
+    "y": -122.95240449902172,
+    "x": 49.33432707812466
+  }
 }

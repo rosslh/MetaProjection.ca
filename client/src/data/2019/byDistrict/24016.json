@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Brome--Missisquoi",
+  "position": {
+    "y": -72.65162118969783,
+    "x": 45.17785890297356
+  }
 }

@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Chilliwack--Hope",
+  "position": {
+    "y": -121.39170370611254,
+    "x": 49.19619721175668
+  }
 }

@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 0.25
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Aurora--Oak Ridges--Richmond Hill",
+  "position": {
+    "y": -79.4350158759187,
+    "x": 43.94678975236722
+  }
 }

@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Bellechasse--Les Etchemins--Lévis",
+  "position": {
+    "y": -70.60759732242582,
+    "x": 46.58799373182572
+  }
 }

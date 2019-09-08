@@ -6,14 +6,23 @@
       "confidence": 1
     },
     "calculatedPolitics": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 0.5
+      "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Niagara Centre",
+  "position": {
+    "y": -79.20906462095651,
+    "x": 42.9280723929693
+  }
 }

@@ -6,14 +6,23 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "lpc",
+      "party": "cpc",
       "confidence": 0.5
     }
   },
   "scores": [
     {
-      "party": "lpc",
+      "party": "cpc",
       "score": 0.25
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Central Nova",
+  "position": {
+    "y": -62.54748749051964,
+    "x": 45.29161906308773
+  }
 }

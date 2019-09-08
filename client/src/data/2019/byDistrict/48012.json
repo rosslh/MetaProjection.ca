@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Calgary Signal Hill",
+  "position": {
+    "y": -114.20001569805245,
+    "x": 51.054739276875786
+  }
 }

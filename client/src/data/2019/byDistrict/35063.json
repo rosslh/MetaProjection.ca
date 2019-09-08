@@ -6,9 +6,23 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 0.5
     }
   },
-  "scores": []
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Mississauga--Streetsville",
+  "position": {
+    "y": -79.74734473966464,
+    "x": 43.59211379745806
+  }
 }

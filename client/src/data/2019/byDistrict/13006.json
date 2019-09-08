@@ -3,10 +3,10 @@
   "projections": {
     "threethirtyeight": {
       "party": "cpc",
-      "confidence": 1
+      "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "lpc",
+      "party": "cpc",
       "confidence": 0.5
     }
   },
@@ -14,10 +14,15 @@
     {
       "party": "cpc",
       "score": 0.5
-    },
-    {
-      "party": "lpc",
-      "score": 0.25
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Miramichi--Grand Lake",
+  "position": {
+    "y": -65.86490012485626,
+    "x": 46.84089905501191
+  }
 }

@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Argenteuil--La Petite-Nation",
+  "position": {
+    "y": -74.96508052025293,
+    "x": 45.81263716832692
+  }
 }

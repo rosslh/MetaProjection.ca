@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 0.25
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Peterborough--Kawartha",
+  "position": {
+    "y": -78.19904486129556,
+    "x": 44.61119735776335
+  }
 }

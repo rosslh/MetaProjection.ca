@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Dauphin--Swan River--Neepawa",
+  "position": {
+    "y": -100.29290403982894,
+    "x": 51.27726592770249
+  }
 }

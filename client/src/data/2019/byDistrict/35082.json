@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Parry Sound--Muskoka",
+  "position": {
+    "y": -79.94637985632104,
+    "x": 45.45920388220882
+  }
 }

@@ -15,5 +15,14 @@
       "party": "ndp",
       "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "ndp",
+    "score": 0.75
+  },
+  "name": "Churchill--Keewatinook Aski",
+  "position": {
+    "y": -97.09096014047805,
+    "x": 55.94345550471907
+  }
 }

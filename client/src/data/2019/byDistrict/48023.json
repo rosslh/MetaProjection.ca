@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Fort McMurray--Cold Lake",
+  "position": {
+    "y": -112.14307799664374,
+    "x": 57.38632726069952
+  }
 }

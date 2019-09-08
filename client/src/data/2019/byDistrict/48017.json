@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.75
+  },
+  "name": "Edmonton Mill Woods",
+  "position": {
+    "y": -113.42019403339177,
+    "x": 53.461126985976264
+  }
 }

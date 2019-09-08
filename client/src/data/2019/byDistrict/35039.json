@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Hastings--Lennox and Addington",
+  "position": {
+    "y": -77.40207644036178,
+    "x": 44.70717914978932
+  }
 }

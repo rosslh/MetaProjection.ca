@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Guelph",
+  "position": {
+    "y": -80.2369350298618,
+    "x": 43.53277761819416
+  }
 }

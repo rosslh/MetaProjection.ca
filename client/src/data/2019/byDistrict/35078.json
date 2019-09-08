@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Ottawa--Vanier",
+  "position": {
+    "y": -75.63818916128234,
+    "x": 45.4442414492354
+  }
 }

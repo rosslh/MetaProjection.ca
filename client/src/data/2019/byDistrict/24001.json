@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Abitibi--Baie-James--Nunavik--Eeyou",
+  "position": {
+    "y": -73.09916745032733,
+    "x": 55.8079276938397
+  }
 }

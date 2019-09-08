@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Lakeland",
+  "position": {
+    "y": -111.77787800505163,
+    "x": 54.011304190941644
+  }
 }

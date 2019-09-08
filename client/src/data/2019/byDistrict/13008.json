@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "New Brunswick Southwest",
+  "position": {
+    "y": -66.6729196242278,
+    "x": 45.46047270286769
+  }
 }

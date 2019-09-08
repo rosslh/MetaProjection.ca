@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Glengarry--Prescott--Russell",
+  "position": {
+    "y": -74.93206413683527,
+    "x": 45.43026036598903
+  }
 }

@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Portneuf--Jacques-Cartier",
+  "position": {
+    "y": -71.86522392252421,
+    "x": 47.1221233557114
+  }
 }

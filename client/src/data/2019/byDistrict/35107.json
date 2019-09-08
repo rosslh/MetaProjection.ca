@@ -15,5 +15,14 @@
       "party": "ndp",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "ndp",
+    "score": 1
+  },
+  "name": "Timmins--James Bay",
+  "position": {
+    "y": -83.3271089016807,
+    "x": 51.80402332481391
+  }
 }

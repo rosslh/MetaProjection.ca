@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Markham--Thornhill",
+  "position": {
+    "y": -79.32103147052581,
+    "x": 43.834654553542705
+  }
 }

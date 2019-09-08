@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Lethbridge",
+  "position": {
+    "y": -112.76759187395072,
+    "x": 49.84376710751075
+  }
 }

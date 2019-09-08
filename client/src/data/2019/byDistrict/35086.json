@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Renfrew--Nipissing--Pembroke",
+  "position": {
+    "y": -77.54518119321686,
+    "x": 45.679846429245096
+  }
 }

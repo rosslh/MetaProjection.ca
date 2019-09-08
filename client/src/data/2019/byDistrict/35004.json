@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Barrie--Innisfil",
+  "position": {
+    "y": -79.61683641246447,
+    "x": 44.29288524645473
+  }
 }

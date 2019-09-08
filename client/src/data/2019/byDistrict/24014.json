@@ -15,5 +15,14 @@
       "party": "bq",
       "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Pierre-Boucher--Les Patriotes--Verchères",
+  "position": {
+    "y": -73.27427827333743,
+    "x": 45.7160937525165
+  }
 }

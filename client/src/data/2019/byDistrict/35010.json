@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Brampton North",
+  "position": {
+    "y": -79.77630290993407,
+    "x": 43.738978579305666
+  }
 }

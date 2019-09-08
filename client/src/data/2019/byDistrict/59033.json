@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Surrey--Newton",
+  "position": {
+    "y": -122.85653734584791,
+    "x": 49.135182021178274
+  }
 }

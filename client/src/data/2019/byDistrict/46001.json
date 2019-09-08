@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Brandon--Souris",
+  "position": {
+    "y": -100.16670685440377,
+    "x": 49.4439164308067
+  }
 }

@@ -6,14 +6,23 @@
       "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 0.25
+      "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "St. Catharines",
+  "position": {
+    "y": -79.24194049098796,
+    "x": 43.19361304850455
+  }
 }

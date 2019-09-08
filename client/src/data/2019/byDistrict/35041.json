@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Kanata--Carleton",
+  "position": {
+    "y": -76.09707124570373,
+    "x": 45.3710495085017
+  }
 }

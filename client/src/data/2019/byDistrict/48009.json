@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Calgary Nose Hill",
+  "position": {
+    "y": -114.10034841359837,
+    "x": 51.13722048741719
+  }
 }

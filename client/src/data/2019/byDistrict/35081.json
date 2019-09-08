@@ -6,14 +6,23 @@
       "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 0.25
+      "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Parkdale--High Park",
+  "position": {
+    "y": -79.46610007979484,
+    "x": 43.649243174510055
+  }
 }

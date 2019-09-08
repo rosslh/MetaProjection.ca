@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Mississauga Centre",
+  "position": {
+    "y": -79.6593381676496,
+    "x": 43.580898572257816
+  }
 }

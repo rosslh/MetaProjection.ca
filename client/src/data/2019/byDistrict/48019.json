@@ -15,5 +15,14 @@
       "party": "ndp",
       "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "ndp",
+    "score": 0.75
+  },
+  "name": "Edmonton Strathcona",
+  "position": {
+    "y": -113.453485503447,
+    "x": 53.51287974228097
+  }
 }

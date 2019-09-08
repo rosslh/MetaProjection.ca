@@ -8,15 +8,11 @@ import SEO from "../components/seo";
 import { addPartyDetails, projections } from "../utils/utils";
 import Image from "../components/image";
 
-const getWinner = data => {
-  const winner = data.byDistrictJson.scores.reduce((prev, current) => {
-    return prev.score > current.score ? prev : current;
-  });
-  if (winner.score < 0.5) {
-    return null;
-  }
-  return winner;
+const getCandidate = (party, districtNumber) => {
+  // TODO: implement
+  return `${party.name} : ${districtNumber}`;
 };
+
 const getConfidenceString = confidence => {
   if (confidence < 0.5) {
     return "Toss up";
@@ -28,7 +24,7 @@ const getConfidenceString = confidence => {
 };
 
 const District = ({ data, pageContext }) => {
-  const winner = getWinner(data);
+  const winner = data.byDistrictJson.winner;
   const winningParty = winner ? addPartyDetails({ name: winner.party }) : null;
   return (
     <Layout>
@@ -47,7 +43,7 @@ const District = ({ data, pageContext }) => {
           <tr>
             <th></th>
             <th>Party</th>
-            <th>Confidence</th>
+            <th>Candidate</th>
           </tr>
         </thead>
         <tbody>
@@ -68,7 +64,9 @@ const District = ({ data, pageContext }) => {
               )}
             </td>
             <td>{winner ? winningParty.longName : "Toss up"}</td>
-            <td>{winner ? getConfidenceString(winner.score) : ""}</td>
+            <td>
+              {winner ? getCandidate(winningParty, pageContext.number) : ""}
+            </td>
           </tr>
         </tbody>
       </table>
@@ -90,7 +88,11 @@ const District = ({ data, pageContext }) => {
                 <tr key={projectionName}>
                   <td>
                     {
-                      <a target="_blank" href={projections[projectionName].url}>
+                      <a
+                        rel="noopener noreferrer"
+                        target="_blank"
+                        href={projections[projectionName].url}
+                      >
                         {projections[projectionName].name}
                       </a>
                     }
@@ -104,7 +106,11 @@ const District = ({ data, pageContext }) => {
                 <tr key={projectionName}>
                   <td>
                     {
-                      <a target="_blank" href={projections[projectionName].url}>
+                      <a
+                        rel="noopener noreferrer"
+                        target="_blank"
+                        href={projections[projectionName].url}
+                      >
                         {projections[projectionName].name}
                       </a>
                     }
@@ -123,6 +129,8 @@ const District = ({ data, pageContext }) => {
           })}
         </tbody>
       </table>
+      <h3>Candidates</h3>
+      <div>...</div>
     </Layout>
   );
 };
@@ -141,6 +149,10 @@ export const query = graphql`
         }
       }
       scores {
+        party
+        score
+      }
+      winner {
         party
         score
       }

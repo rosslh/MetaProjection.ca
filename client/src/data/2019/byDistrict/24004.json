@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Alfred-Pellan",
+  "position": {
+    "y": -73.65974762969378,
+    "x": 45.6477436358083
+  }
 }

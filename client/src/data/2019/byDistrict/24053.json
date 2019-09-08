@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Notre-Dame-de-Grâce--Westmount",
+  "position": {
+    "y": -73.62105568237843,
+    "x": 45.473431274556674
+  }
 }

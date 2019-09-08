@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "cpc",
-      "confidence": 1
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "cpc",
@@ -13,7 +13,16 @@
   "scores": [
     {
       "party": "cpc",
-      "score": 1
+      "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.75
+  },
+  "name": "Niagara Falls",
+  "position": {
+    "y": -79.07104805024748,
+    "x": 43.005869575659545
+  }
 }

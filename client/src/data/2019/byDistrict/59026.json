@@ -2,18 +2,22 @@
   "number": 59026,
   "projections": {
     "threethirtyeight": {
-      "party": "gpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "gpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     }
   },
-  "scores": [
-    {
-      "party": "gpc",
-      "score": 0.5
-    }
-  ]
+  "scores": [],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Esquimalt--Saanich--Sooke",
+  "position": {
+    "y": -123.68591039356474,
+    "x": 48.36043939529665
+  }
 }

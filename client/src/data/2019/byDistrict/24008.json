@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.75
+  },
+  "name": "Beauport--Limoilou",
+  "position": {
+    "y": -71.20505024426917,
+    "x": 46.85614251758636
+  }
 }

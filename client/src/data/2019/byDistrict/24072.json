@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Shefford",
+  "position": {
+    "y": -72.6294293812877,
+    "x": 45.42868825029576
+  }
 }

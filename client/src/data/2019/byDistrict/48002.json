@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Battle River--Crowfoot",
+  "position": {
+    "y": -111.55368883489443,
+    "x": 52.07609438547926
+  }
 }

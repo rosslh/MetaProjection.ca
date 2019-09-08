@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Saskatoon--Grasswood",
+  "position": {
+    "y": -106.57056987956204,
+    "x": 52.04737428260096
+  }
 }

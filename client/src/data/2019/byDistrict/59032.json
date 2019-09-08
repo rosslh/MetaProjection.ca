@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Surrey Centre",
+  "position": {
+    "y": -122.85483127574528,
+    "x": 49.19144972455395
+  }
 }

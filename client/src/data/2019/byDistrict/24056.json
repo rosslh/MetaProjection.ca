@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Pierrefonds--Dollard",
+  "position": {
+    "y": -73.86243256337988,
+    "x": 45.495273313566464
+  }
 }

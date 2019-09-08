@@ -6,14 +6,23 @@
       "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 0.25
+      "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Rimouski-Neigette--Témiscouata--Les Basques",
+  "position": {
+    "y": -68.75285809695208,
+    "x": 47.961044030153595
+  }
 }

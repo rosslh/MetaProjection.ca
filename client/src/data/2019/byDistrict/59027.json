@@ -15,5 +15,14 @@
       "party": "gpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "gpc",
+    "score": 1
+  },
+  "name": "Saanich--Gulf Islands",
+  "position": {
+    "y": -123.34930943639384,
+    "x": 48.782872533233274
+  }
 }

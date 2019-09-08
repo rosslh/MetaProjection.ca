@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Battlefords--Lloydminster",
+  "position": {
+    "y": -109.03740185039443,
+    "x": 52.7481165160386
+  }
 }

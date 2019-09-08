@@ -15,5 +15,14 @@
       "party": "ndp",
       "score": 0.25
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "North Island--Powell River",
+  "position": {
+    "y": -126.32571717793324,
+    "x": 50.68565545561879
+  }
 }

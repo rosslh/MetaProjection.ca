@@ -7,13 +7,22 @@
     },
     "calculatedPolitics": {
       "party": "cpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "cpc",
-      "score": 0.75
+      "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Kitchener--Conestoga",
+  "position": {
+    "y": -80.61226328976055,
+    "x": 43.50166336178943
+  }
 }

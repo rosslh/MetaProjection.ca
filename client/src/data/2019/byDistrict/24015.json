@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Bourassa",
+  "position": {
+    "y": -73.63426393747415,
+    "x": 45.59888260944789
+  }
 }

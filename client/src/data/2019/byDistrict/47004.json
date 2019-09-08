@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Carlton Trail--Eagle Creek",
+  "position": {
+    "y": -106.96053731333083,
+    "x": 52.28396515507761
+  }
 }

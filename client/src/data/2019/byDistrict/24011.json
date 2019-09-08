@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 0.25
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Beloeil--Chambly",
+  "position": {
+    "y": -73.20786628886195,
+    "x": 45.480253178530376
+  }
 }

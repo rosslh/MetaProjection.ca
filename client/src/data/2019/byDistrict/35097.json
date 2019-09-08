@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Scarborough--Rouge Park",
+  "position": {
+    "y": -79.17639105352475,
+    "x": 43.80522626767862
+  }
 }

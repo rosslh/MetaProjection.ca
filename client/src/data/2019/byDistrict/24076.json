@@ -7,13 +7,22 @@
     },
     "calculatedPolitics": {
       "party": "lpc",
-      "confidence": 0.5
+      "confidence": 1
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 0.25
+      "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Trois-Rivières",
+  "position": {
+    "y": -72.61000082224382,
+    "x": 46.3572278992742
+  }
 }

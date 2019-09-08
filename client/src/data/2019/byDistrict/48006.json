@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Calgary Forest Lawn",
+  "position": {
+    "y": -113.95248282055967,
+    "x": 51.06062261182324
+  }
 }

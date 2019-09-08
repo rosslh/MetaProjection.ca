@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "ndp",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
       "party": "ndp",
@@ -13,7 +13,16 @@
   "scores": [
     {
       "party": "ndp",
-      "score": 0.75
+      "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "ndp",
+    "score": 1
+  },
+  "name": "Vancouver East",
+  "position": {
+    "y": -123.06527215415933,
+    "x": 49.27687132386633
+  }
 }

@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Sherwood Park--Fort Saskatchewan",
+  "position": {
+    "y": -113.10208858393356,
+    "x": 53.57284681295958
+  }
 }

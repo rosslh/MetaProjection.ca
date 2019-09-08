@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Red Deer--Mountain View",
+  "position": {
+    "y": -114.02101342713708,
+    "x": 51.89595276106101
+  }
 }

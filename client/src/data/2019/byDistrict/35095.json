@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Scarborough--Guildwood",
+  "position": {
+    "y": -79.21429243228637,
+    "x": 43.765335907563994
+  }
 }

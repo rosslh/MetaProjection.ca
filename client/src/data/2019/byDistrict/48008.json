@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Calgary Midnapore",
+  "position": {
+    "y": -114.04201019089778,
+    "x": 50.908830838889685
+  }
 }

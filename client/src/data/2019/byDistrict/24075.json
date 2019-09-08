@@ -15,5 +15,14 @@
       "party": "bq",
       "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Terrebonne",
+  "position": {
+    "y": -73.68421902372744,
+    "x": 45.73222740447972
+  }
 }

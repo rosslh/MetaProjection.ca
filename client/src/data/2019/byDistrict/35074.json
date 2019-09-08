@@ -2,18 +2,27 @@
   "number": 35074,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "cpc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "cpc",
-      "confidence": 0.5
+      "confidence": 1
     }
   },
   "scores": [
     {
       "party": "cpc",
-      "score": 0.25
+      "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.75
+  },
+  "name": "Oshawa",
+  "position": {
+    "y": -78.84866170892391,
+    "x": 43.88505611358202
+  }
 }

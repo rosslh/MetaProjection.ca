@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Cariboo--Prince George",
+  "position": {
+    "y": -123.3170914147536,
+    "x": 52.5462938841069
+  }
 }

@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Louis-Saint-Laurent",
+  "position": {
+    "y": -71.40935666212548,
+    "x": 46.84735683957743
+  }
 }

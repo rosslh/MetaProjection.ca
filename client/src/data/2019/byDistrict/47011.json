@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Saskatoon--University",
+  "position": {
+    "y": -106.58742620917438,
+    "x": 52.15875411575399
+  }
 }

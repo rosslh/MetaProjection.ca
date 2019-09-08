@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Don Valley East",
+  "position": {
+    "y": -79.3329711582613,
+    "x": 43.73971797116556
+  }
 }

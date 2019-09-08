@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.75
+  },
+  "name": "Calgary Centre",
+  "position": {
+    "y": -114.07491910037686,
+    "x": 51.02233065111802
+  }
 }

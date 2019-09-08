@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Laval--Les Îles",
+  "position": {
+    "y": -73.82205755525501,
+    "x": 45.53894528309739
+  }
 }

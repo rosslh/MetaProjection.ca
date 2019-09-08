@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "North Okanagan--Shuswap",
+  "position": {
+    "y": -118.81481427337226,
+    "x": 50.58913090000216
+  }
 }

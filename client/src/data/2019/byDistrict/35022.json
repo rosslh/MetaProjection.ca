@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Dufferin--Caledon",
+  "position": {
+    "y": -80.10740307844439,
+    "x": 43.98279741941664
+  }
 }

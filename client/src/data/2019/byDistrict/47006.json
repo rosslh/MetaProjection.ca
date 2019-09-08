@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Prince Albert",
+  "position": {
+    "y": -104.65335697359889,
+    "x": 53.15039093399124
+  }
 }

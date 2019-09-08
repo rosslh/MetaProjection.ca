@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Orléans",
+  "position": {
+    "y": -75.50875242701619,
+    "x": 45.40969005465455
+  }
 }

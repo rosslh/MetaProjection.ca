@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Calgary Rocky Ridge",
+  "position": {
+    "y": -114.18975366414345,
+    "x": 51.15334540959041
+  }
 }

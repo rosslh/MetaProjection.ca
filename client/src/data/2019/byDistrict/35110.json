@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "University--Rosedale",
+  "position": {
+    "y": -79.39431221677185,
+    "x": 43.67114097897199
+  }
 }

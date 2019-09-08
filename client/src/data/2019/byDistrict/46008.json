@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Provencher",
+  "position": {
+    "y": -96.12168656960479,
+    "x": 49.559256176502764
+  }
 }

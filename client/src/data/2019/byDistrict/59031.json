@@ -2,18 +2,27 @@
   "number": 59031,
   "projections": {
     "threethirtyeight": {
-      "party": "cpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "cpc",
+      "party": "lpc",
       "confidence": 0.5
     }
   },
   "scores": [
     {
-      "party": "cpc",
-      "score": 0.5
+      "party": "lpc",
+      "score": 0.25
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Steveston--Richmond East",
+  "position": {
+    "y": -123.21993234042183,
+    "x": 49.10837305949708
+  }
 }

@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Richmond--Arthabaska",
+  "position": {
+    "y": -71.9407349247358,
+    "x": 45.853591292005156
+  }
 }

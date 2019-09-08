@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Ville-Marie--Le Sud-Ouest--Île-des-Soeurs",
+  "position": {
+    "y": -73.5504688467341,
+    "x": 45.48399192519704
+  }
 }

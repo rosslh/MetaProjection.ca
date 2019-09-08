@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "West Vancouver--Sunshine Coast--Sea to Sky Country",
+  "position": {
+    "y": -123.36907629884418,
+    "x": 50.05547802624441
+  }
 }

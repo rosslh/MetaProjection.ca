@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Lanark--Frontenac--Kingston",
+  "position": {
+    "y": -76.55631583539706,
+    "x": 44.864566259427164
+  }
 }

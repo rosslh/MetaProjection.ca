@@ -2,8 +2,8 @@
   "number": 24007,
   "projections": {
     "threethirtyeight": {
-      "party": "cpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
       "party": "cpc",
@@ -13,7 +13,16 @@
   "scores": [
     {
       "party": "cpc",
-      "score": 0.5
+      "score": 0.25
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Beauce",
+  "position": {
+    "y": -70.73399534568017,
+    "x": 46.15761780452237
+  }
 }

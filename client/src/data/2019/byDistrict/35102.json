@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Stormont--Dundas--South Glengarry",
+  "position": {
+    "y": -74.99656003553255,
+    "x": 45.09863892603025
+  }
 }

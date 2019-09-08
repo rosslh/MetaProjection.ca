@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Mégantic--L'Érable",
+  "position": {
+    "y": -71.21521946101176,
+    "x": 45.90392873345903
+  }
 }

@@ -6,14 +6,18 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "cpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     }
   },
-  "scores": [
-    {
-      "party": "cpc",
-      "score": 0.25
-    }
-  ]
+  "scores": [],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Newmarket--Aurora",
+  "position": {
+    "y": -79.45880295624289,
+    "x": 44.04014220941023
+  }
 }

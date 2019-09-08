@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Humber River--Black Creek",
+  "position": {
+    "y": -79.53019253138942,
+    "x": 43.75074976278388
+  }
 }

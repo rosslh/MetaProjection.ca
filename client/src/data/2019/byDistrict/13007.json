@@ -3,11 +3,11 @@
   "projections": {
     "threethirtyeight": {
       "party": "lpc",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Moncton--Riverview--Dieppe",
+  "position": {
+    "y": -64.80901954615545,
+    "x": 46.111194670255905
+  }
 }

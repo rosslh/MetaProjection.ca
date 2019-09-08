@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Charlesbourg--Haute-Saint-Charles",
+  "position": {
+    "y": -71.33288216482241,
+    "x": 46.905180242256456
+  }
 }

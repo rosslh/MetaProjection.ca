@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Spadina--Fort York",
+  "position": {
+    "y": -79.38647382954018,
+    "x": 43.63443871016904
+  }
 }

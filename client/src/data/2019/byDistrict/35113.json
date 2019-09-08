@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Wellington--Halton Hills",
+  "position": {
+    "y": -80.19257135264216,
+    "x": 43.64672833586525
+  }
 }

@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Kitchener Centre",
+  "position": {
+    "y": -80.4706853344602,
+    "x": 43.44868229721092
+  }
 }

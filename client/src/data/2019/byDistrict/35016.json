@@ -6,9 +6,23 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 0.5
     }
   },
-  "scores": []
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Cambridge",
+  "position": {
+    "y": -80.34923393685598,
+    "x": 43.322394168815684
+  }
 }

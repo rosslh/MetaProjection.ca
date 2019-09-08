@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Leeds-Grenville-Thousand Islands and Rideau Lakes",
+  "position": {
+    "y": -75.91914556374128,
+    "x": 44.68529928829728
+  }
 }

@@ -6,14 +6,27 @@
       "confidence": 1
     },
     "calculatedPolitics": {
-      "party": "lpc",
+      "party": "cpc",
       "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 0.75
+      "score": 0.5
+    },
+    {
+      "party": "cpc",
+      "score": 0.25
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Madawaska--Restigouche",
+  "position": {
+    "y": -67.34755553867338,
+    "x": 47.656521188936395
+  }
 }

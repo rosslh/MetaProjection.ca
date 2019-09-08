@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Lambton--Kent--Middlesex",
+  "position": {
+    "y": -81.89420805982805,
+    "x": 42.85951482067485
+  }
 }

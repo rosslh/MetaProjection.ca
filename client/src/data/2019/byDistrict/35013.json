@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Brantford--Brant",
+  "position": {
+    "y": -80.23601182677126,
+    "x": 43.114302750433296
+  }
 }

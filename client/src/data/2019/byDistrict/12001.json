@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Cape Breton--Canso",
+  "position": {
+    "y": -61.0049758479714,
+    "x": 45.77216371210819
+  }
 }

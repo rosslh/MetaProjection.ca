@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Kootenay--Columbia",
+  "position": {
+    "y": -116.6583629689391,
+    "x": 50.501962207822224
+  }
 }

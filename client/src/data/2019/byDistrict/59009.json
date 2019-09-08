@@ -6,14 +6,18 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "ndp",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     }
   },
-  "scores": [
-    {
-      "party": "ndp",
-      "score": 0.25
-    }
-  ]
+  "scores": [],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Courtenay--Alberni",
+  "position": {
+    "y": -125.27214163961504,
+    "x": 49.21569209082301
+  }
 }

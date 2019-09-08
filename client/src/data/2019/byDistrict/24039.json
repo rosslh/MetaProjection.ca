@@ -15,5 +15,14 @@
       "party": "bq",
       "score": 0.25
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Laurier--Sainte-Marie",
+  "position": {
+    "y": -73.56583601867756,
+    "x": 45.526166729740375
+  }
 }

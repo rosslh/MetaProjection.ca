@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 0.25
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Laurentides--Labelle",
+  "position": {
+    "y": -75.08425647880146,
+    "x": 46.778756215115244
+  }
 }

@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Charlottetown",
+  "position": {
+    "y": -63.135100761900425,
+    "x": 46.265844613835704
+  }
 }

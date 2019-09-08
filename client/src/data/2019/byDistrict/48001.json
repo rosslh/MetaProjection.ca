@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Banff--Airdrie",
+  "position": {
+    "y": -115.5090976615072,
+    "x": 51.446409424987415
+  }
 }

@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Toronto Centre",
+  "position": {
+    "y": -79.37005435589644,
+    "x": 43.660126844822024
+  }
 }

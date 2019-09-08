@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Rivière-des-Mille-Îles",
+  "position": {
+    "y": -73.899566255173,
+    "x": 45.59042843107965
+  }
 }

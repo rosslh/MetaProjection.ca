@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Dorval--Lachine--LaSalle",
+  "position": {
+    "y": -73.7074457173342,
+    "x": 45.444857682779826
+  }
 }

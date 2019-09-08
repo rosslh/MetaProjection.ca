@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Niagara West",
+  "position": {
+    "y": -79.45549361810363,
+    "x": 43.03854448292395
+  }
 }

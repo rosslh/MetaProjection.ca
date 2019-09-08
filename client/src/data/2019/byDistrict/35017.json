@@ -7,13 +7,22 @@
     },
     "calculatedPolitics": {
       "party": "cpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "cpc",
-      "score": 1
+      "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.75
+  },
+  "name": "Chatham-Kent--Leamington",
+  "position": {
+    "y": -82.28068829233595,
+    "x": 42.19536301186063
+  }
 }

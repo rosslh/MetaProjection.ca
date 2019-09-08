@@ -15,5 +15,14 @@
       "party": "bq",
       "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "bq",
+    "score": 0.75
+  },
+  "name": "La Pointe-de-l'Île",
+  "position": {
+    "y": -73.51337556416092,
+    "x": 45.637448144365834
+  }
 }

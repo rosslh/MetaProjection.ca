@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Malpeque",
+  "position": {
+    "y": -63.443779109657314,
+    "x": 46.31063196501703
+  }
 }

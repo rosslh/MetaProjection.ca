@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Hull--Aylmer",
+  "position": {
+    "y": -75.78533170449276,
+    "x": 45.42372205697337
+  }
 }

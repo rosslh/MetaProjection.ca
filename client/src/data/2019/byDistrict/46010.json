@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Selkirk--Interlake--Eastman",
+  "position": {
+    "y": -97.3885852870946,
+    "x": 50.696784302660376
+  }
 }

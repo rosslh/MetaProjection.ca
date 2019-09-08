@@ -15,5 +15,14 @@
       "party": "bq",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "bq",
+    "score": 1
+  },
+  "name": "Manicouagan",
+  "position": {
+    "y": -65.41470544919785,
+    "x": 51.29745083517819
+  }
 }

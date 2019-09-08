@@ -3,17 +3,30 @@
   "projections": {
     "threethirtyeight": {
       "party": "lpc",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
-      "party": null,
-      "confidence": 0
+      "party": "cpc",
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "lpc",
+      "score": 0.5
+    },
+    {
+      "party": "cpc",
       "score": 0.25
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Sackville--Preston--Chezzetcook",
+  "position": {
+    "y": -63.47858055597218,
+    "x": 44.74934107775638
+  }
 }

@@ -2,8 +2,8 @@
   "number": 35117,
   "projections": {
     "threethirtyeight": {
-      "party": "ndp",
-      "confidence": 1
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
       "party": "ndp",
@@ -13,7 +13,16 @@
   "scores": [
     {
       "party": "ndp",
-      "score": 1
+      "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Windsor West",
+  "position": {
+    "y": -83.0307961447737,
+    "x": 42.27822351045461
+  }
 }

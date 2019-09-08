@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Vaudreuil--Soulanges",
+  "position": {
+    "y": -74.1201324843277,
+    "x": 45.40920297049388
+  }
 }

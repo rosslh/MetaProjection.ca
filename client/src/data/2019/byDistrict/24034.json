@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "La Prairie",
+  "position": {
+    "y": -73.54628589084673,
+    "x": 45.36601543821435
+  }
 }

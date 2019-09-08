@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Abbotsford",
+  "position": {
+    "y": -122.21784546903648,
+    "x": 49.04290532361204
+  }
 }

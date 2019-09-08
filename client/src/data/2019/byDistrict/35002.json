@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "ndp",
-      "confidence": 1
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "ndp",
@@ -13,7 +13,16 @@
   "scores": [
     {
       "party": "ndp",
-      "score": 1
+      "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "ndp",
+    "score": 0.75
+  },
+  "name": "Algoma--Manitoulin--Kapuskasing",
+  "position": {
+    "y": -83.614841691908,
+    "x": 48.04045650527913
+  }
 }

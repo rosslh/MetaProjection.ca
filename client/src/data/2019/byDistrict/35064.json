@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Nepean",
+  "position": {
+    "y": -75.77687648945574,
+    "x": 45.27221797129712
+  }
 }

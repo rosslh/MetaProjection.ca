@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Scarborough North",
+  "position": {
+    "y": -79.2546580818733,
+    "x": 43.809651619673055
+  }
 }

@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Kingston and the Islands",
+  "position": {
+    "y": -76.42203187165391,
+    "x": 44.21069660538652
+  }
 }

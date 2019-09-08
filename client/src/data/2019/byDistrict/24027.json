@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Gatineau",
+  "position": {
+    "y": -75.62284595249172,
+    "x": 45.50953846324043
+  }
 }

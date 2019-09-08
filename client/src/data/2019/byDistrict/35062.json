@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Mississauga--Malton",
+  "position": {
+    "y": -79.65775102641031,
+    "x": 43.65766378722704
+  }
 }

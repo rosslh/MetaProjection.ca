@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Edmonton Manning",
+  "position": {
+    "y": -113.3742889816032,
+    "x": 53.6433898145178
+  }
 }

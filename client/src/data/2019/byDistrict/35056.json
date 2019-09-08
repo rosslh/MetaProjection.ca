@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.75
+  },
+  "name": "Markham--Unionville",
+  "position": {
+    "y": -79.32687066005049,
+    "x": 43.89505075351637
+  }
 }

@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Sturgeon River--Parkland",
+  "position": {
+    "y": -113.80372987677653,
+    "x": 53.747850371165875
+  }
 }

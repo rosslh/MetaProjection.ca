@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Markham--Stouffville",
+  "position": {
+    "y": -79.29875112445238,
+    "x": 43.98235381549088
+  }
 }

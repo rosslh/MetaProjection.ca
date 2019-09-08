@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "LaSalle--Émard--Verdun",
+  "position": {
+    "y": -73.58199830217903,
+    "x": 45.43821409214503
+  }
 }

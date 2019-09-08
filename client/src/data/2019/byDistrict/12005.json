@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Halifax",
+  "position": {
+    "y": -61.77051322740137,
+    "x": 44.24601309430076
+  }
 }

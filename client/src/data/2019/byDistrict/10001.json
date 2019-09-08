@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Avalon",
+  "position": {
+    "y": -53.433764353321806,
+    "x": 47.10765002913103
+  }
 }

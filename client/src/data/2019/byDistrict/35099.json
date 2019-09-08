@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Simcoe--Grey",
+  "position": {
+    "y": -80.12560207235624,
+    "x": 44.40541758316385
+  }
 }

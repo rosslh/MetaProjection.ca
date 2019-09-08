@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Calgary Confederation",
+  "position": {
+    "y": -114.10355083549776,
+    "x": 51.07718386966596
+  }
 }

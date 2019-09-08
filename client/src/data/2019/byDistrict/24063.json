@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "bq",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
       "party": "bq",
@@ -13,7 +13,16 @@
   "scores": [
     {
       "party": "bq",
-      "score": 0.5
+      "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "bq",
+    "score": 0.75
+  },
+  "name": "Rivière-du-Nord",
+  "position": {
+    "y": -73.99031572600084,
+    "x": 45.856941377231934
+  }
 }

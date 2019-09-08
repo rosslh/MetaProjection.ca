@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Oxford",
+  "position": {
+    "y": -80.74505578330907,
+    "x": 43.10648640675601
+  }
 }

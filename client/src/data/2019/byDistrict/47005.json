@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Moose Jaw--Lake Centre--Lanigan",
+  "position": {
+    "y": -105.51602970018257,
+    "x": 51.112753741965335
+  }
 }

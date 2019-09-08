@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Souris--Moose Mountain",
+  "position": {
+    "y": -103.26002744039928,
+    "x": 49.684596082455506
+  }
 }

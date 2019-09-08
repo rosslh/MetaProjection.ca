@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Compton--Stanstead",
+  "position": {
+    "y": -71.65521701803789,
+    "x": 45.34567631591344
+  }
 }

@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Sherbrooke",
+  "position": {
+    "y": -71.90202023138905,
+    "x": 45.406271459076784
+  }
 }

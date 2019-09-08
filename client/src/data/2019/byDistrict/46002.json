@@ -3,17 +3,26 @@
   "projections": {
     "threethirtyeight": {
       "party": "cpc",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
       "party": "cpc",
-      "confidence": 0.5
+      "confidence": 1
     }
   },
   "scores": [
     {
       "party": "cpc",
-      "score": 0.5
+      "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Charleswood--St. James--Assiniboia--Headingley",
+  "position": {
+    "y": -97.33876388925151,
+    "x": 49.86791287862175
+  }
 }

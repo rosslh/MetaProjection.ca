@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Dartmouth--Cole Harbour",
+  "position": {
+    "y": -63.54784776669631,
+    "x": 44.68278526060696
+  }
 }

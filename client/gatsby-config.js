@@ -5,6 +5,7 @@ module.exports = {
     author: `Ross Hill`,
   },
   plugins: [
+    `gatsby-plugin-react-leaflet`,
     {
       resolve: `gatsby-plugin-typography`,
       options: {

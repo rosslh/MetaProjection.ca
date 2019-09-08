@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "St. Albert--Edmonton",
+  "position": {
+    "y": -113.61318985473095,
+    "x": 53.62228338824014
+  }
 }

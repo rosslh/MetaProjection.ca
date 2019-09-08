@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Sault Ste. Marie",
+  "position": {
+    "y": -84.33785144423285,
+    "x": 46.92612281639495
+  }
 }

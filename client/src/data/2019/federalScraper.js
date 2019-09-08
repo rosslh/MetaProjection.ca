@@ -7,27 +7,22 @@ const output = {
     {
       name: "cpc",
       projections: {},
-      leader: "Andrew Scheer",
     },
     {
       name: "lpc",
       projections: {},
-      leader: "Justin Trudeau",
     },
     {
       name: "ndp",
       projections: {},
-      leader: "Jagmeet Singh",
     },
     {
       name: "bq",
       projections: {},
-      leader: "Yves-François Blanchet",
     },
     {
       name: "gpc",
       projections: {},
-      leader: "Elizabeth May",
     },
     {
       name: "ind",
@@ -36,7 +31,6 @@ const output = {
     {
       name: "ppc",
       projections: {},
-      leader: "Maxime Bernier",
     },
   ],
 };
@@ -92,8 +86,7 @@ function get338() {
 }
 
 function getCalculatedPolitics() {
-  const url =
-    "https://www.calculatedpolitics.com/project/2019-canada-election/";
+  const url = "http://www.calculatedpolitics.com/project/2019-canada-election/";
   return fetch(url)
     .then(resp => resp.text())
     .then(text => {

@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Halifax West",
+  "position": {
+    "y": -63.74850504339469,
+    "x": 44.72497376307585
+  }
 }

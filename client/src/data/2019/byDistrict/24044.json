@@ -2,8 +2,8 @@
   "number": 24044,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,7 +13,16 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 0.25
+      "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Louis-Hébert",
+  "position": {
+    "y": -71.35879708915385,
+    "x": 46.77923540543884
+  }
 }

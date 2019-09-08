@@ -6,14 +6,23 @@
       "confidence": 1
     },
     "calculatedPolitics": {
-      "party": "cpc",
-      "confidence": 1
+      "party": null,
+      "confidence": 0
     }
   },
   "scores": [
     {
       "party": "cpc",
-      "score": 1
+      "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Central Okanagan--Similkameen--Nicola",
+  "position": {
+    "y": -120.38259609837574,
+    "x": 49.75221060497007
+  }
 }

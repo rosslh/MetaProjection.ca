@@ -19,5 +19,14 @@
       "party": "lpc",
       "score": 0.25
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Calgary Skyview",
+  "position": {
+    "y": -113.99385652339646,
+    "x": 51.14409521801502
+  }
 }

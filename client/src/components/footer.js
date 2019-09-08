@@ -5,7 +5,7 @@ const Header = () => (
   <footer
     css={css`
       width: 100%;
-      margin-top: 4rem;
+      margin-top: 3.5rem;
       border-top: 1px solid #eee;
       padding: 1rem;
       background-color: white;

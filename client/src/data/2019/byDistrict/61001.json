@@ -2,8 +2,8 @@
   "number": 61001,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,7 +13,16 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 0.25
+      "score": 0.5
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Northwest Territories",
+  "position": {
+    "y": -123.36307087698027,
+    "x": 73.15782376240809
+  }
 }

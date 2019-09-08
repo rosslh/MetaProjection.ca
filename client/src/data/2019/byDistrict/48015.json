@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Edmonton Griesbach",
+  "position": {
+    "y": -113.46748172097584,
+    "x": 53.58230521847607
+  }
 }

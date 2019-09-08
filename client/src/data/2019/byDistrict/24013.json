@@ -7,13 +7,22 @@
     },
     "calculatedPolitics": {
       "party": "lpc",
-      "confidence": 0.5
+      "confidence": 1
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 0.75
+      "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Thérèse-De Blainville",
+  "position": {
+    "y": -73.84150321773635,
+    "x": 45.67708193506151
+  }
 }

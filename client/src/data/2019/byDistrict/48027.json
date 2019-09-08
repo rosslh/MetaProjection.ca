@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Medicine Hat--Cardston--Warner",
+  "position": {
+    "y": -111.32924712116245,
+    "x": 49.66016338299033
+  }
 }

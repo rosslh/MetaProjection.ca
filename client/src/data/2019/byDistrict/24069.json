@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Saint-Léonard--Saint-Michel",
+  "position": {
+    "y": -73.60425719961232,
+    "x": 45.58288551165018
+  }
 }

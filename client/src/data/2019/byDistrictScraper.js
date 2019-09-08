@@ -47,6 +47,10 @@ function scaffoldOutput() {
         calculatedPolitics: {},
       },
       scores: [],
+      winner: {
+        party: null,
+        confidence: 0,
+      },
     });
   }
 }
@@ -106,15 +110,15 @@ function get338() {
 
 function getCalculatedPolitics() {
   const baseUrl =
-    "https://www.calculatedpolitics.com/project/2019-canadian-federal-election-region-";
+    "https://calculatedpolitics.ca/2019-canadian-federal-election/";
   const urls = [
     "ontario",
     "quebec",
     "british-columbia",
     "alberta",
     "prairies",
-    "atlantic-canada",
-    "northern-canada",
+    "atlantic",
+    "north",
   ].map(extension => `${baseUrl}${extension}`);
 
   return Promise.all(
@@ -127,7 +131,7 @@ function getCalculatedPolitics() {
           list = [...document.querySelectorAll("table tbody tr")]
             .filter(
               x =>
-                x.children.length === 10 && x.innerHTML.includes("twitter.com")
+                x.children.length === 9 && x.innerHTML.includes("smalltextcol")
             )
             .forEach(x => {
               const partyAndConfidence = x.children[8].textContent.trim();
@@ -175,26 +179,97 @@ function getTotals() {
   }
 }
 
+function getWinners() {
+  output.districts.map(data => {
+    if (data.scores.length) {
+      const winner = data.scores.reduce((prev, current) => {
+        return prev.score > current.score ? prev : current;
+      });
+      if (winner.score <= 0.5) {
+        return null;
+      }
+      data.winner = winner;
+      return data;
+    }
+    return data;
+  });
+}
+
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+function getCurrentCoords(num) {
+  try {
+    const data = JSON.parse(fs.readFileSync(`byDistrict/${num}.json`));
+    return data && data.position;
+  } catch (e) {
+    return null;
+  }
+}
+
+async function getCoordinates() {
+  const url =
+    "https://represent.opennorth.ca/boundaries/federal-electoral-districts/";
+
+  for (const [i, district] of output.districts.entries()) {
+    const currentPosition = getCurrentCoords(district.number);
+    // if (!currentPosition) {
+    await sleep(1800);
+    console.log(district.number);
+    fetch(`${url}${district.number}`)
+      .then(resp => resp.text())
+      .then(async text => {
+        try {
+          const data = JSON.parse(text);
+          district.position = {
+            y: data.centroid.coordinates[0],
+            x: data.centroid.coordinates[1],
+          };
+          output.districts[i] = district;
+          saveToFile(district.number);
+        } catch (e) {
+          console.error(district.number, e);
+          await sleep(60000);
+        }
+      });
+    // } else {
+    //   district.position = currentPosition;
+    //   output.districts[i] = district;
+    //   saveToFile(district.number);
+    // }
+  }
+}
+
+function getNames() {
+  output.districts = output.districts.map(district => {
+    return {
+      ...district,
+      name: districts.find(x => x.number === district.number).name,
+    };
+  });
+}
+
 function validateOutput() {
   output.valid = true; // TODO: actually check if the output makes sense
 }
 
-function saveToFile() {
+function saveToFile(num) {
   var fs = require("fs");
-  for (const district of output.districts) {
-    fs.writeFile(
-      `byDistrict/${district.number}.json`,
-      JSON.stringify(district, null, 2),
-      "utf8",
-      () => {}
-    );
-  }
+  fs.writeFile(
+    `byDistrict/${num}.json`,
+    JSON.stringify(output.districts.find(x => x.number === num), null, 2),
+    "utf8",
+    () => {}
+  );
 }
 
 scaffoldOutput();
 
 Promise.all([get338(), getCalculatedPolitics()]).then(() => {
   getTotals();
+  getWinners();
+  getNames();
+  getCoordinates();
   validateOutput();
-  saveToFile();
 });

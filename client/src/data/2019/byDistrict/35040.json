@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Huron--Bruce",
+  "position": {
+    "y": -81.41845305148797,
+    "x": 43.87774434620581
+  }
 }

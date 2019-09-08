@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Lévis--Lotbinière",
+  "position": {
+    "y": -71.50524222945508,
+    "x": 46.53230709687115
+  }
 }

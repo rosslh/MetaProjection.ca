@@ -6,14 +6,18 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "cpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     }
   },
-  "scores": [
-    {
-      "party": "cpc",
-      "score": 0.25
-    }
-  ]
+  "scores": [],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "King--Vaughan",
+  "position": {
+    "y": -79.60388615433115,
+    "x": 43.93100750447176
+  }
 }

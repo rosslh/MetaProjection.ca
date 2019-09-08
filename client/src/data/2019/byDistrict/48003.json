@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Bow River",
+  "position": {
+    "y": -112.61695418354691,
+    "x": 50.65490095454644
+  }
 }

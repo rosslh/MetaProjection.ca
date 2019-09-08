@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 0.25
     }
-  ]
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Hochelaga",
+  "position": {
+    "y": -73.54276493930095,
+    "x": 45.56416627893813
+  }
 }

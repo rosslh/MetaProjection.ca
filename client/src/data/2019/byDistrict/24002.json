@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Abitibi--Témiscamingue",
+  "position": {
+    "y": -78.53377545929631,
+    "x": 47.799191837676986
+  }
 }

@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Peace River--Westlock",
+  "position": {
+    "y": -115.7605731338556,
+    "x": 56.182854315980315
+  }
 }

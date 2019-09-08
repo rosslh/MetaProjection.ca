@@ -15,5 +15,14 @@
       "party": "cpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Edmonton--Wetaskiwin",
+  "position": {
+    "y": -113.84976034118962,
+    "x": 53.06035926797533
+  }
 }

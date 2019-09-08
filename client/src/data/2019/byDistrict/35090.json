@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Toronto--St. Paul's",
+  "position": {
+    "y": -79.41397568114263,
+    "x": 43.69055067287936
+  }
 }

@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 0.75
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Coast of Bays--Central--Notre Dame",
+  "position": {
+    "y": -55.746932526172166,
+    "x": 48.828176141385164
+  }
 }

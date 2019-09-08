@@ -15,5 +15,14 @@
       "party": "lpc",
       "score": 1
     }
-  ]
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Mississauga East--Cooksville",
+  "position": {
+    "y": -79.60621361003642,
+    "x": 43.60670208031691
+  }
 }
