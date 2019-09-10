@@ -241,13 +241,16 @@ function getNames() {
 }
 
 function validateOutput() {
-  output.valid = output.districts.every(d => {
-    d.projections.threethirtyeight &&
+  output.valid = output.districts.every(
+    d =>
+      d.projections.threethirtyeight &&
       d.projections.calculatedPolitics &&
-      d.number;
-  });
+      d.number
+  );
   if (!output.valid) {
-    throw "Invalid";
+    console.log(output.districts.slice(0, 10));
+    process.exit();
+    throw "Invalid output";
   }
 }
 
@@ -262,6 +265,8 @@ function saveToFile(num) {
 }
 
 scaffoldOutput();
+
+console.log("District scraper");
 
 Promise.all([get338(), getCalculatedPolitics()]).then(() => {
   getTotals();

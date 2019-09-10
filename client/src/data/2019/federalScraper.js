@@ -198,8 +198,9 @@ function validateOutput() {
     .filter(p => p.name !== "ind" && p.name !== "ppc")
     .every(party => Object.keys(party.projections).length === 4);
   if (!output.valid) {
-    throw output.parties;
-    // throw "Invalid output";
+    console.log(output.parties);
+    process.exit();
+    throw "Invalid output";
   }
 }
 
@@ -217,6 +218,8 @@ function saveToFile() {
     () => {}
   );
 }
+
+console.log("Federal scraper");
 
 Promise.all([
   get338(),
