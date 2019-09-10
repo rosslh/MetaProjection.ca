@@ -198,6 +198,7 @@ function validateOutput() {
     .filter(p => p.name !== "ind" && p.name !== "ppc")
     .every(party => Object.keys(party.projections).length === 4);
   if (!output.valid) {
+    console.log(output.parties);
     throw "Invalid output";
   }
 }
