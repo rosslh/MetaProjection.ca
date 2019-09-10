@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import React, { memo } from "react";
+import React from "react";
 import { css } from "@emotion/core";
 import { StaticQuery, graphql } from "gatsby";
 import { Map, TileLayer, CircleMarker, Popup } from "react-leaflet";
@@ -149,5 +149,4 @@ DistrictMap.defaultProps = {
   siteTitle: null,
 };
 
-export default memo(DistrictMap);
-// export default DistrictMap;
+export default DistrictMap;
