@@ -12,7 +12,10 @@ const Header = () => (
     `}
   >
     <div className="contentWrapper">
-      Made by <a href="https://rosshill.ca">Ross Hill</a>
+      Made by{" "}
+      <a target="_blank" rel="noopener noreferrer" href="https://rosshill.ca">
+        Ross Hill
+      </a>
     </div>
   </footer>
 );

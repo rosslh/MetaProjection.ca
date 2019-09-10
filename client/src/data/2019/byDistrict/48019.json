@@ -2,8 +2,8 @@
   "number": 48019,
   "projections": {
     "threethirtyeight": {
-      "party": "ndp",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
       "party": "ndp",
@@ -13,16 +13,26 @@
   "scores": [
     {
       "party": "ndp",
-      "score": 0.75
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "ndp",
-    "score": 0.75
+    "score": 0.5
   },
   "name": "Edmonton Strathcona",
   "position": {
     "y": -113.453485503447,
     "x": 53.51287974228097
-  }
+  },
+  "bounds": [
+    [
+      53.48048069317609,
+      -113.56164429669377
+    ],
+    [
+      53.562618643061,
+      -113.34420748627441
+    ]
+  ]
 }

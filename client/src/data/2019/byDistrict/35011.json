@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,16 +13,26 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 1
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 1
+    "score": 0.75
   },
   "name": "Brampton South",
   "position": {
     "y": -79.767660053484,
     "x": 43.65007499809219
-  }
+  },
+  "bounds": [
+    [
+      43.60223143860326,
+      -79.82462030262316
+    ],
+    [
+      43.70262578864469,
+      -79.71388160999902
+    ]
+  ]
 }

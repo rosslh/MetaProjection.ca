@@ -26,3 +26,12 @@ th {
 th {
   font-size: 0.95rem;
 }
+
+a,
+.brandColor {
+  color: #950451;
+}
+
+.popup {
+  z-index: 1000;
+}

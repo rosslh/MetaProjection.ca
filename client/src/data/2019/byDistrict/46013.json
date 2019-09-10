@@ -2,8 +2,8 @@
   "number": 46013,
   "projections": {
     "threethirtyeight": {
-      "party": "cpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -11,10 +11,6 @@
     }
   },
   "scores": [
-    {
-      "party": "cpc",
-      "score": 0.25
-    },
     {
       "party": "lpc",
       "score": 0.25
@@ -28,5 +24,15 @@
   "position": {
     "y": -97.14495913280358,
     "x": 49.77997895224056
-  }
+  },
+  "bounds": [
+    [
+      49.71363749142379,
+      -97.22216547064941
+    ],
+    [
+      49.838208484617304,
+      -97.04329650027783
+    ]
+  ]
 }

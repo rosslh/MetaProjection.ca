@@ -17,12 +17,22 @@
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "lpc",
+    "score": 0.5
   },
   "name": "Rimouski-Neigette--Témiscouata--Les Basques",
   "position": {
     "y": -68.75285809695208,
     "x": 47.961044030153595
-  }
+  },
+  "bounds": [
+    [
+      47.29762398431748,
+      -69.58860236468391
+    ],
+    [
+      48.64680986676532,
+      -67.947917337684
+    ]
+  ]
 }

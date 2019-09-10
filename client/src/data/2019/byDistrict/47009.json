@@ -2,8 +2,8 @@
   "number": 47009,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,16 +13,26 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 0.5
+      "score": 0.75
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "lpc",
+    "score": 0.75
   },
   "name": "Regina--Wascana",
   "position": {
     "y": -104.55101246319751,
     "x": 50.42669315769878
-  }
+  },
+  "bounds": [
+    [
+      50.3964490622974,
+      -104.61811214437822
+    ],
+    [
+      50.467906118236534,
+      -104.48022603239188
+    ]
+  ]
 }

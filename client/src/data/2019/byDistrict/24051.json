@@ -17,12 +17,22 @@
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "cpc",
+    "score": 0.5
   },
   "name": "Montmagny--L'Islet--Kamouraska--Rivière-du-Loup",
   "position": {
     "y": -69.8918252256773,
     "x": 47.309665912483275
-  }
+  },
+  "bounds": [
+    [
+      46.46419209572105,
+      -70.81621345033686
+    ],
+    [
+      48.16744669784785,
+      -68.84777618519126
+    ]
+  ]
 }

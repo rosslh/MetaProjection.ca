@@ -86,28 +86,27 @@ function get338() {
 }
 
 function getCalculatedPolitics() {
-  const url = "http://www.calculatedpolitics.com/project/2019-canada-election/";
+  const url = "https://calculatedpolitics.ca/2019-canadian-federal-election/";
   return fetch(url)
     .then(resp => resp.text())
     .then(text => {
       const dom = new JSDOM(text);
       const { document } = dom.window;
-      const list = [...document.querySelectorAll("table tr")]
+      const list = [
+        ...document.querySelectorAll(
+          "div.tab-content > div:nth-child(2) table tr" // only select from correct tab
+        ),
+      ]
         .filter(
           x =>
-            x.children.length == 6 &&
-            /\d/.test(x.textContent) &&
-            [
-              "liberal",
-              "conservative",
-              "new democrat",
-              "bloc qu",
-              "green",
-            ].some(word => x.textContent.toLowerCase().includes(word))
+            x.children.length === 2 &&
+            ["liberal", "conservative", "ndp", "bloc", "green", "other"].some(
+              word => x.textContent.toLowerCase().includes(word)
+            )
         )
         .map(x => {
           const party = getShortPartyString(x.children[0].textContent);
-          const seats = parseFloat(x.children[4].textContent);
+          const seats = parseFloat(x.children[1].textContent);
           return { party, seats };
         });
 
@@ -129,8 +128,8 @@ async function getCBC() {
 
   await page.addScriptTag({ content: `${getShortPartyString}` });
 
-  await page.waitForSelector("div.seat-proj");
-  await page.waitFor(3000); // wait for data-rankvalue to populate
+  await page.waitForSelector("div.seat-proj[data-rankvalue]");
+  await page.waitFor(5000); // wait for data-rankvalue to populate
 
   const list = await page.evaluate(() =>
     [...document.querySelectorAll("div.seat-proj")].map(x => {
@@ -144,7 +143,7 @@ async function getCBC() {
   await browser.close();
 
   for (const result of list) {
-    output.parties.find(x => x.name == result.party).projections.cbc =
+    output.parties.find(x => x.name === result.party).projections.cbc =
       result.seats;
   }
   return output;
@@ -195,7 +194,12 @@ function getAverages() {
 }
 
 function validateOutput() {
-  output.valid = true; // TODO: add actual checks here and cause build to fail if not valid
+  output.valid = output.parties
+    .filter(p => p.name !== "ind" && p.name !== "ppc")
+    .every(party => Object.keys(party.projections).length === 4);
+  if (!output.valid) {
+    throw "Invalid output";
+  }
 }
 
 function sort() {

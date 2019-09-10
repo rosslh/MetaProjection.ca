@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "cpc",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
       "party": "cpc",
@@ -13,16 +13,26 @@
   "scores": [
     {
       "party": "cpc",
-      "score": 0.5
+      "score": 0.75
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "cpc",
+    "score": 0.75
   },
   "name": "Simcoe North",
   "position": {
     "y": -79.75362223047192,
     "x": 44.711958114607306
-  }
+  },
+  "bounds": [
+    [
+      44.42982300787645,
+      -80.5207080289332
+    ],
+    [
+      44.942558022140126,
+      -79.08183403822656
+    ]
+  ]
 }

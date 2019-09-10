@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "cpc",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
       "party": "cpc",
@@ -13,16 +13,26 @@
   "scores": [
     {
       "party": "cpc",
-      "score": 0.75
+      "score": 1
     }
   ],
   "winner": {
     "party": "cpc",
-    "score": 0.75
+    "score": 1
   },
   "name": "Richmond Centre",
   "position": {
     "y": -123.35141897779788,
     "x": 49.209929224894296
-  }
+  },
+  "bounds": [
+    [
+      49.13351371301861,
+      -123.6613109931336
+    ],
+    [
+      49.29065725029652,
+      -123.10752595578096
+    ]
+  ]
 }

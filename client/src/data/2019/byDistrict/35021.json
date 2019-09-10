@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,16 +13,26 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 1
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 1
+    "score": 0.75
   },
   "name": "Don Valley West",
   "position": {
     "y": -79.37536194071942,
     "x": 43.72840318183178
-  }
+  },
+  "bounds": [
+    [
+      43.687910695266034,
+      -79.40837613213839
+    ],
+    [
+      43.76633213938306,
+      -79.3336763851694
+    ]
+  ]
 }

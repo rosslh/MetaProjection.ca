@@ -3,31 +3,29 @@ import { graphql } from "gatsby";
 import { css } from "@emotion/core";
 import { Link } from "gatsby";
 
-import Layout from "../components/layout";
+import Layout from "../layouts/index";
 import SEO from "../components/seo";
 import { addPartyDetails, projections } from "../utils/utils";
 import Image from "../components/image";
 
-const getCandidate = (party, districtNumber) => {
-  // TODO: implement
-  return `${party.name} : ${districtNumber}`;
-};
-
-const getConfidenceString = confidence => {
-  if (confidence < 0.5) {
-    return "Toss up";
-  } else if (confidence <= 0.75) {
-    return "Somewhat confident";
+const getConfidenceString = score => {
+  if (score > 0.75) {
+    return "High";
+  } else if (score > 0.5) {
+    return "Medium";
+  } else if (score > 0) {
+    return "Low";
   } else {
-    return "Very confident";
+    return "N/A";
   }
 };
 
 const District = ({ data, pageContext }) => {
   const winner = data.byDistrictJson.winner;
-  const winningParty = winner ? addPartyDetails({ name: winner.party }) : null;
+  const winningParty =
+    winner && winner.party ? addPartyDetails({ name: winner.party }) : null;
   return (
-    <Layout>
+    <Layout selectedDistrict={data.byDistrictJson.number}>
       <SEO title="District" />
       <Link to="/">← Back to federal projection</Link>
       <h2
@@ -37,13 +35,12 @@ const District = ({ data, pageContext }) => {
       >
         {pageContext.name.replace(/--/g, "—")}
       </h2>
-      <h3>Likely winner</h3>
+      <h3>Projected winner</h3>
       <table>
         <thead>
           <tr>
             <th></th>
             <th>Party</th>
-            <th>Candidate</th>
           </tr>
         </thead>
         <tbody>
@@ -56,17 +53,14 @@ const District = ({ data, pageContext }) => {
             >
               {winner ? (
                 <Image
-                  alt={winningParty.longName}
-                  src={winningParty.imageString}
+                  alt={(winningParty && winningParty.longName) || "Unknown"}
+                  src={(winningParty && winningParty.imageString) || "ind.png"}
                 />
               ) : (
                 <Image alt="Toss up" src={"ind.png"} />
               )}
             </td>
-            <td>{winner ? winningParty.longName : "Toss up"}</td>
-            <td>
-              {winner ? getCandidate(winningParty, pageContext.number) : ""}
-            </td>
+            <td>{winningParty ? winningParty.longName : "Toss up"}</td>
           </tr>
         </tbody>
       </table>
@@ -129,8 +123,6 @@ const District = ({ data, pageContext }) => {
           })}
         </tbody>
       </table>
-      <h3>Candidates</h3>
-      <div>...</div>
     </Layout>
   );
 };

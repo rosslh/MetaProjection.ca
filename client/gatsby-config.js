@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: ``,
-    description: ``,
+    title: `MetaProjection`,
+    description: `Canada electoral projection aggregator`,
     author: `Ross Hill`,
   },
   plugins: [
@@ -24,7 +24,9 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `Federal2019`,
-        path: `${__dirname}/src/data/2019/federal`,
+        path: `${__dirname}/src/data/2019/federal/${new Date()
+          .toISOString()
+          .slice(0, 10)}.json`,
       },
     },
     `gatsby-plugin-react-helmet`,

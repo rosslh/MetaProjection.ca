@@ -54,11 +54,11 @@ export const addPartyDetails = party => {
 export const projections = {
   calculatedPolitics: {
     name: "Calculated Politics",
-    url: "https://www.calculatedpolitics.com/project/2019-canada-election",
+    url: "https://www.calculatedpolitics.ca",
   },
   cdnElectionWatch: {
     name: "Canadian Election Watch",
-    url: "http://cdnelectionwatch.blogspot.com/",
+    url: "http://cdnelectionwatch.blogspot.com",
   },
   threethirtyeight: {
     name: "338 Canada",
@@ -66,6 +66,6 @@ export const projections = {
   },
   cbc: {
     name: "CBC Poll Tracker",
-    url: "https://newsinteractives.cbc.ca/elections/poll-tracker/canada/",
+    url: "https://newsinteractives.cbc.ca/elections/poll-tracker/canada",
   },
 };

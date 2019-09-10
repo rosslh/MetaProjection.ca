@@ -4,7 +4,7 @@ import { Popup } from "semantic-ui-react";
 
 import Image from "../components/image";
 import { addPartyDetails, projections } from "../utils/utils";
-import Layout from "../components/layout";
+import Layout from "../layouts/index";
 import SEO from "../components/seo";
 import { StaticQuery, graphql } from "gatsby";
 import { css } from "@emotion/core";
@@ -44,34 +44,44 @@ const IndexPage = () => (
           `}
         >
           Aggregated from{" "}
-          <a href={projections["calculatedPolitics"].url}>
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            href={projections["calculatedPolitics"].url}
+          >
             {projections["calculatedPolitics"].name}
           </a>
           ,{" "}
-          <a href={projections["cdnElectionWatch"].url}>
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            href={projections["cdnElectionWatch"].url}
+          >
             {projections["cdnElectionWatch"].name}
           </a>
           ,{" "}
-          <a href={projections["threethirtyeight"].url}>
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            href={projections["threethirtyeight"].url}
+          >
             {projections["threethirtyeight"].name}
           </a>
-          , and <a href={projections["cbc"].url}>{projections["cbc"].name}</a>
+          , and{" "}
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            href={projections["cbc"].url}
+          >
+            {projections["cbc"].name}
+          </a>
         </p>
         <table>
           <thead>
             <tr>
               <th></th>
               <th>Party</th>
-              <th>
-                Seats{" "}
-                <span
-                  css={css`
-                    font-weight: normal;
-                  `}
-                >
-                  (out of 338)
-                </span>
-              </th>
+              <th>Projected seats</th>
             </tr>
           </thead>
           <tbody>
@@ -95,17 +105,18 @@ const IndexPage = () => (
                       font-weight: bold;
                       display: flex;
                       justify-content: space-between;
+                      align-items: middle;
                       width: 6rem;
                     `}
                   >
                     <span>{Math.round(party.avg)}</span>
                     <span
                       css={css`
-                        font-size: 1rem;
-                        vertical-align: middle;
+                        font-size: 0.9rem;
                         color: #444;
                       `}
                     >
+                      {/* see layout.css */}
                       <Popup
                         hoverable
                         content={

@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,16 +13,26 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 1
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 1
+    "score": 0.75
   },
   "name": "Brampton North",
   "position": {
     "y": -79.77630290993407,
     "x": 43.738978579305666
-  }
+  },
+  "bounds": [
+    [
+      43.70583900457417,
+      -79.83647848528149
+    ],
+    [
+      43.77218971431903,
+      -79.72021350389927
+    ]
+  ]
 }

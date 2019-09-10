@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,16 +13,26 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 1
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 1
+    "score": 0.75
   },
   "name": "Pickering--Uxbridge",
   "position": {
     "y": -79.16176265980614,
     "x": 44.04376959717551
-  }
+  },
+  "bounds": [
+    [
+      43.7937785925878,
+      -79.32801340670028
+    ],
+    [
+      44.2631211943165,
+      -79.00854293235102
+    ]
+  ]
 }

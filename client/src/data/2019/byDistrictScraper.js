@@ -182,14 +182,16 @@ function getTotals() {
 function getWinners() {
   output.districts.map(data => {
     if (data.scores.length) {
-      const winner = data.scores.reduce((prev, current) => {
-        return prev.score > current.score ? prev : current;
+      const ranking = data.scores.sort((a, b) => {
+        return b.score - a.score;
       });
-      if (winner.score <= 0.5) {
-        return null;
+      winner = ranking[0];
+      if (
+        ranking[0].score >= 0.5 &&
+        (!ranking[1] || ranking[0].score > ranking[1].score)
+      ) {
+        data.winner = winner;
       }
-      data.winner = winner;
-      return data;
     }
     return data;
   });
@@ -199,22 +201,11 @@ function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-function getCurrentCoords(num) {
-  try {
-    const data = JSON.parse(fs.readFileSync(`byDistrict/${num}.json`));
-    return data && data.position;
-  } catch (e) {
-    return null;
-  }
-}
-
-async function getCoordinates() {
+async function getGeography() {
   const url =
     "https://represent.opennorth.ca/boundaries/federal-electoral-districts/";
 
   for (const [i, district] of output.districts.entries()) {
-    const currentPosition = getCurrentCoords(district.number);
-    // if (!currentPosition) {
     await sleep(1800);
     console.log(district.number);
     fetch(`${url}${district.number}`)
@@ -226,6 +217,10 @@ async function getCoordinates() {
             y: data.centroid.coordinates[0],
             x: data.centroid.coordinates[1],
           };
+          district.bounds = [
+            [data.extent[1], data.extent[0]],
+            [data.extent[3], data.extent[2]],
+          ];
           output.districts[i] = district;
           saveToFile(district.number);
         } catch (e) {
@@ -233,11 +228,6 @@ async function getCoordinates() {
           await sleep(60000);
         }
       });
-    // } else {
-    //   district.position = currentPosition;
-    //   output.districts[i] = district;
-    //   saveToFile(district.number);
-    // }
   }
 }
 
@@ -251,7 +241,14 @@ function getNames() {
 }
 
 function validateOutput() {
-  output.valid = true; // TODO: actually check if the output makes sense
+  output.valid = output.districts.every(d => {
+    d.projections.threethirtyeight &&
+      d.projections.calculatedPolitics &&
+      d.number;
+  });
+  if (!output.valid) {
+    throw "Invalid";
+  }
 }
 
 function saveToFile(num) {
@@ -270,6 +267,6 @@ Promise.all([get338(), getCalculatedPolitics()]).then(() => {
   getTotals();
   getWinners();
   getNames();
-  getCoordinates();
+  getGeography();
   validateOutput();
 });

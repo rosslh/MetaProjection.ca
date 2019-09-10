@@ -18,13 +18,16 @@ function FederalDetailPopup(props) {
         border-radius: 3px;
         box-shadow: 0 2px 4px 0 rgba(34, 36, 38, 0.12),
           0 2px 10px 0 rgba(34, 36, 38, 0.15);
+        > * {
+          font-size: 0.9rem !important;
+        }
       `}
     >
       <table
         css={css`
           margin-bottom: 0.5rem;
           td {
-            padding: 0.2rem 0 !important;
+            padding: 0.1rem 0 !important;
           }
           td:first-child {
             padding-right: 0.5rem !important;
@@ -38,14 +41,22 @@ function FederalDetailPopup(props) {
           {keysSorted.map(x => (
             <tr key={x}>
               <td>
-                <a href={projections[x].url}>{projections[x].name}</a>
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href={projections[x].url}
+                >
+                  {projections[x].name}
+                </a>
               </td>
               <td>{props.data[x]}</td>
             </tr>
           ))}
         </tbody>
       </table>
-      <strong>Avg:</strong> {props.avg} seats
+      <div>
+        <strong>Avg:</strong> {props.avg} seats
+      </div>
     </div>
   );
 }

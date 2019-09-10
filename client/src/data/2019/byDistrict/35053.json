@@ -2,8 +2,8 @@
   "number": 35053,
   "projections": {
     "threethirtyeight": {
-      "party": "lpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,16 +13,26 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 0.75
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 0.75
+    "score": 0.5
   },
   "name": "London West",
   "position": {
     "y": -81.31974161464831,
     "x": 42.97381442303418
-  }
+  },
+  "bounds": [
+    [
+      42.93391484115657,
+      -81.39088280332123
+    ],
+    [
+      43.03624309472147,
+      -81.21636469041357
+    ]
+  ]
 }

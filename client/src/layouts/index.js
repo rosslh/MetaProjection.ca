@@ -10,12 +10,13 @@ import PropTypes from "prop-types";
 import { useStaticQuery, graphql } from "gatsby";
 import { css } from "@emotion/core";
 
-import Header from "./header";
-import Footer from "./footer";
-import Map from "./map";
+import Header from "../components/header";
+import Footer from "../components/footer";
+import Map from "../components/map";
+
 import "./layout.css";
 
-const Layout = ({ noMap, children }) => {
+const Layout = ({ noMap, children, selectedDistrict }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       site {
@@ -25,15 +26,20 @@ const Layout = ({ noMap, children }) => {
       }
     }
   `);
-
   return (
     <div
       css={css`
         background-color: #fafafa;
       `}
     >
-      <Header siteTitle={data.site.siteMetadata.title} />
-      {noMap ? "" : <Map />}
+      <Header shadow={noMap} siteTitle={data.site.siteMetadata.title} />
+      {noMap ? (
+        ""
+      ) : (
+        <>
+          <Map selectedDistrict={selectedDistrict} />
+        </>
+      )}
       <div
         className="contentWrapper"
         css={css`
@@ -50,6 +56,7 @@ const Layout = ({ noMap, children }) => {
 Layout.propTypes = {
   children: PropTypes.node.isRequired,
   noMap: PropTypes.string,
+  selectedDistrict: PropTypes.number,
 };
 
 export default Layout;

@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,16 +13,26 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 1
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 1
+    "score": 0.75
   },
   "name": "Bay of Quinte",
   "position": {
     "y": -77.20904631558946,
     "x": 44.016611150236415
-  }
+  },
+  "bounds": [
+    [
+      43.79817167349302,
+      -77.75446460795852
+    ],
+    [
+      44.31439129394511,
+      -76.50000153179573
+    ]
+  ]
 }

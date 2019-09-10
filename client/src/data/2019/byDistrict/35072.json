@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,16 +13,26 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 0.75
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 0.75
+    "score": 0.5
   },
   "name": "Oakville",
   "position": {
     "y": -79.69476725876729,
     "x": 43.44370079541642
-  }
+  },
+  "bounds": [
+    [
+      43.36893111671143,
+      -79.77453989017253
+    ],
+    [
+      43.52277789279789,
+      -79.61616444071797
+    ]
+  ]
 }

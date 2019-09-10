@@ -17,12 +17,22 @@
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "cpc",
+    "score": 0.5
   },
   "name": "Central Okanagan--Similkameen--Nicola",
   "position": {
     "y": -120.38259609837574,
     "x": 49.75221060497007
-  }
+  },
+  "bounds": [
+    [
+      49.00000178924993,
+      -121.32832074076315
+    ],
+    [
+      50.58075130137313,
+      -119.41756863065002
+    ]
+  ]
 }

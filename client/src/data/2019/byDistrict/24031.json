@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "bq",
-      "confidence": 1
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "bq",
@@ -13,16 +13,26 @@
   "scores": [
     {
       "party": "bq",
-      "score": 0.75
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "bq",
-    "score": 0.75
+    "score": 0.5
   },
   "name": "Joliette",
   "position": {
     "y": -73.99035047513892,
     "x": 46.65662058773714
-  }
+  },
+  "bounds": [
+    [
+      45.90523480279432,
+      -74.65989826436707
+    ],
+    [
+      47.46422638877526,
+      -73.23375542908708
+    ]
+  ]
 }
