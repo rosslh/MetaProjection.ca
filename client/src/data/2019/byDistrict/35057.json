@@ -2,8 +2,8 @@
   "number": 35057,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "cpc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "cpc",
@@ -13,17 +13,17 @@
   "scores": [
     {
       "party": "cpc",
-      "score": 0.5
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "cpc",
-    "score": 0.5
+    "score": 0.75
   },
   "name": "Milton",
   "position": {
-    "y": -79.93386519747352,
-    "x": 43.49951445266575
+    "x": 43.49951445266575,
+    "y": -79.93386519747352
   },
   "bounds": [
     [

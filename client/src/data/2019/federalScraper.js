@@ -211,8 +211,8 @@ function sort() {
 function saveToFile() {
   var fs = require("fs");
   const date = new Date().toISOString().substring(0, 10);
-  fs.writeFile(
-    `federal/${date}.json`,
+  fs.writeFileSync(
+    `src/data/2019/federal/${date}.json`,
     JSON.stringify(output, null, 2),
     "utf8",
     () => {}

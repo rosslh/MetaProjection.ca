@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,17 +13,17 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 1
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 1
+    "score": 0.75
   },
   "name": "Willowdale",
   "position": {
-    "y": -79.41648107306604,
-    "x": 43.776889059029685
+    "x": 43.776889059029685,
+    "y": -79.41648107306604
   },
   "bounds": [
     [

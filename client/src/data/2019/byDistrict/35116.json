@@ -2,8 +2,8 @@
   "number": 35116,
   "projections": {
     "threethirtyeight": {
-      "party": "ndp",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
       "party": "ndp",
@@ -13,17 +13,17 @@
   "scores": [
     {
       "party": "ndp",
-      "score": 0.75
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "ndp",
-    "score": 0.75
+    "score": 0.5
   },
   "name": "Windsor--Tecumseh",
   "position": {
-    "y": -82.92743819909973,
-    "x": 42.26713452767515
+    "x": 42.26713452767515,
+    "y": -82.92743819909973
   },
   "bounds": [
     [

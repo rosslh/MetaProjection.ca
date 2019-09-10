@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,17 +13,17 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 1
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 1
+    "score": 0.75
   },
   "name": "Etobicoke Centre",
   "position": {
-    "y": -79.55253767851706,
-    "x": 43.66441414073607
+    "x": 43.66441414073607,
+    "y": -79.55253767851706
   },
   "bounds": [
     [

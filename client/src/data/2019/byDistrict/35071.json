@@ -2,8 +2,8 @@
   "number": 35071,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "cpc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -11,6 +11,10 @@
     }
   },
   "scores": [
+    {
+      "party": "cpc",
+      "score": 0.25
+    },
     {
       "party": "lpc",
       "score": 0.25
@@ -22,8 +26,8 @@
   },
   "name": "Northumberland--Peterborough South",
   "position": {
-    "y": -78.09420582162073,
-    "x": 44.130550988483726
+    "x": 44.130550988483726,
+    "y": -78.09420582162073
   },
   "bounds": [
     [

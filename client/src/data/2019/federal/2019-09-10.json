@@ -3,8 +3,8 @@
     {
       "name": "lpc",
       "projections": {
-        "threethirtyeight": 164.1,
         "cdnElectionWatch": 165.8,
+        "threethirtyeight": 164.1,
         "calculatedPolitics": 146,
         "cbc": 164
       },
@@ -13,8 +13,8 @@
     {
       "name": "cpc",
       "projections": {
-        "threethirtyeight": 141.8,
         "cdnElectionWatch": 144,
+        "threethirtyeight": 141.8,
         "calculatedPolitics": 114,
         "cbc": 141
       },
@@ -23,8 +23,8 @@
     {
       "name": "ndp",
       "projections": {
-        "threethirtyeight": 14.4,
         "cdnElectionWatch": 13.9,
+        "threethirtyeight": 14.4,
         "calculatedPolitics": 13,
         "cbc": 14
       },
@@ -33,8 +33,8 @@
     {
       "name": "bq",
       "projections": {
-        "threethirtyeight": 13,
         "cdnElectionWatch": 9.8,
+        "threethirtyeight": 13,
         "calculatedPolitics": 6,
         "cbc": 15
       },
@@ -43,8 +43,8 @@
     {
       "name": "gpc",
       "projections": {
-        "threethirtyeight": 3.9,
         "cdnElectionWatch": 3.5,
+        "threethirtyeight": 3.9,
         "calculatedPolitics": 1,
         "cbc": 4
       },
@@ -53,8 +53,8 @@
     {
       "name": "ppc",
       "projections": {
-        "threethirtyeight": 0.5,
         "cdnElectionWatch": 0.5,
+        "threethirtyeight": 0.5,
         "cbc": 0
       },
       "avg": 0.33
@@ -62,8 +62,8 @@
     {
       "name": "ind",
       "projections": {
-        "threethirtyeight": 0.3,
         "cdnElectionWatch": 0.4,
+        "threethirtyeight": 0.3,
         "calculatedPolitics": 0,
         "cbc": 0
       },

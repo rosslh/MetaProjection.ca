@@ -2,8 +2,8 @@
   "number": 35061,
   "projections": {
     "threethirtyeight": {
-      "party": "lpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,17 +13,17 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 0.75
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 0.75
+    "score": 0.5
   },
   "name": "Mississauga--Lakeshore",
   "position": {
-    "y": -79.5995831740433,
-    "x": 43.540826126548474
+    "x": 43.540826126548474,
+    "y": -79.5995831740433
   },
   "bounds": [
     [

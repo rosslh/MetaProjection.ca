@@ -138,6 +138,7 @@ const DistrictMap = ({ selectedDistrict }) => {
       />
     );
   }
+  return null;
 };
 
 DistrictMap.propTypes = {

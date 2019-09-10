@@ -207,15 +207,14 @@ async function getGeography() {
 
   for (const [i, district] of output.districts.entries()) {
     await sleep(1800);
-    console.log(district.number);
     fetch(`${url}${district.number}`)
       .then(resp => resp.text())
       .then(async text => {
         try {
           const data = JSON.parse(text);
           district.position = {
-            y: data.centroid.coordinates[0],
             x: data.centroid.coordinates[1],
+            y: data.centroid.coordinates[0],
           };
           district.bounds = [
             [data.extent[1], data.extent[0]],
@@ -255,9 +254,10 @@ function validateOutput() {
 }
 
 function saveToFile(num) {
+  console.log(num);
   var fs = require("fs");
   fs.writeFile(
-    `byDistrict/${num}.json`,
+    `src/data/2019/byDistrict/${num}.json`,
     JSON.stringify(output.districts.find(x => x.number === num), null, 2),
     "utf8",
     () => {}
