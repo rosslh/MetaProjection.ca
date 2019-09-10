@@ -8,7 +8,7 @@ const output = {
 };
 
 const fs = require("fs");
-const districts = JSON.parse(fs.readFileSync("../districts.json"));
+const districts = JSON.parse(fs.readFileSync("src/data/districts.json"));
 
 function getShortPartyString(input) {
   input = input.toLowerCase().trim();
