@@ -3,7 +3,7 @@ import { graphql } from "gatsby";
 import { css } from "@emotion/core";
 import { Link } from "gatsby";
 
-import Layout from "../layouts/index";
+import Layout from "../components/layout";
 import SEO from "../components/seo";
 import { addPartyDetails, projections } from "../utils/utils";
 import Image from "../components/image";

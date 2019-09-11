@@ -35,3 +35,13 @@ a,
 .popup {
   z-index: 1000;
 }
+
+.leaflet-container {
+  height: 350px;
+  width: 100%;
+}
+
+.leaflet-control * {
+  text-decoration: none;
+  background-image: none;
+}

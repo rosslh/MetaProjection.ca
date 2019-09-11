@@ -32,55 +32,55 @@ const getConfidenceScore = score => {
 };
 
 const DistrictMap = ({ selectedDistrict }) => {
-  if (typeof window !== "undefined") {
-    return (
-      <StaticQuery
-        query={graphql`
-          query MyQuery {
-            allByDistrictJson {
-              nodes {
-                winner {
-                  score
-                  party
-                }
-                position {
-                  x
-                  y
-                }
-                bounds
-                number
-                name
+  return (
+    <StaticQuery
+      query={graphql`
+        query MyQuery {
+          allByDistrictJson {
+            nodes {
+              winner {
+                score
+                party
               }
+              position {
+                x
+                y
+              }
+              bounds
+              number
+              name
             }
           }
-        `}
-        render={({ allByDistrictJson }) => {
-          let position = [52, -95];
+        }
+      `}
+      render={({ allByDistrictJson }) => {
+        let position = [52, -95];
 
-          const selectedDistrictObject = allByDistrictJson.nodes.find(
-            x => x.number === selectedDistrict
-          );
-          if (selectedDistrict) {
-            position = [
-              selectedDistrictObject.position.x,
-              selectedDistrictObject.position.y,
-            ];
-          }
+        const selectedDistrictObject = allByDistrictJson.nodes.find(
+          x => x.number === selectedDistrict
+        );
+        if (selectedDistrict) {
+          position = [
+            selectedDistrictObject.position.x,
+            selectedDistrictObject.position.y,
+          ];
+        }
 
-          const getBounds = () => {
-            return selectedDistrictObject.bounds;
-          };
+        const getBounds = () => {
+          return selectedDistrictObject.bounds;
+        };
 
-          return (
-            <>
-              <div
-                css={css`
-                  > * {
-                    height: 350px;
-                    width: 100%;
-                  }
-                `}
-              >
+        return (
+          <>
+            <div
+              css={css`
+                > * {
+                  height: 350px;
+                  width: 100%;
+                }
+              `}
+            >
+              {typeof window !== "undefined" ? (
                 <Map
                   center={position}
                   zoom={selectedDistrict ? null : 3.5}
@@ -101,7 +101,7 @@ const DistrictMap = ({ selectedDistrict }) => {
                         }
                         color={getPartyDetails(district.winner).color}
                         center={[district.position.x, district.position.y]}
-                        radius={isSelected ? 8 : 6}
+                        radius={isSelected ? 10 : 6}
                         onMouseOver={e => {
                           e.target.openPopup();
                           if (!isSelected) {
@@ -127,18 +127,24 @@ const DistrictMap = ({ selectedDistrict }) => {
                     );
                   })}
                 </Map>
-              </div>
-              <FindDistrict
-                districts={allByDistrictJson.nodes}
-                currentDistrict={selectedDistrict}
-              />
-            </>
-          );
-        }}
-      />
-    );
-  }
-  return null;
+              ) : (
+                <div
+                  css={css`
+                    height: 350px;
+                    width: 100%;
+                  `}
+                />
+              )}
+            </div>
+            <FindDistrict
+              districts={allByDistrictJson.nodes}
+              currentDistrict={selectedDistrict}
+            />
+          </>
+        );
+      }}
+    />
+  );
 };
 
 DistrictMap.propTypes = {

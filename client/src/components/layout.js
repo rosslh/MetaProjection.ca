@@ -10,9 +10,9 @@ import PropTypes from "prop-types";
 import { useStaticQuery, graphql } from "gatsby";
 import { css } from "@emotion/core";
 
-import Header from "../components/header";
-import Footer from "../components/footer";
-import Map from "../components/map";
+import Header from "./header";
+import Footer from "./footer";
+import Map from "./map";
 
 import "./layout.css";
 
@@ -33,13 +33,7 @@ const Layout = ({ noMap, children, selectedDistrict }) => {
       `}
     >
       <Header shadow={noMap} siteTitle={data.site.siteMetadata.title} />
-      {noMap ? (
-        ""
-      ) : (
-        <>
-          <Map selectedDistrict={selectedDistrict} />
-        </>
-      )}
+      {noMap ? "" : <Map selectedDistrict={selectedDistrict} />}
       <div
         className="contentWrapper"
         css={css`
