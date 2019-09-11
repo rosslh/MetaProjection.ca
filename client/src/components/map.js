@@ -87,7 +87,7 @@ const DistrictMap = ({ selectedDistrict }) => {
                   bounds={selectedDistrict ? getBounds() : null}
                 >
                   <TileLayer
-                    url="http://{s}.tile.osm.org/{z}/{x}/{y}.png"
+                    url="https://{s}.tile.osm.org/{z}/{x}/{y}.png"
                     attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
                   />
                   {allByDistrictJson.nodes.map(district => {
