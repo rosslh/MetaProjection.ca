@@ -106,7 +106,9 @@ function getCalculatedPolitics() {
         )
         .map(x => {
           const party = getShortPartyString(x.children[0].textContent);
-          const seats = parseFloat(x.children[1].textContent);
+          const seats = parseFloat(
+            x.children[1].querySelector("div div:nth-child(2)").textContent
+          );
           return { party, seats };
         });
 

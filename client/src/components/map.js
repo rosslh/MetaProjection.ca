@@ -83,8 +83,11 @@ const DistrictMap = ({ selectedDistrict }) => {
               {typeof window !== "undefined" ? (
                 <Map
                   center={position}
-                  zoom={selectedDistrict ? null : 3.5}
-                  bounds={selectedDistrict ? getBounds() : null}
+                  bounds={
+                    selectedDistrict
+                      ? getBounds()
+                      : [[40.84, -135.79], [60.06, -49.75]]
+                  }
                 >
                   <TileLayer
                     url="https://{s}.tile.osm.org/{z}/{x}/{y}.png"

@@ -54,7 +54,8 @@ const FindDistrict = ({ districts, currentDistrict }) => {
               isSearchable
               inputId="districtSelect"
               className={style`
-                width: 25rem;
+                width: 80%;
+                max-width: 25rem;
                 display: inline-block;
                 font-size: 0.75rem;
               `}

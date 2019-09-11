@@ -3,52 +3,62 @@
     {
       "name": "lpc",
       "projections": {
-        "cdnElectionWatch": 165.8,
-        "threethirtyeight": 164.1,
-        "calculatedPolitics": 146,
+        "cdnElectionWatch": 165.6,
+        "threethirtyeight": 167.2,
+        "calculatedPolitics": 172,
         "cbc": 164
       },
-      "avg": 159.98
+      "avg": 167.2
     },
     {
       "name": "cpc",
       "projections": {
         "cdnElectionWatch": 144,
-        "threethirtyeight": 141.8,
-        "calculatedPolitics": 114,
+        "threethirtyeight": 142.2,
+        "calculatedPolitics": 127,
         "cbc": 141
       },
-      "avg": 135.2
+      "avg": 138.55
     },
     {
       "name": "ndp",
       "projections": {
-        "cdnElectionWatch": 13.9,
-        "threethirtyeight": 14.4,
-        "calculatedPolitics": 13,
+        "cdnElectionWatch": 14,
+        "threethirtyeight": 11.7,
+        "calculatedPolitics": 24,
         "cbc": 14
       },
-      "avg": 13.83
+      "avg": 15.93
     },
     {
       "name": "bq",
       "projections": {
         "cdnElectionWatch": 9.8,
-        "threethirtyeight": 13,
-        "calculatedPolitics": 6,
+        "threethirtyeight": 12.1,
+        "calculatedPolitics": 11,
         "cbc": 15
       },
-      "avg": 10.95
+      "avg": 11.98
     },
     {
       "name": "gpc",
       "projections": {
         "cdnElectionWatch": 3.5,
         "threethirtyeight": 3.9,
-        "calculatedPolitics": 1,
+        "calculatedPolitics": 3,
         "cbc": 4
       },
-      "avg": 3.1
+      "avg": 3.6
+    },
+    {
+      "name": "ind",
+      "projections": {
+        "cdnElectionWatch": 0.4,
+        "threethirtyeight": 0.4,
+        "calculatedPolitics": 1,
+        "cbc": 0
+      },
+      "avg": 0.45
     },
     {
       "name": "ppc",
@@ -58,16 +68,6 @@
         "cbc": 0
       },
       "avg": 0.33
-    },
-    {
-      "name": "ind",
-      "projections": {
-        "cdnElectionWatch": 0.4,
-        "threethirtyeight": 0.3,
-        "calculatedPolitics": 0,
-        "cbc": 0
-      },
-      "avg": 0.18
     }
   ],
   "valid": true
