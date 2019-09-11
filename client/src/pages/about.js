@@ -28,7 +28,13 @@ const About = () => (
           const projection = projections[key];
           return (
             <li key={key}>
-              <a href={projection.url}>{projection.name}</a>
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href={projection.url}
+              >
+                {projection.name}
+              </a>
             </li>
           );
         })}

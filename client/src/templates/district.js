@@ -27,10 +27,17 @@ const District = ({ data, pageContext }) => {
   return (
     <Layout selectedDistrict={data.byDistrictJson.number}>
       <SEO title="District" />
-      <Link to="/">← Back to federal projection</Link>
+      <span
+        css={css`
+          font-size: 0.85rem;
+        `}
+      >
+        <Link to="/">← Back to federal projection</Link>
+      </span>
       <h2
         css={css`
-          margin-top: 2rem;
+          margin-top: 1.5rem;
+          margin-bottom: -0.8rem;
         `}
       >
         {pageContext.name.replace(/--/g, "—")}

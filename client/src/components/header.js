@@ -9,7 +9,9 @@ const Header = ({ shadow }) => (
       width: 100%;
       background-color: white;
       padding: 1rem 0;
-      ${shadow ? "box-shadow: 0px 1px 2px 0px rgba(40, 40, 40, 0.1);" : ""}
+      ${shadow
+        ? "box-shadow: 0px 1px 2px 0px rgba(40, 40, 40, 0.1);"
+        : "border-bottom: 1px solid #eee;"}
     `}
   >
     <div

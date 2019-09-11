@@ -33,7 +33,8 @@ const FindDistrict = ({ districts, currentDistrict }) => {
         width: 100%;
         background-color: white;
         padding: 0.5rem 0;
-        margin-bottom: 1.5rem;
+        margin-bottom: 1.2rem;
+        border-top: 1px solid #eee;
         font-size: 0.8rem;
         box-shadow: 0px 1px 2px 0px rgba(40, 40, 40, 0.1);
       `}
