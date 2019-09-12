@@ -51,6 +51,8 @@ const FindDistrict = ({ districts, currentDistrict }) => {
             navigate(`/district/${closest.number}`);
           });
       });
+    } else {
+      alert("Geolocation is disabled. Please check your settings.");
     }
   };
 
@@ -95,31 +97,33 @@ const FindDistrict = ({ districts, currentDistrict }) => {
           }
         `}
       >
-        <div>
-          <button
-            css={css`
-              height: 2rem;
-              padding: 0 1rem;
-              border-radius: 2rem;
-              background-color: #950451;
-              color: white;
-              font-weight: bold;
-              display: inline-flex;
-              justify-content: center;
-              align-items: center;
-              border: none;
-              cursor: pointer;
-              :hover {
-                opacity: 0.9;
-              }
-            `}
-            onClick={geolocate}
-            id="geolocate"
-          >
-            <IoMdPin />
-            &nbsp;Find my riding
-          </button>
-        </div>
+        {"geolocation" in navigator ? (
+          <div>
+            <button
+              css={css`
+                height: 2rem;
+                padding: 0 1rem;
+                border-radius: 2rem;
+                background-color: #950451;
+                color: white;
+                font-weight: bold;
+                display: inline-flex;
+                justify-content: center;
+                align-items: center;
+                border: none;
+                cursor: pointer;
+                :hover {
+                  opacity: 0.9;
+                }
+              `}
+              onClick={geolocate}
+              id="geolocate"
+            >
+              <IoMdPin />
+              &nbsp;Find my riding
+            </button>
+          </div>
+        ) : null}
         <ClassNames>
           {({ css: style }) => (
             <Select
