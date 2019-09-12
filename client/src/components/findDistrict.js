@@ -50,7 +50,7 @@ const FindDistrict = ({ districts }) => {
               if (r && r.objects && r.objects.length === 1) {
                 navigate(`/district/${r.objects[0].external_id}`);
               } else {
-                throw "Riding lookup failed";
+                setButtonError(true);
               }
             })
             .catch(() => {
@@ -73,7 +73,7 @@ const FindDistrict = ({ districts }) => {
         }
       );
     } else {
-      alert("Geolocation is disabled. Please check your settings.");
+      setButtonError(true);
     }
   };
 
