@@ -19,8 +19,16 @@ const FindDistrict = ({ districts, currentDistrict }) => {
     setSelectedOption(option);
   };
 
+  const geolocationEnabled = () => {
+    try {
+      return "geolocation" in navigator;
+    } catch (e) {
+      return false;
+    }
+  };
+
   const geolocate = () => {
-    if ("geolocation" in navigator) {
+    if (geolocationEnabled()) {
       navigator.geolocation.getCurrentPosition(position => {
         const userLocation = {
           latitude: position.coords.latitude,
@@ -97,7 +105,7 @@ const FindDistrict = ({ districts, currentDistrict }) => {
           }
         `}
       >
-        {"geolocation" in navigator ? (
+        {geolocationEnabled() ? (
           <div>
             <button
               css={css`
