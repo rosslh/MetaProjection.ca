@@ -3,6 +3,8 @@ import { css, ClassNames } from "@emotion/core";
 import PropTypes from "prop-types";
 import Select from "react-select";
 import { navigate } from "gatsby";
+import { IoMdPin } from "react-icons/io";
+import { getDistance } from "geolib";
 
 const FindDistrict = ({ districts, currentDistrict }) => {
   const options = districts.map(d => ({
@@ -17,15 +19,40 @@ const FindDistrict = ({ districts, currentDistrict }) => {
     setSelectedOption(option);
   };
 
-  const currentDistrictObject = currentDistrict
-    ? districts.find(d => d.number === currentDistrict)
-    : null;
-  const currentDistrictOption = currentDistrict
-    ? {
-        value: currentDistrictObject.number,
-        label: currentDistrictObject.name,
-      }
-    : null;
+  const geolocate = () => {
+    if ("geolocation" in navigator) {
+      navigator.geolocation.getCurrentPosition(position => {
+        const userLocation = {
+          latitude: position.coords.latitude,
+          longitude: position.coords.longitude,
+        };
+        fetch(
+          `https://represent.opennorth.ca/boundaries/?contains=${userLocation.latitude},${userLocation.longitude}&sets=federal-electoral-districts`
+        )
+          .then(r => r.json())
+          .then(r => {
+            if (r && r.objects && r.objects.length === 1) {
+              navigate(`/district/${r.objects[0].external_id}`);
+            } else {
+              throw "Riding lookup failed";
+            }
+          })
+          .catch(() => {
+            const districtDistances = districts.map(d => ({
+              number: d.number,
+              distance: getDistance(userLocation, {
+                latitude: d.position.x,
+                longitude: d.position.y,
+              }),
+            }));
+            const closest = districtDistances.reduce((prev, curr) => {
+              return prev.distance < curr.distance ? prev : curr;
+            });
+            navigate(`/district/${closest.number}`);
+          });
+      });
+    }
+  };
 
   return (
     <div
@@ -35,33 +62,77 @@ const FindDistrict = ({ districts, currentDistrict }) => {
         padding: 0.5rem 0;
         margin-bottom: 1.2rem;
         border-top: 1px solid #eee;
-        font-size: 0.8rem;
+        font-size: 0.9rem;
         box-shadow: 0px 1px 2px 0px rgba(40, 40, 40, 0.1);
       `}
     >
-      <div className="contentWrapper">
-        <label
-          css={css`
-            margin-right: 0.8rem;
-          `}
-          htmlFor="districtSelect"
-        >
-          Select{currentDistrict ? "ed" : ""} district:
-        </label>
+      <div
+        className="contentWrapper"
+        css={css`
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+
+          @media (max-width: 650px) {
+            > * {
+              width: 100%;
+              padding: 0.3rem 0;
+              text-align: center;
+            }
+            padding: 0.3rem 0.6rem;
+            flex-wrap: wrap;
+          }
+          @media (min-width: 650px) {
+            > * {
+              max-width: 40%;
+            }
+            padding-top: 0.3rem;
+            padding-bottom: 0.3rem;
+          }
+          > * {
+            flex-grow: 1;
+            min-width: 10rem;
+          }
+        `}
+      >
+        <div>
+          <button
+            css={css`
+              height: 2rem;
+              padding: 0 1rem;
+              border-radius: 2rem;
+              background-color: #950451;
+              color: white;
+              font-weight: bold;
+              display: inline-flex;
+              justify-content: center;
+              align-items: center;
+              border: none;
+              cursor: pointer;
+              :hover {
+                opacity: 0.9;
+              }
+            `}
+            onClick={geolocate}
+            id="geolocate"
+          >
+            <IoMdPin />
+            &nbsp;Find my riding
+          </button>
+        </div>
         <ClassNames>
           {({ css: style }) => (
             <Select
               isSearchable
               inputId="districtSelect"
               className={style`
-                width: 80%;
-                max-width: 25rem;
-                display: inline-block;
-                font-size: 0.75rem;
+                width: 100%;
+                font-size: 0.8rem;
               `}
-              value={selectedOption || currentDistrictOption}
+              value={selectedOption}
               onChange={handleChange}
               options={options}
+              placeholder="Select district"
             />
           )}
         </ClassNames>
