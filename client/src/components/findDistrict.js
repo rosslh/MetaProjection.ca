@@ -4,15 +4,18 @@ import PropTypes from "prop-types";
 import Select from "react-select";
 import { navigate } from "gatsby";
 import { IoMdPin } from "react-icons/io";
+import { MdErrorOutline } from "react-icons/md";
 import { getDistance } from "geolib";
 
-const FindDistrict = ({ districts, currentDistrict }) => {
+const FindDistrict = ({ districts }) => {
   const options = districts.map(d => ({
     value: d.number,
     label: d.name,
   }));
 
   const [selectedOption, setSelectedOption] = useState(null);
+
+  const [buttonError, setButtonError] = useState(false);
 
   const handleChange = option => {
     navigate(`/district/${option.value}`);
@@ -21,7 +24,11 @@ const FindDistrict = ({ districts, currentDistrict }) => {
 
   const geolocationEnabled = () => {
     try {
-      return "geolocation" in navigator;
+      return (
+        navigator &&
+        navigator.geolocation &&
+        navigator.geolocation.getCurrentPosition
+      );
     } catch (e) {
       return false;
     }
@@ -29,36 +36,42 @@ const FindDistrict = ({ districts, currentDistrict }) => {
 
   const geolocate = () => {
     if (geolocationEnabled()) {
-      navigator.geolocation.getCurrentPosition(position => {
-        const userLocation = {
-          latitude: position.coords.latitude,
-          longitude: position.coords.longitude,
-        };
-        fetch(
-          `https://represent.opennorth.ca/boundaries/?contains=${userLocation.latitude},${userLocation.longitude}&sets=federal-electoral-districts`
-        )
-          .then(r => r.json())
-          .then(r => {
-            if (r && r.objects && r.objects.length === 1) {
-              navigate(`/district/${r.objects[0].external_id}`);
-            } else {
-              throw "Riding lookup failed";
-            }
-          })
-          .catch(() => {
-            const districtDistances = districts.map(d => ({
-              number: d.number,
-              distance: getDistance(userLocation, {
-                latitude: d.position.x,
-                longitude: d.position.y,
-              }),
-            }));
-            const closest = districtDistances.reduce((prev, curr) => {
-              return prev.distance < curr.distance ? prev : curr;
+      navigator.geolocation.getCurrentPosition(
+        position => {
+          const userLocation = {
+            latitude: position.coords.latitude,
+            longitude: position.coords.longitude,
+          };
+          fetch(
+            `https://represent.opennorth.ca/boundaries/?contains=${userLocation.latitude},${userLocation.longitude}&sets=federal-electoral-districts`
+          )
+            .then(r => r.json())
+            .then(r => {
+              if (r && r.objects && r.objects.length === 1) {
+                navigate(`/district/${r.objects[0].external_id}`);
+              } else {
+                throw "Riding lookup failed";
+              }
+            })
+            .catch(() => {
+              const districtDistances = districts.map(d => ({
+                number: d.number,
+                distance: getDistance(userLocation, {
+                  latitude: d.position.x,
+                  longitude: d.position.y,
+                }),
+              }));
+              const closest = districtDistances.reduce((prev, curr) => {
+                return prev.distance < curr.distance ? prev : curr;
+              });
+              navigate(`/district/${closest.number}`);
             });
-            navigate(`/district/${closest.number}`);
-          });
-      });
+        },
+        () => {
+          // err
+          setButtonError(true);
+        }
+      );
     } else {
       alert("Geolocation is disabled. Please check your settings.");
     }
@@ -112,7 +125,7 @@ const FindDistrict = ({ districts, currentDistrict }) => {
                 height: 2rem;
                 padding: 0 1rem;
                 border-radius: 2rem;
-                background-color: #950451;
+                background-color: ${buttonError ? "#777" : "#950451"};
                 color: white;
                 font-weight: bold;
                 display: inline-flex;
@@ -127,8 +140,27 @@ const FindDistrict = ({ districts, currentDistrict }) => {
               onClick={geolocate}
               id="geolocate"
             >
-              <IoMdPin />
-              &nbsp;Find my riding
+              {buttonError ? (
+                <>
+                  <span
+                    css={css`
+                      font-size: 1.2rem;
+                      padding-bottom: 0.2rem;
+                      > * {
+                        vertical-align: middle;
+                      }
+                    `}
+                  >
+                    <MdErrorOutline />
+                  </span>
+                  &nbsp;Service unavailable
+                </>
+              ) : (
+                <>
+                  <IoMdPin />
+                  &nbsp;Find my riding
+                </>
+              )}
             </button>
           </div>
         ) : null}
