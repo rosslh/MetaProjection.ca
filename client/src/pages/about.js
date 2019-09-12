@@ -18,7 +18,12 @@ const About = () => (
     <p>
       This website aggregates and synthesises the latest Canadian federal
       election projections from multiple sources in order to give an overview of
-      how the election is playing out.
+      how the election is playing out, both federally and by district.
+    </p>
+    <p>
+      A map is displayed at the top of the page which indicates how each
+      electoral district is likely to vote. The application uses the user’s
+      geolocation to find their district and display its likely winner.
     </p>
     <h3>Sources</h3>
     <ul>
