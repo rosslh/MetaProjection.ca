@@ -123,16 +123,17 @@ const FindDistrict = ({ districts, selectedDistrict }) => {
           <div>
             <button
               css={css`
-                height: 2rem;
+                line-height: ${buttonError ? "1.5rem" : "2rem"};
                 padding: 0 1rem;
                 border-radius: 2rem;
-                background-color: ${buttonError ? "#777" : "#950451"};
-                color: white;
-                font-weight: bold;
+                background-color: ${buttonError ? "#fafafa" : "#950451"};
+                color: ${buttonError ? "#454545" : "white"};
+                font-weight: ${buttonError ? "normal" : "bold"};
                 display: inline-flex;
                 justify-content: center;
                 align-items: center;
-                border: none;
+                border: ${buttonError ? "2px solid #666;" : "none"};
+                box-sizing: content-box;
                 cursor: pointer;
                 :hover {
                   opacity: 0.9;
@@ -154,7 +155,7 @@ const FindDistrict = ({ districts, selectedDistrict }) => {
                   >
                     <MdErrorOutline />
                   </span>
-                  &nbsp;Service unavailable
+                  &nbsp;Location services unavailable
                 </>
               ) : (
                 <>
@@ -165,22 +166,46 @@ const FindDistrict = ({ districts, selectedDistrict }) => {
             </button>
           </div>
         ) : null}
-        <ClassNames>
-          {({ css: style }) => (
-            <Select
-              isSearchable
-              inputId="districtSelect"
-              className={style`
+        <div>
+          {/*Hide except for screenreaders*/}
+          <label
+            htmlFor="districtSelect"
+            css={css`
+              border: 0;
+              clip: rect(0 0 0 0);
+              clip-path: polygon(0px 0px, 0px 0px, 0px 0px);
+              -webkit-clip-path: polygon(0px 0px, 0px 0px, 0px 0px);
+              height: 1px;
+              margin: -1px;
+              overflow: hidden;
+              padding: 0;
+              position: absolute;
+              width: 1px;
+              white-space: nowrap;
+            `}
+          >
+            Select riding
+          </label>
+          <ClassNames>
+            {({ css: style }) => (
+              <Select
+                isSearchable
+                inputId="districtSelect"
+                className={style`
                 width: 100%;
                 font-size: 0.8rem;
+                [class$="placeholder"] {
+                  color: #444;
+                }
               `}
-              value={selectedOption}
-              onChange={handleChange}
-              options={options}
-              placeholder="Select riding"
-            />
-          )}
-        </ClassNames>
+                value={selectedOption}
+                onChange={handleChange}
+                options={options}
+                placeholder="Select riding"
+              />
+            )}
+          </ClassNames>
+        </div>
       </div>
     </div>
   );
