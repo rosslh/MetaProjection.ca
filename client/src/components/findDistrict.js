@@ -7,7 +7,7 @@ import { IoMdPin } from "react-icons/io";
 import { MdErrorOutline } from "react-icons/md";
 import { getDistance } from "geolib";
 
-const FindDistrict = ({ districts }) => {
+const FindDistrict = ({ districts, selectedDistrict }) => {
   const options = districts.map(d => ({
     value: d.number,
     label: d.name,
@@ -35,6 +35,7 @@ const FindDistrict = ({ districts }) => {
   };
 
   const geolocate = () => {
+    // TODO: use mobx to store user's riding
     if (geolocationEnabled()) {
       navigator.geolocation.getCurrentPosition(
         position => {
@@ -176,7 +177,7 @@ const FindDistrict = ({ districts }) => {
               value={selectedOption}
               onChange={handleChange}
               options={options}
-              placeholder="Select district"
+              placeholder="Select riding"
             />
           )}
         </ClassNames>

@@ -139,7 +139,10 @@ const DistrictMap = ({ selectedDistrict }) => {
                 />
               )}
             </div>
-            <FindDistrict districts={allByDistrictJson.nodes} />
+            <FindDistrict
+              districts={allByDistrictJson.nodes}
+              selectedDistrict={selectedDistrict}
+            />
           </>
         );
       }}

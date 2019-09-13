@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `MetaProjection`,
-    description: `Canada electoral projection aggregator`,
+    description: `MetaProjection is an aggregator of multiple Canadian federal electoral projections that provides an overview of how the election is playing out, both federally and by district.`,
     author: `Ross Hill`,
   },
   plugins: [
@@ -43,17 +43,17 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `gatsby-starter-default`,
-        short_name: `starter`,
+        short_name: `MetaProjection`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
-        display: `minimal-ui`,
-        // TODO: update and add image
+        background_color: `#950451`,
+        theme_color: `#950451`,
+        display: `browser`,
+        icon: `${__dirname}/src/images/icon.png`,
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    `gatsby-plugin-offline`,
 
     `gatsby-plugin-emotion`,
   ],

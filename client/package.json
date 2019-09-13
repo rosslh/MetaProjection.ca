@@ -44,8 +44,8 @@
     "gatsby"
   ],
   "scripts": {
-    "generateData": "node src/data/2019/federalScraper && node src/data/2019/byDistrictScraper",
-    "build": "npm run generateData && gatsby build",
+    "getData": "node src/data/2019/federalScraper && node src/data/2019/byDistrictScraper",
+    "build": "npm run getData && gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",

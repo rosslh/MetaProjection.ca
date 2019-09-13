@@ -53,7 +53,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           name: `twitter:card`,
-          content: `summary`,
+          content: `An aggregator of Canadian electoral projections`,
         },
         {
           name: `twitter:creator`,
