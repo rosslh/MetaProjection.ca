@@ -20,6 +20,7 @@ function SEO({ description, lang, meta, title }) {
             title
             description
             author
+            url
           }
         }
       }
@@ -39,6 +40,10 @@ function SEO({ description, lang, meta, title }) {
         {
           name: `description`,
           content: metaDescription,
+        },
+        {
+          name: `og:url`,
+          content: site.siteMetadata.url,
         },
         {
           property: `og:title`,
@@ -70,13 +75,13 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           name: "twitter:image",
-          content: image,
+          content: `${site.siteMetadata.url}${image}`,
         },
         { property: "og:site_name", content: "MetaProjection" },
         { property: "og:type", content: "website" },
         {
           property: "og:image",
-          content: image,
+          content: `${site.siteMetadata.url}${image}`,
         },
       ].concat(meta)}
     />
