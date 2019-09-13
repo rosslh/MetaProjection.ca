@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `MetaProjection`,
-    description: `MetaProjection is an aggregator of multiple Canadian federal electoral projections that provides an overview of how the election is playing out, both federally and by district.`,
+    description: `MetaProjection is an aggregator of multiple Canadian federal electoral projections that provides an overview of how the election is playing out.`,
     author: `Ross Hill`,
   },
   plugins: [

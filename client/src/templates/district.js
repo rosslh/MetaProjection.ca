@@ -21,12 +21,13 @@ const getConfidenceString = score => {
 };
 
 const District = ({ data, pageContext }) => {
+  const districtName = pageContext.name.replace(/--/g, "—");
   const winner = data.byDistrictJson.winner;
   const winningParty =
     winner && winner.party ? addPartyDetails({ name: winner.party }) : null;
   return (
     <Layout selectedDistrict={data.byDistrictJson.number}>
-      <SEO title="District" />
+      <SEO title={districtName} />
       <span
         css={css`
           font-size: 0.85rem;
@@ -40,7 +41,7 @@ const District = ({ data, pageContext }) => {
           margin-bottom: -0.8rem;
         `}
       >
-        {pageContext.name.replace(/--/g, "—")}
+        {districtName}
       </h2>
       <h3>Projected winner</h3>
       <table>

@@ -30,7 +30,7 @@ const IndexPage = () => (
     `}
     render={({ federalJson }) => (
       <Layout>
-        <SEO title="Home" />
+        <SEO title="Federal overview" />
         <h2
           css={css`
             margin-bottom: 1rem;

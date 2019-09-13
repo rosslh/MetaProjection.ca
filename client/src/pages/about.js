@@ -7,7 +7,7 @@ import { projections } from "../utils/utils";
 
 const About = () => (
   <Layout noMap>
-    <SEO title="Home" />
+    <SEO title="About" />
     <h2
       css={css`
         margin-bottom: 1rem;
