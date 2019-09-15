@@ -33,7 +33,7 @@
     "react-leaflet": "^2.4.0",
     "react-select": "^3.0.4",
     "react-typography": "^0.16.19",
-    "semantic-ui-react": "^0.87.3",
+    "semantic-ui-react": "^0.88.1",
     "typography": "^0.16.19",
     "typography-theme-ocean-beach": "^0.16.19"
   },
