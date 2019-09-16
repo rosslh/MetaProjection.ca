@@ -57,6 +57,16 @@ function FederalDetailPopup(props) {
       <div>
         <strong>Avg:</strong> {props.avg} seats
       </div>
+      {props.status ? (
+        <div
+          css={css`
+            padding-top: 0.5rem;
+            font-style: italic;
+          `}
+        >
+          {props.status}
+        </div>
+      ) : null}
     </div>
   );
 }

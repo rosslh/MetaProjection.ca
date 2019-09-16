@@ -10,6 +10,17 @@ import { StaticQuery, graphql } from "gatsby";
 import { css } from "@emotion/core";
 import FederalDetailPopup from "../components/federalDetailPopup";
 
+const getPartyStatus = (rank, seats) => {
+  switch (rank) {
+    case 0:
+      return seats >= 170 ? "Majority government" : "Minority government";
+    case 1:
+      return "Official Opposition";
+    default:
+      return null;
+  }
+};
+
 const IndexPage = () => (
   <StaticQuery
     query={graphql`
@@ -81,14 +92,14 @@ const IndexPage = () => (
             <tr>
               <th></th>
               <th>Party</th>
-              <th>Projected seats</th>
+              <th>Seats</th>
             </tr>
           </thead>
           <tbody>
             {federalJson.parties
               .sort((a, b) => b.avg - a.avg)
               .map(party => addPartyDetails(party))
-              .map(party => (
+              .map((party, i) => (
                 <tr key={party.name}>
                   <td
                     css={css`
@@ -123,6 +134,7 @@ const IndexPage = () => (
                           <FederalDetailPopup
                             data={party.projections}
                             avg={party.avg}
+                            status={getPartyStatus(i, Math.round(party.avg))}
                           />
                         }
                         trigger={<MdInfoOutline />}

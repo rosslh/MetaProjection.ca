@@ -74,6 +74,7 @@ const DistrictMap = ({ selectedDistrict }) => {
           <>
             <div
               css={css`
+                overflow: hidden;
                 > * {
                   height: 350px;
                   width: 100%;
