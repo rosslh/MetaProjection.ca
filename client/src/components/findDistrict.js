@@ -169,17 +169,18 @@ const FindDistrict = inject(`store`)(
             </div>
           ) : null}
           {store.UserDistrict === selectedDistrict ? (
-            <div
-              css={css`
-                color: #950451;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                align-items: center;
-              `}
-            >
-              <IoMdPin />
-              &nbsp;Your riding
+            <div>
+              <div
+                css={css`
+                  color: #950451;
+                  display: inline-flex;
+                  align-items: center;
+                  justify-content: center;
+                `}
+              >
+                <IoMdPin />
+                &nbsp;Your riding
+              </div>
             </div>
           ) : null}
           <div>
