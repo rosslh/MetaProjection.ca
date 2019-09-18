@@ -34,7 +34,6 @@ const FindDistrict = inject(`store`)(
     };
 
     const geolocate = () => {
-      // TODO: use mobx to store user's riding
       if (geolocationApiAvailable()) {
         navigator.geolocation.getCurrentPosition(
           position => {
@@ -47,13 +46,19 @@ const FindDistrict = inject(`store`)(
             )
               .then(r => r.json())
               .then(r => {
-                if (r && r.objects && r.objects.length === 1) {
+                if (
+                  r &&
+                  r.objects &&
+                  r.objects[0] &&
+                  r.objects[0].external_id
+                ) {
                   const userDistrict = r.objects[0].external_id;
                   store.SetDistrict(Number(userDistrict));
                   store.SetGeolocationDisabled(false);
                   navigate(`/district/${userDistrict}`);
                 } else {
                   store.SetGeolocationDisabled(true);
+                  store.SetGeolocationError("Riding not found");
                 }
               })
               .catch(() => {
@@ -142,7 +147,6 @@ const FindDistrict = inject(`store`)(
                   }
                 `}
                 onClick={geolocate}
-                id="geolocate"
               >
                 {store.UserGeolocationDisabled ? (
                   <>
@@ -150,6 +154,7 @@ const FindDistrict = inject(`store`)(
                       css={css`
                         font-size: 1.1rem;
                         padding-bottom: 0.2rem;
+                        padding-right: 0.25rem;
                         > * {
                           vertical-align: middle;
                         }
@@ -157,7 +162,8 @@ const FindDistrict = inject(`store`)(
                     >
                       <MdErrorOutline />
                     </span>
-                    &nbsp;Location services unavailable
+                    {store.UserGeolocationError ||
+                      "Location services unavailable"}
                   </>
                 ) : (
                   <>
