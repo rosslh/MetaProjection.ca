@@ -116,7 +116,6 @@ const FindDistrict = inject(`store`)(
             }
           `}
         >
-          {/* <pre>{JSON.stringify(store, null, 2)}</pre> */}
           {geolocationApiAvailable() &&
           store.UserDistrict !== selectedDistrict ? (
             <div>

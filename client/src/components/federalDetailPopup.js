@@ -4,9 +4,9 @@ import { css } from "@emotion/core";
 
 import { projections } from "../utils/utils";
 
-function FederalDetailPopup(props) {
-  const keysSorted = Object.keys(props.data).sort((a, b) =>
-    ("" + projections[a].name).localeCompare(projections[b].name)
+function FederalDetailPopup({ data, avg, status }) {
+  const keysSorted = Object.keys(data).sort((a, b) =>
+    projections[a].name.localeCompare(projections[b].name)
   );
   return (
     <div
@@ -24,6 +24,7 @@ function FederalDetailPopup(props) {
       `}
     >
       <table
+        className="table-projection"
         css={css`
           margin-bottom: 0.5rem;
           td {
@@ -49,22 +50,22 @@ function FederalDetailPopup(props) {
                   {projections[x].name}
                 </a>
               </td>
-              <td>{props.data[x]}</td>
+              <td>{data[x]}</td>
             </tr>
           ))}
         </tbody>
       </table>
       <div>
-        <strong>Avg:</strong> {props.avg} seats
+        <strong>Avg:</strong> {avg} seats
       </div>
-      {props.status ? (
+      {status ? (
         <div
           css={css`
             padding-top: 0.5rem;
             font-style: italic;
           `}
         >
-          {props.status}
+          {status}
         </div>
       ) : null}
     </div>

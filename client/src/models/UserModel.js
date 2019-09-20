@@ -3,7 +3,7 @@ import { observable, action, decorate } from "mobx";
 class UserModel {
   UserDistrict = null;
   UserGeolocationDisabled = false;
-  UserGeolocationError = false;
+  UserGeolocationError = "";
 
   SetDistrict(val) {
     this.UserDistrict = val;

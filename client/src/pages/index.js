@@ -107,7 +107,11 @@ const IndexPage = () => (
                       height: 4rem;
                     `}
                   >
-                    <Image alt={party.longName} src={party.imageString} />
+                    <Image
+                      className="party-logo"
+                      alt={party.longName}
+                      src={party.imageString}
+                    />
                   </td>
                   <td>{party.longName}</td>
                   <td
@@ -123,8 +127,10 @@ const IndexPage = () => (
                     <span>{Math.round(party.avg)}</span>
                     <span
                       css={css`
-                        font-size: 0.9rem;
-                        color: #444;
+                        color: #545454;
+                        margin-left: 0.5rem;
+                        font-size: 1.1rem;
+                        padding-top: 0.1rem;
                       `}
                     >
                       {/* see layout.css */}
@@ -137,7 +143,7 @@ const IndexPage = () => (
                             status={getPartyStatus(i, Math.round(party.avg))}
                           />
                         }
-                        trigger={<MdInfoOutline />}
+                        trigger={<MdInfoOutline className="infoIcon" />}
                       />
                     </span>
                   </td>

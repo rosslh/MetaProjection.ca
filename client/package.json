@@ -40,7 +40,9 @@
     "typography-theme-ocean-beach": "^0.16.19"
   },
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "cypress": "^3.4.1",
+    "prettier": "^1.18.2",
+    "start-server-and-test": "^1.10.2"
   },
   "keywords": [
     "gatsby"
@@ -50,9 +52,13 @@
     "build": "npm run getData && gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
-    "start": "npm run develop",
     "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
+    "cyTest": "cypress run",
+    "cyTestGui": "cypress open",
+    "runTestServer": "gatsby build && gatsby serve --port 3939",
+    "test": "server-test runTestServer 3939 cyTest",
+    "testGui": "server-test runTestServer 3939 cyTestGui",
+    "clean": "rm -rf .cache && rm -rf public"
   },
   "repository": {
     "type": "git",

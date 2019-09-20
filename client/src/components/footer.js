@@ -3,6 +3,7 @@ import { css } from "@emotion/core";
 
 const Header = () => (
   <footer
+    className="footer"
     css={css`
       width: 100%;
       margin-top: 3.5rem;

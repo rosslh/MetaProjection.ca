@@ -44,7 +44,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
+        name: `MetaProjection`,
         short_name: `MetaProjection`,
         start_url: `/`,
         background_color: `#950451`,
