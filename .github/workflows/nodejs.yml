@@ -21,4 +21,5 @@ jobs:
         npm run test
       env:
         CI: true
-    - uses: rosslh/MetaProjection/actions/deploy
+    - name: deploy
+      uses: ./.github/actions/deploy
