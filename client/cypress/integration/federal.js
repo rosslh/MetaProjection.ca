@@ -5,7 +5,10 @@ describe("Unit test the Federal overview", () => {
 
   it("has all projection sites", () => {
     assert(cy.get(".infoIcon").should("be.visible"));
-    cy.get(".infoIcon").each(elem => {
+    cy.get(".infoIcon").each((elem, i) => {
+      if (i > 2) {
+        return false;
+      }
       cy.wrap(elem)
         .trigger("mouseover")
         .trigger("mouseenter")
