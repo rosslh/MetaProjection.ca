@@ -18,10 +18,7 @@ jobs:
           cd client
           npm install
           npm run build
-        env:
-          CI: true
-      - name: test
-        run: npm run test
+          npm run test
         env:
           CI: true
      - name: deploy
