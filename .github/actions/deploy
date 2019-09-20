@@ -1,0 +1,10 @@
+workflow "Deploy on Netlify" {
+  on = "push"
+  resolves = ["Deploy"]
+}
+
+action "Deploy" {
+  uses = "netlify/actions/cli@master"
+  args = "deploy --dir=site --functions=functions"
+  secrets = ["NETLIFY_AUTH_TOKEN", "NETLIFY_SITE_ID"]
+}
