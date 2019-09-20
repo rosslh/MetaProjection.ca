@@ -1,4 +1,8 @@
-https://github.com/rosslh/MetaProjection/workflows/Test/badge.svg
+# MetaProjection
+
+[![CircleCI](https://github.com/rosslh/MetaProjection/workflows/Test/badge.svg
+)](https://github.com/rosslh/MetaProjection/actions)
+
 
 MetaProjection is a web application that aggregates Canadian electoral projections from multiple sources and provides an overview of how the election is playing out, both federally and by district.
 
