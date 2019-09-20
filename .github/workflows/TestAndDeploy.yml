@@ -1,6 +1,6 @@
 name: Test and deploy
 on: [
-  push,
+  push: {},
   schedule:
     - cron: "30 10 * * *"
   ]
