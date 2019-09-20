@@ -1,11 +1,11 @@
-name: Deploy
+name: Deploy daily
 
 on:
   schedule:
-  - cron: '0 10 * * *'
+    - cron: "0 10 * * *"
 
 jobs:
-  deploy:
+  testAndDeploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
@@ -18,6 +18,8 @@ jobs:
           cd client
           npm install
           npm run build
+      - name: test
+        run: |
           npm run test
-     - name: deployToNetlify
-       uses: ./.github/actions/deploy
+      - name: deploy
+        uses: ./.github/actions/deploy
