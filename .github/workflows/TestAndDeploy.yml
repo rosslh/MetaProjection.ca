@@ -1,24 +1,27 @@
-name: Tests
-
-on: [push]
+name: Test and deploy
+on: [
+  push,
+  schedule:
+    - cron: "30 10 * * *"
+  ]
 
 jobs:
-  build:
+  testAndDeploy:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v1
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
-      - name: npm install, build, and test
+      - name: npm install and build
         run: |
           cd client
           npm install
           npm run build
+      - name: test
+        run: |
+          cd client
           npm run test
-        env:
-          CI: true
-    # - name: deploy
-    #   uses: ./.github/actions/deploy
+      - name: deploy
+        uses: ./.github/actions/deploy
