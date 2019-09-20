@@ -55,7 +55,7 @@
     "serve": "gatsby serve",
     "cyTest": "cypress run",
     "cyTestGui": "cypress open",
-    "runTestServer": "gatsby build && gatsby serve --port 3939",
+    "runTestServer": "gatsby serve --port 3939",
     "test": "server-test runTestServer 3939 cyTest",
     "testGui": "server-test runTestServer 3939 cyTestGui",
     "clean": "rm -rf .cache && rm -rf public"
