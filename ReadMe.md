@@ -1,6 +1,6 @@
 # MetaProjection
 
-[![Github Actions](https://github.com/rosslh/MetaProjection/workflows/Tests/badge.svg
+[![Github Actions](https://github.com/rosslh/MetaProjection/workflows/Test%20and%20deploy/badge.svg
 )](https://github.com/rosslh/MetaProjection/actions)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3dd4e416-74a7-49b1-847a-ad95a0b44607/deploy-status)](https://app.netlify.com/sites/metaprojection/deploys)
 
