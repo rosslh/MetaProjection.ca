@@ -24,4 +24,4 @@ jobs:
           npm run test
       - name: deploy
         run: |
-          curl -X POST -d {} https://api.netlify.com/build_hooks/5d857b7d6da4e1c0baab0e61
+          curl -X POST -d {} ${{ secrets.BUILD_HOOK }}
