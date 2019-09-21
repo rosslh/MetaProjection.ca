@@ -23,4 +23,5 @@ jobs:
           cd client
           npm run test
       - name: deploy
-        uses: ./.github/actions/deploy
+        run: |
+          curl -X POST -d {} https://api.netlify.com/build_hooks/5d857b7d6da4e1c0baab0e61
