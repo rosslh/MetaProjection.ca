@@ -19,6 +19,7 @@ const Footer = ({ publishTimestamp }) => {
         css={css`
           display: flex;
           justify-content: space-between;
+          flex-wrap: wrap;
         `}
         className="contentWrapper"
       >
