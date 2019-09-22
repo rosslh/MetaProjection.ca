@@ -9,7 +9,7 @@
     "gatsby": "^2.15.19",
     "gatsby-image": "^2.2.10",
     "gatsby-plugin-emotion": "^4.1.7",
-    "gatsby-plugin-manifest": "^2.2.6",
+    "gatsby-plugin-manifest": "^2.2.18",
     "gatsby-plugin-offline": "^3.0.6",
     "gatsby-plugin-react-helmet": "^3.1.8",
     "gatsby-plugin-react-leaflet": "^2.0.11",
