@@ -47,7 +47,7 @@ describe("Unit test the Federal overview", () => {
     cy.get("footer.footer")
       .invoke("text")
       .then(text => {
-        assert(text === "Made by Ross Hill");
+        assert(text.startsWith("Made by Ross Hill"));
       });
   });
 });
