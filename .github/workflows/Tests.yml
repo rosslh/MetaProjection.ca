@@ -1,8 +1,10 @@
 name: Tests
 on:
   push:
-    branches-ignore:
-      - "master"
+    branches:
+      - "*" # matches every branch
+      - "*/*" # matches every branch containing a '/'
+      - "!master" # excludes master
 
 jobs:
   Test:
