@@ -22,6 +22,7 @@ const Layout = ({ noMap, children, selectedDistrict }) => {
       site {
         siteMetadata {
           title
+          publishTimestamp
         }
       }
     }
@@ -42,7 +43,7 @@ const Layout = ({ noMap, children, selectedDistrict }) => {
       >
         {children}
       </div>
-      <Footer />
+      <Footer publishTimestamp={data.site.siteMetadata.publishTimestamp} />
     </div>
   );
 };

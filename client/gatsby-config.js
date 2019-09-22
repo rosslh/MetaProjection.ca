@@ -5,6 +5,7 @@ module.exports = {
     author: `Ross Hill`,
     // no trailing slash
     url: `https://www.metaprojection.ca`,
+    publishTimestamp: new Date().getTime(),
   },
   plugins: [
     `gatsby-plugin-react-leaflet`,
