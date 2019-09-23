@@ -4,7 +4,7 @@ on:
     branches:
       - master # Push events on master branc
   schedule:
-    - cron: "* * */8 * *"
+    - cron: "1 */8 * * *"
 
 jobs:
   TestAndDeploy:
