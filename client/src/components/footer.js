@@ -33,7 +33,11 @@ const Footer = ({ publishTimestamp }) => {
             Ross Hill
           </a>
         </span>
-        <span>Last updated {generatedAgo} ago</span>
+        {typeof window !== "undefined" ? (
+          <span>Last updated {generatedAgo} ago</span>
+        ) : (
+          <span />
+        )}
       </div>
     </footer>
   );

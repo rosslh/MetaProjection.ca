@@ -17,7 +17,7 @@ const FindDistrict = inject(`store`)(
     const [selectedOption, setSelectedOption] = useState(null);
 
     const handleChange = option => {
-      navigate(`/district/${option.value}`);
+      navigate(`/riding/${option.value}`);
       setSelectedOption(option);
     };
 
@@ -55,7 +55,7 @@ const FindDistrict = inject(`store`)(
                   const userDistrict = r.objects[0].external_id;
                   store.SetDistrict(Number(userDistrict));
                   store.SetGeolocationDisabled(false);
-                  navigate(`/district/${userDistrict}`);
+                  navigate(`/riding/${userDistrict}`);
                 } else {
                   store.SetGeolocationDisabled(true);
                   store.SetGeolocationError("Riding not found");

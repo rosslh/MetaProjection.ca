@@ -32,6 +32,15 @@ const getConfidenceScore = score => {
 };
 
 const DistrictMap = ({ selectedDistrict }) => {
+  const mapHeightStyle = `
+  @media (max-width: 700px) {
+  height: 280px;
+}
+  @media (min-width: 701px) {
+  height: 350px;
+}
+  `;
+
   return (
     <StaticQuery
       query={graphql`
@@ -76,7 +85,7 @@ const DistrictMap = ({ selectedDistrict }) => {
               css={css`
                 overflow: hidden;
                 > * {
-                  height: 350px;
+                  ${mapHeightStyle}
                   width: 100%;
                 }
               `}
@@ -109,13 +118,13 @@ const DistrictMap = ({ selectedDistrict }) => {
                         onMouseOver={e => {
                           e.target.openPopup();
                           if (!isSelected) {
-                            prefetchPathname(`/district/${district.number}`);
+                            prefetchPathname(`/riding/${district.number}`);
                           }
                         }}
                         onMouseOut={e => {
                           e.target.closePopup();
                         }}
-                        onClick={() => navigate(`/district/${district.number}`)}
+                        onClick={() => navigate(`/riding/${district.number}`)}
                       >
                         <Popup>
                           <strong>Riding</strong>: {district.name}
@@ -134,7 +143,7 @@ const DistrictMap = ({ selectedDistrict }) => {
               ) : (
                 <div
                   css={css`
-                    height: 350px;
+                    ${mapHeightStyle}
                     width: 100%;
                   `}
                 />

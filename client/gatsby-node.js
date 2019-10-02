@@ -1,15 +1,18 @@
 const path = require("path");
+const slugify = require("slugify");
 const data = require("./src/data/districts.json");
 
-exports.createPages = ({ boundActionCreators }) => {
+exports.createPages = ({ boundActionCreators, actions }) => {
   const { createPage } = boundActionCreators;
-
+  const { createRedirect } = actions;
   // Your component that should be rendered for every item in JSON.
   const template = path.resolve(`src/templates/district.js`);
 
   // Create pages for each JSON entry.
   data.forEach(({ number, name }) => {
-    const path = `district/${number}`;
+    const path = `/riding/${slugify(name)}`;
+    const redirectPath0 = `/riding/${number}`;
+    const redirectPath1 = `/district/${number}`;
 
     createPage({
       path,
@@ -21,6 +24,20 @@ exports.createPages = ({ boundActionCreators }) => {
         number,
         name,
       },
+    });
+
+    createRedirect({
+      fromPath: redirectPath0,
+      toPath: path,
+      isPermanent: true,
+      redirectInBrowser: true,
+    });
+
+    createRedirect({
+      fromPath: redirectPath1,
+      toPath: path,
+      isPermanent: true,
+      redirectInBrowser: true,
     });
   });
 };

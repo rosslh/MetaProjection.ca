@@ -103,6 +103,8 @@ const IndexPage = () => (
                 <tr key={party.name}>
                   <td
                     css={css`
+                      min-width: 4rem;
+                      min-height: 4rem;
                       width: 4rem;
                       height: 4rem;
                     `}
