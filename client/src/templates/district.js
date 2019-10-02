@@ -73,7 +73,7 @@ const District = ({ data, pageContext }) => {
         </tbody>
       </table>
       <h3>Sources</h3>
-      <table>
+      <table className="sources">
         <thead>
           <tr>
             <th>Site</th>
