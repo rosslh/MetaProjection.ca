@@ -55,12 +55,12 @@
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "serve": "gatsby serve",
-    "cyTest": "cypress run",
+    "cyTest": "sleep 5; cypress run",
     "cyTestGui": "cypress open",
     "runTestServer": "gatsby serve --port 3939",
     "test": "server-test runTestServer 3939 cyTest",
     "testGui": "server-test runTestServer 3939 cyTestGui",
-    "clean": "rm -rf .cache && rm -rf public"
+    "clean": "rm -rf .cache && rm -rf public && gatsby clean"
   },
   "repository": {
     "type": "git",

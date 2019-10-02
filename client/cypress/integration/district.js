@@ -13,9 +13,9 @@ describe("Unit test District pages", () => {
     it("has one image", () => {
       assert(
         cy
-          .get("picture > img")
-          .should("have.length", 1)
+          .get(".dynamic-image")
           .should("be.visible")
+          .should("have.length", 1)
       );
     });
 
