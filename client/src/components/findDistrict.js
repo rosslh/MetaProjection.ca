@@ -55,7 +55,7 @@ const FindDistrict = inject(`store`)(
                   const userDistrictNumber = r.objects[0].external_id;
                   store.SetDistrict(Number(userDistrictNumber));
                   store.SetGeolocationDisabled(false);
-                  navigate(`/riding/${userDistrictNumber}`);
+                  navigate(`/district/${userDistrictNumber}`);
                 } else {
                   store.SetGeolocationDisabled(true);
                   store.SetGeolocationError("Riding not found");
