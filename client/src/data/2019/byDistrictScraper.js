@@ -1,6 +1,6 @@
 const fetch = require("node-fetch");
 const JSDOM = require("jsdom").JSDOM;
-
+const slugify = require("slugify");
 // Winning party, confidence (toss-up: 0, leans: 0.5, likely/safe: 1),
 
 const output = {
@@ -232,9 +232,11 @@ async function getGeography() {
 
 function getNames() {
   output.districts = output.districts.map(district => {
+    const name = districts.find(x => x.number === district.number).name;
     return {
       ...district,
-      name: districts.find(x => x.number === district.number).name,
+      name,
+      slug: slugify(name),
     };
   });
 }

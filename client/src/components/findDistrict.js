@@ -10,7 +10,7 @@ import { observer, inject } from "mobx-react";
 const FindDistrict = inject(`store`)(
   observer(({ store, districts, selectedDistrict }) => {
     const options = districts.map(d => ({
-      value: d.number,
+      value: d.slug,
       label: d.name,
     }));
 
@@ -52,10 +52,10 @@ const FindDistrict = inject(`store`)(
                   r.objects[0] &&
                   r.objects[0].external_id
                 ) {
-                  const userDistrict = r.objects[0].external_id;
-                  store.SetDistrict(Number(userDistrict));
+                  const userDistrictNumber = r.objects[0].external_id;
+                  store.SetDistrict(Number(userDistrictNumber));
                   store.SetGeolocationDisabled(false);
-                  navigate(`/riding/${userDistrict}`);
+                  navigate(`/riding/${userDistrictNumber}`);
                 } else {
                   store.SetGeolocationDisabled(true);
                   store.SetGeolocationError("Riding not found");

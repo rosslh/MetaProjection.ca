@@ -58,6 +58,7 @@ const DistrictMap = ({ selectedDistrict }) => {
               bounds
               number
               name
+              slug
             }
           }
         }
@@ -118,13 +119,13 @@ const DistrictMap = ({ selectedDistrict }) => {
                         onMouseOver={e => {
                           e.target.openPopup();
                           if (!isSelected) {
-                            prefetchPathname(`/riding/${district.number}`);
+                            prefetchPathname(`/riding/${district.slug}`);
                           }
                         }}
                         onMouseOut={e => {
                           e.target.closePopup();
                         }}
-                        onClick={() => navigate(`/riding/${district.number}`)}
+                        onClick={() => navigate(`/riding/${district.slug}`)}
                       >
                         <Popup>
                           <strong>Riding</strong>: {district.name}

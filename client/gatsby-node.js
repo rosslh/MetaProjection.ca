@@ -1,6 +1,6 @@
 const path = require("path");
-const slugify = require("slugify");
 const data = require("./src/data/districts.json");
+const slugify = require("slugify");
 
 exports.createPages = ({ boundActionCreators, actions }) => {
   const { createPage } = boundActionCreators;
@@ -11,8 +11,7 @@ exports.createPages = ({ boundActionCreators, actions }) => {
   // Create pages for each JSON entry.
   data.forEach(({ number, name }) => {
     const path = `/riding/${slugify(name)}`;
-    const redirectPath0 = `/riding/${number}`;
-    const redirectPath1 = `/district/${number}`;
+    const redirectPath = `/district/${number}`;
 
     createPage({
       path,
@@ -27,17 +26,10 @@ exports.createPages = ({ boundActionCreators, actions }) => {
     });
 
     createRedirect({
-      fromPath: redirectPath0,
+      fromPath: redirectPath,
       toPath: path,
       isPermanent: true,
-      redirectInBrowser: true,
-    });
-
-    createRedirect({
-      fromPath: redirectPath1,
-      toPath: path,
-      isPermanent: true,
-      redirectInBrowser: true,
+      redirectInBrowser: true, // still need this for findDistrict programmatic routing
     });
   });
 };
