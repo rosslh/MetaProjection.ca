@@ -7,6 +7,7 @@ import Layout from "../components/layout";
 import SEO from "../components/seo";
 import { addPartyDetails, projections } from "../utils/utils";
 import Image from "../components/image";
+import ShareButtons from "../components/shareButtons";
 
 const getConfidenceString = score => {
   if (score > 0.75) {
@@ -131,6 +132,7 @@ const District = ({ data, pageContext }) => {
           })}
         </tbody>
       </table>
+      <ShareButtons title={districtName} page={pageContext.relativePath} />{" "}
     </Layout>
   );
 };

@@ -9,6 +9,7 @@ import SEO from "../components/seo";
 import { StaticQuery, graphql } from "gatsby";
 import { css } from "@emotion/core";
 import FederalDetailPopup from "../components/federalDetailPopup";
+import ShareButtons from "../components/shareButtons";
 
 const getPartyStatus = (rank, seats) => {
   switch (rank) {
@@ -20,7 +21,7 @@ const getPartyStatus = (rank, seats) => {
       return null;
   }
 };
-
+const pageTitle = "Federal overview";
 const IndexPage = () => (
   <StaticQuery
     query={graphql`
@@ -41,7 +42,7 @@ const IndexPage = () => (
     `}
     render={({ federalJson }) => (
       <Layout>
-        <SEO title="Federal overview" />
+        <SEO title={pageTitle} />
         <h2
           css={css`
             margin-bottom: 1rem;
@@ -153,6 +154,7 @@ const IndexPage = () => (
               ))}
           </tbody>
         </table>
+        <ShareButtons title={pageTitle} page="" />
       </Layout>
     )}
   />

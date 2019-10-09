@@ -19,7 +19,7 @@ exports.createPages = ({ boundActionCreators, actions }) => {
 
       // Send additional data to page from JSON (or query inside template)
       context: {
-        path,
+        relativePath: path,
         number,
         name,
       },

@@ -28,7 +28,7 @@ function SEO({ description, lang, meta, title }) {
   );
 
   const metaDescription = description || site.siteMetadata.description;
-
+  const fullTitle = `${title} | ${site.siteMetadata.title}`;
   return (
     <Helmet
       htmlAttributes={{
@@ -47,7 +47,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           property: `og:title`,
-          content: title,
+          content: fullTitle,
         },
         {
           property: `og:description`,
@@ -67,7 +67,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           name: `twitter:title`,
-          content: title,
+          content: fullTitle,
         },
         {
           name: `twitter:description`,
