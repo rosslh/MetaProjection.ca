@@ -2,8 +2,8 @@
   "number": 10006,
   "projections": {
     "threethirtyeight": {
-      "party": "lpc",
-      "confidence": 1
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,14 +13,15 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 1
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 1
+    "score": 0.5
   },
   "name": "St. John's East",
+  "slug": "St.-John's-East",
   "position": {
     "x": 47.68916020750526,
     "y": -52.86310171158402

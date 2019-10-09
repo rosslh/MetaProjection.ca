@@ -7,20 +7,21 @@
     },
     "calculatedPolitics": {
       "party": "cpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "cpc",
-      "score": 1
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "cpc",
-    "score": 1
+    "score": 0.75
   },
   "name": "Kamloops--Thompson--Cariboo",
+  "slug": "Kamloops-Thompson-Cariboo",
   "position": {
     "x": 51.55914403865778,
     "y": -120.43267408106722

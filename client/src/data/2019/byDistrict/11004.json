@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "lpc",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,14 +13,15 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 0.75
+      "score": 1
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 0.75
+    "score": 1
   },
   "name": "Malpeque",
+  "slug": "Malpeque",
   "position": {
     "x": 46.31063196501703,
     "y": -63.443779109657314

@@ -2,17 +2,17 @@
   "number": 12002,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "cpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     }
   },
   "scores": [
     {
-      "party": "cpc",
+      "party": "lpc",
       "score": 0.25
     }
   ],
@@ -21,6 +21,7 @@
     "confidence": 0
   },
   "name": "Central Nova",
+  "slug": "Central-Nova",
   "position": {
     "x": 45.29161906308773,
     "y": -62.54748749051964

@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "lpc",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,14 +13,15 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 0.75
+      "score": 1
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 0.75
+    "score": 1
   },
   "name": "Hamilton West--Ancaster--Dundas",
+  "slug": "Hamilton-West-Ancaster-Dundas",
   "position": {
     "x": 43.23544527134832,
     "y": -79.96821322347145

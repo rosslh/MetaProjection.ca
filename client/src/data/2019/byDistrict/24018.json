@@ -2,25 +2,26 @@
   "number": 24018,
   "projections": {
     "threethirtyeight": {
-      "party": "lpc",
+      "party": "bq",
       "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "lpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     }
   },
   "scores": [
     {
-      "party": "lpc",
-      "score": 0.5
+      "party": "bq",
+      "score": 0.25
     }
   ],
   "winner": {
-    "party": "lpc",
-    "score": 0.5
+    "party": null,
+    "confidence": 0
   },
   "name": "Rimouski-Neigette--Témiscouata--Les Basques",
+  "slug": "Rimouski-Neigette-Temiscouata-Les-Basques",
   "position": {
     "x": 47.961044030153595,
     "y": -68.75285809695208

@@ -7,20 +7,21 @@
     },
     "calculatedPolitics": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 1
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 1
+    "score": 0.75
   },
   "name": "Fleetwood--Port Kells",
+  "slug": "Fleetwood-Port-Kells",
   "position": {
     "x": 49.174132760290064,
     "y": -122.75742184128968

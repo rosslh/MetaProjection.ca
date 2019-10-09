@@ -2,8 +2,8 @@
   "number": 35024,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,14 +13,15 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 0.25
+      "score": 0.5
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "lpc",
+    "score": 0.5
   },
   "name": "Eglinton--Lawrence",
+  "slug": "Eglinton-Lawrence",
   "position": {
     "x": 43.71831122236079,
     "y": -79.43383212419884

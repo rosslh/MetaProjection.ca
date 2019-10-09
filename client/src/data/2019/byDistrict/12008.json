@@ -6,25 +6,22 @@
       "confidence": 1
     },
     "calculatedPolitics": {
-      "party": "cpc",
+      "party": "lpc",
       "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 0.5
-    },
-    {
-      "party": "cpc",
-      "score": 0.25
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 0.5
+    "score": 0.75
   },
   "name": "Sackville--Preston--Chezzetcook",
+  "slug": "Sackville-Preston-Chezzetcook",
   "position": {
     "x": 44.74934107775638,
     "y": -63.47858055597218

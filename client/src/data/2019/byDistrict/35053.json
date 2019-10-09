@@ -2,12 +2,12 @@
   "number": 35053,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
@@ -21,6 +21,7 @@
     "score": 0.5
   },
   "name": "London West",
+  "slug": "London-West",
   "position": {
     "x": 42.97381442303418,
     "y": -81.31974161464831

@@ -6,13 +6,13 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "lpc",
+      "party": "cpc",
       "confidence": 0.5
     }
   },
   "scores": [
     {
-      "party": "lpc",
+      "party": "cpc",
       "score": 0.25
     }
   ],
@@ -21,6 +21,7 @@
     "confidence": 0
   },
   "name": "Steveston--Richmond East",
+  "slug": "Steveston-Richmond-East",
   "position": {
     "x": 49.10837305949708,
     "y": -123.21993234042183

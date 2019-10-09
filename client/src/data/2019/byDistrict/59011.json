@@ -3,11 +3,11 @@
   "projections": {
     "threethirtyeight": {
       "party": "lpc",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
-      "party": "lpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     }
   },
   "scores": [
@@ -21,6 +21,7 @@
     "score": 0.5
   },
   "name": "Delta",
+  "slug": "Delta",
   "position": {
     "x": 49.076492577971685,
     "y": -123.07838422578435

@@ -6,21 +6,22 @@
       "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "lpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 0.5
+      "score": 0.25
     }
   ],
   "winner": {
-    "party": "lpc",
-    "score": 0.5
+    "party": null,
+    "confidence": 0
   },
   "name": "Nickel Belt",
+  "slug": "Nickel-Belt",
   "position": {
     "x": 47.0142726276843,
     "y": -81.27137100148745

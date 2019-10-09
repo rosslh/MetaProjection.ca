@@ -3,11 +3,11 @@
   "projections": {
     "threethirtyeight": {
       "party": "lpc",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
@@ -21,6 +21,7 @@
     "score": 0.75
   },
   "name": "Don Valley North",
+  "slug": "Don-Valley-North",
   "position": {
     "x": 43.787610609993145,
     "y": -79.36001664329267

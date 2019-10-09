@@ -3,11 +3,11 @@
   "projections": {
     "threethirtyeight": {
       "party": "lpc",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
@@ -21,6 +21,7 @@
     "score": 0.75
   },
   "name": "Pickering--Uxbridge",
+  "slug": "Pickering-Uxbridge",
   "position": {
     "x": 44.04376959717551,
     "y": -79.16176265980614

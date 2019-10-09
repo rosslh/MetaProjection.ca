@@ -7,20 +7,21 @@
     },
     "calculatedPolitics": {
       "party": "cpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "cpc",
-      "score": 1
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "cpc",
-    "score": 1
+    "score": 0.75
   },
   "name": "Parry Sound--Muskoka",
+  "slug": "Parry-Sound-Muskoka",
   "position": {
     "x": 45.45920388220882,
     "y": -79.94637985632104

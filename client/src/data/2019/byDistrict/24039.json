@@ -2,25 +2,26 @@
   "number": 24039,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 1
     },
     "calculatedPolitics": {
-      "party": "bq",
+      "party": "lpc",
       "confidence": 0.5
     }
   },
   "scores": [
     {
-      "party": "bq",
-      "score": 0.25
+      "party": "lpc",
+      "score": 0.75
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "lpc",
+    "score": 0.75
   },
   "name": "Laurier--Sainte-Marie",
+  "slug": "Laurier-Sainte-Marie",
   "position": {
     "x": 45.526166729740375,
     "y": -73.56583601867756

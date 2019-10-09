@@ -7,20 +7,21 @@
     },
     "calculatedPolitics": {
       "party": "bq",
-      "confidence": 0.5
+      "confidence": 1
     }
   },
   "scores": [
     {
       "party": "bq",
-      "score": 0.75
+      "score": 1
     }
   ],
   "winner": {
     "party": "bq",
-    "score": 0.75
+    "score": 1
   },
   "name": "Rivière-du-Nord",
+  "slug": "Riviere-du-Nord",
   "position": {
     "x": 45.856941377231934,
     "y": -73.99031572600084

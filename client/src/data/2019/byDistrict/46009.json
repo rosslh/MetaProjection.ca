@@ -2,17 +2,21 @@
   "number": 46009,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "lpc",
+      "party": "cpc",
       "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "lpc",
+      "score": 0.25
+    },
+    {
+      "party": "cpc",
       "score": 0.25
     }
   ],
@@ -21,6 +25,7 @@
     "confidence": 0
   },
   "name": "Saint Boniface--Saint Vital",
+  "slug": "Saint-Boniface-Saint-Vital",
   "position": {
     "x": 49.85157818159103,
     "y": -97.07555437383678

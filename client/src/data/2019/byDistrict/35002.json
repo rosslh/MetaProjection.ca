@@ -7,20 +7,21 @@
     },
     "calculatedPolitics": {
       "party": "ndp",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "ndp",
-      "score": 0.75
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "ndp",
-    "score": 0.75
+    "score": 0.5
   },
   "name": "Algoma--Manitoulin--Kapuskasing",
+  "slug": "Algoma-Manitoulin-Kapuskasing",
   "position": {
     "x": 48.04045650527913,
     "y": -83.614841691908

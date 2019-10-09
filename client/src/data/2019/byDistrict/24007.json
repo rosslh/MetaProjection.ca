@@ -2,25 +2,30 @@
   "number": 24007,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "ppc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "cpc",
-      "confidence": 0.5
+      "party": "ind",
+      "confidence": 1
     }
   },
   "scores": [
     {
-      "party": "cpc",
+      "party": "ind",
+      "score": 0.5
+    },
+    {
+      "party": "ppc",
       "score": 0.25
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "ind",
+    "score": 0.5
   },
   "name": "Beauce",
+  "slug": "Beauce",
   "position": {
     "x": 46.15761780452237,
     "y": -70.73399534568017

@@ -2,25 +2,26 @@
   "number": 35005,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "cpc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "cpc",
-      "confidence": 1
+      "party": null,
+      "confidence": 0
     }
   },
   "scores": [
     {
       "party": "cpc",
-      "score": 0.5
+      "score": 0.25
     }
   ],
   "winner": {
-    "party": "cpc",
-    "score": 0.5
+    "party": null,
+    "confidence": 0
   },
   "name": "Barrie--Springwater--Oro-Medonte",
+  "slug": "Barrie-Springwater-Oro-Medonte",
   "position": {
     "x": 44.50702307783577,
     "y": -79.74196766600005

@@ -6,13 +6,13 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "lpc",
+      "party": "bq",
       "confidence": 0.5
     }
   },
   "scores": [
     {
-      "party": "lpc",
+      "party": "bq",
       "score": 0.25
     }
   ],
@@ -21,6 +21,7 @@
     "confidence": 0
   },
   "name": "Salaberry--Suroît",
+  "slug": "Salaberry-Suroit",
   "position": {
     "x": 45.16204977137568,
     "y": -74.09854430690599

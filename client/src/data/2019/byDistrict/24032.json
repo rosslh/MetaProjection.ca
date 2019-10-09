@@ -2,17 +2,17 @@
   "number": 24032,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "bq",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "lpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     }
   },
   "scores": [
     {
-      "party": "lpc",
+      "party": "bq",
       "score": 0.25
     }
   ],
@@ -21,6 +21,7 @@
     "confidence": 0
   },
   "name": "Jonquière",
+  "slug": "Jonquiere",
   "position": {
     "x": 50.21710244635414,
     "y": -70.69109629471531

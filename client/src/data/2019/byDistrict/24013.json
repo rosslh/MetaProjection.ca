@@ -3,24 +3,25 @@
   "projections": {
     "threethirtyeight": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "lpc",
-      "confidence": 1
+      "party": null,
+      "confidence": 0
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 1
+      "score": 0.25
     }
   ],
   "winner": {
-    "party": "lpc",
-    "score": 1
+    "party": null,
+    "confidence": 0
   },
   "name": "Thérèse-De Blainville",
+  "slug": "Therese-De-Blainville",
   "position": {
     "x": 45.67708193506151,
     "y": -73.84150321773635

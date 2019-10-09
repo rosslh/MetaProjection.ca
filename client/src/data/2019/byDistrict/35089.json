@@ -6,21 +6,22 @@
       "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "lpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 0.5
+      "score": 0.25
     }
   ],
   "winner": {
-    "party": "lpc",
-    "score": 0.5
+    "party": null,
+    "confidence": 0
   },
   "name": "St. Catharines",
+  "slug": "St.-Catharines",
   "position": {
     "x": 43.19361304850455,
     "y": -79.24194049098796

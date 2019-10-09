@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "cpc",
-      "confidence": 1
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "cpc",
@@ -13,14 +13,15 @@
   "scores": [
     {
       "party": "cpc",
-      "score": 1
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "cpc",
-    "score": 1
+    "score": 0.75
   },
   "name": "Kootenay--Columbia",
+  "slug": "Kootenay-Columbia",
   "position": {
     "x": 50.501962207822224,
     "y": -116.6583629689391

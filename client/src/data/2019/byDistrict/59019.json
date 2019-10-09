@@ -3,11 +3,11 @@
   "projections": {
     "threethirtyeight": {
       "party": "ndp",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
       "party": "ndp",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
@@ -21,6 +21,7 @@
     "score": 0.75
   },
   "name": "New Westminster--Burnaby",
+  "slug": "New-Westminster-Burnaby",
   "position": {
     "x": 49.21555536812083,
     "y": -122.92411394629363

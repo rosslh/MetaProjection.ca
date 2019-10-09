@@ -2,8 +2,8 @@
   "number": 13009,
   "projections": {
     "threethirtyeight": {
-      "party": "cpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
       "party": "cpc",
@@ -13,14 +13,15 @@
   "scores": [
     {
       "party": "cpc",
-      "score": 0.75
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "cpc",
-    "score": 0.75
+    "score": 0.5
   },
   "name": "Saint John--Rothesay",
+  "slug": "Saint-John-Rothesay",
   "position": {
     "x": 45.27093371797505,
     "y": -66.0407126640715

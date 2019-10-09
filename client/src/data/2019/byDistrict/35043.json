@@ -2,20 +2,26 @@
   "number": 35043,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "cpc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": null,
-      "confidence": 0
+      "party": "cpc",
+      "confidence": 0.5
     }
   },
-  "scores": [],
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.5
+    }
+  ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "cpc",
+    "score": 0.5
   },
   "name": "King--Vaughan",
+  "slug": "King-Vaughan",
   "position": {
     "x": 43.93100750447176,
     "y": -79.60388615433115

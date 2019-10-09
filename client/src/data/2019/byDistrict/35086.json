@@ -6,21 +6,22 @@
       "confidence": 1
     },
     "calculatedPolitics": {
-      "party": "cpc",
-      "confidence": 1
+      "party": null,
+      "confidence": 0
     }
   },
   "scores": [
     {
       "party": "cpc",
-      "score": 1
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "cpc",
-    "score": 1
+    "score": 0.5
   },
   "name": "Renfrew--Nipissing--Pembroke",
+  "slug": "Renfrew-Nipissing-Pembroke",
   "position": {
     "x": 45.679846429245096,
     "y": -77.54518119321686

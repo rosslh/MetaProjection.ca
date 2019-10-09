@@ -6,16 +6,22 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": null,
-      "confidence": 0
+      "party": "bq",
+      "confidence": 0.5
     }
   },
-  "scores": [],
+  "scores": [
+    {
+      "party": "bq",
+      "score": 0.25
+    }
+  ],
   "winner": {
     "party": null,
     "confidence": 0
   },
   "name": "Berthier--Maskinongé",
+  "slug": "Berthier-Maskinonge",
   "position": {
     "x": 46.40221152243776,
     "y": -73.17588116526382

@@ -6,21 +6,17 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "ndp",
-      "confidence": 1
+      "party": null,
+      "confidence": 0
     }
   },
-  "scores": [
-    {
-      "party": "ndp",
-      "score": 0.5
-    }
-  ],
+  "scores": [],
   "winner": {
-    "party": "ndp",
-    "score": 0.5
+    "party": null,
+    "confidence": 0
   },
   "name": "Windsor West",
+  "slug": "Windsor-West",
   "position": {
     "x": 42.27822351045461,
     "y": -83.0307961447737

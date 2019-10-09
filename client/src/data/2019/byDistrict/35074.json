@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "cpc",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
       "party": "cpc",
@@ -13,14 +13,15 @@
   "scores": [
     {
       "party": "cpc",
-      "score": 0.75
+      "score": 1
     }
   ],
   "winner": {
     "party": "cpc",
-    "score": 0.75
+    "score": 1
   },
   "name": "Oshawa",
+  "slug": "Oshawa",
   "position": {
     "x": 43.88505611358202,
     "y": -78.84866170892391

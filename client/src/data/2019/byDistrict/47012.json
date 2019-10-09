@@ -2,8 +2,8 @@
   "number": 47012,
   "projections": {
     "threethirtyeight": {
-      "party": "cpc",
-      "confidence": 1
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
       "party": "cpc",
@@ -13,14 +13,15 @@
   "scores": [
     {
       "party": "cpc",
-      "score": 1
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "cpc",
-    "score": 1
+    "score": 0.5
   },
   "name": "Saskatoon West",
+  "slug": "Saskatoon-West",
   "position": {
     "x": 52.15000113387921,
     "y": -106.70994545698053

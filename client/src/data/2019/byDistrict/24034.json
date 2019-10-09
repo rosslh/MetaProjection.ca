@@ -7,20 +7,21 @@
     },
     "calculatedPolitics": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 1
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 1
+    "score": 0.75
   },
   "name": "La Prairie",
+  "slug": "La-Prairie",
   "position": {
     "x": 45.36601543821435,
     "y": -73.54628589084673

@@ -2,8 +2,8 @@
   "number": 59029,
   "projections": {
     "threethirtyeight": {
-      "party": "cpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
       "party": "ndp",
@@ -11,10 +11,6 @@
     }
   },
   "scores": [
-    {
-      "party": "cpc",
-      "score": 0.25
-    },
     {
       "party": "ndp",
       "score": 0.25
@@ -25,6 +21,7 @@
     "confidence": 0
   },
   "name": "South Okanagan--West Kootenay",
+  "slug": "South-Okanagan-West-Kootenay",
   "position": {
     "x": 49.5518651829832,
     "y": -118.36649773314743

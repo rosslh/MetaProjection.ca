@@ -2,8 +2,8 @@
   "number": 12003,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "cpc",
@@ -14,6 +14,10 @@
     {
       "party": "cpc",
       "score": 0.5
+    },
+    {
+      "party": "lpc",
+      "score": 0.25
     }
   ],
   "winner": {
@@ -21,6 +25,7 @@
     "score": 0.5
   },
   "name": "Cumberland--Colchester",
+  "slug": "Cumberland-Colchester",
   "position": {
     "x": 45.56939954101739,
     "y": -63.822272596269

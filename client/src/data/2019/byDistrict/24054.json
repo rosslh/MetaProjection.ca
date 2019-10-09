@@ -7,20 +7,21 @@
     },
     "calculatedPolitics": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 1
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 1
+    "score": 0.75
   },
   "name": "Outremont",
+  "slug": "Outremont",
   "position": {
     "x": 45.510548196144775,
     "y": -73.61066574712542

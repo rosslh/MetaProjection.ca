@@ -7,20 +7,21 @@
     },
     "calculatedPolitics": {
       "party": "cpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "cpc",
-      "score": 1
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "cpc",
-    "score": 1
+    "score": 0.75
   },
   "name": "Sarnia--Lambton",
+  "slug": "Sarnia-Lambton",
   "position": {
     "x": 42.89541498044945,
     "y": -82.2488017946176

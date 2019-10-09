@@ -2,25 +2,26 @@
   "number": 24035,
   "projections": {
     "threethirtyeight": {
-      "party": "cpc",
-      "confidence": 1
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
       "party": "cpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "cpc",
-      "score": 1
+      "score": 0.25
     }
   ],
   "winner": {
-    "party": "cpc",
-    "score": 1
+    "party": null,
+    "confidence": 0
   },
   "name": "Lac-Saint-Jean",
+  "slug": "Lac-Saint-Jean",
   "position": {
     "x": 49.53999360179894,
     "y": -72.5566890551627

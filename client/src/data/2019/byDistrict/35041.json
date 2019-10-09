@@ -7,20 +7,21 @@
     },
     "calculatedPolitics": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 0.5
+      "score": 0.25
     }
   ],
   "winner": {
-    "party": "lpc",
-    "score": 0.5
+    "party": null,
+    "confidence": 0
   },
   "name": "Kanata--Carleton",
+  "slug": "Kanata-Carleton",
   "position": {
     "x": 45.3710495085017,
     "y": -76.09707124570373

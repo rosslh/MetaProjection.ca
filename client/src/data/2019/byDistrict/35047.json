@@ -6,21 +6,17 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "lpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     }
   },
-  "scores": [
-    {
-      "party": "lpc",
-      "score": 0.25
-    }
-  ],
+  "scores": [],
   "winner": {
     "party": null,
     "confidence": 0
   },
   "name": "Kitchener South--Hespeler",
+  "slug": "Kitchener-South-Hespeler",
   "position": {
     "x": 43.41621946250679,
     "y": -80.40122584444705

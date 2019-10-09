@@ -2,25 +2,21 @@
   "number": 13006,
   "projections": {
     "threethirtyeight": {
-      "party": "cpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "cpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     }
   },
-  "scores": [
-    {
-      "party": "cpc",
-      "score": 0.5
-    }
-  ],
+  "scores": [],
   "winner": {
-    "party": "cpc",
-    "score": 0.5
+    "party": null,
+    "confidence": 0
   },
   "name": "Miramichi--Grand Lake",
+  "slug": "Miramichi-Grand-Lake",
   "position": {
     "x": 46.84089905501191,
     "y": -65.86490012485626

@@ -6,21 +6,22 @@
       "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "lpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 0.5
+      "score": 0.25
     }
   ],
   "winner": {
-    "party": "lpc",
-    "score": 0.5
+    "party": null,
+    "confidence": 0
   },
   "name": "Charlottetown",
+  "slug": "Charlottetown",
   "position": {
     "x": 46.265844613835704,
     "y": -63.135100761900425

@@ -7,20 +7,21 @@
     },
     "calculatedPolitics": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 0.75
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 0.75
+    "score": 0.5
   },
   "name": "Brampton Centre",
+  "slug": "Brampton-Centre",
   "position": {
     "x": 43.700634305097516,
     "y": -79.72041516342826

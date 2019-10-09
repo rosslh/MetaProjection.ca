@@ -6,21 +6,22 @@
       "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": null,
-      "confidence": 0
+      "party": "cpc",
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "cpc",
-      "score": 0.25
+      "score": 0.5
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "cpc",
+    "score": 0.5
   },
   "name": "Mission--Matsqui--Fraser Canyon",
+  "slug": "Mission-Matsqui-Fraser-Canyon",
   "position": {
     "x": 50.27939537979603,
     "y": -122.02742753031056

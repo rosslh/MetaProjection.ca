@@ -2,8 +2,8 @@
   "number": 35035,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "ndp",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "ndp",
@@ -13,14 +13,15 @@
   "scores": [
     {
       "party": "ndp",
-      "score": 0.5
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "ndp",
-    "score": 0.5
+    "score": 0.75
   },
   "name": "Hamilton Centre",
+  "slug": "Hamilton-Centre",
   "position": {
     "x": 43.26850171828743,
     "y": -79.84611304875176

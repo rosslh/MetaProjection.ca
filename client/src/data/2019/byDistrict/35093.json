@@ -2,8 +2,8 @@
   "number": 35093,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,14 +13,15 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 0.5
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 0.5
+    "score": 0.75
   },
   "name": "Scarborough--Agincourt",
+  "slug": "Scarborough-Agincourt",
   "position": {
     "x": 43.79648879577382,
     "y": -79.30811509895895

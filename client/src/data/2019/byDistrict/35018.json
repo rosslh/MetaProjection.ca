@@ -3,28 +3,25 @@
   "projections": {
     "threethirtyeight": {
       "party": "lpc",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
-      "party": "ndp",
-      "confidence": 0.5
+      "party": "lpc",
+      "confidence": 1
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 0.25
-    },
-    {
-      "party": "ndp",
-      "score": 0.25
+      "score": 1
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "lpc",
+    "score": 1
   },
   "name": "Davenport",
+  "slug": "Davenport",
   "position": {
     "x": 43.66937867806212,
     "y": -79.44404487717244

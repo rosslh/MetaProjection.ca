@@ -2,12 +2,12 @@
   "number": 59008,
   "projections": {
     "threethirtyeight": {
-      "party": "cpc",
-      "confidence": 0.5
-    },
-    "calculatedPolitics": {
       "party": null,
       "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 0.5
     }
   },
   "scores": [
@@ -21,6 +21,7 @@
     "confidence": 0
   },
   "name": "Coquitlam--Port Coquitlam",
+  "slug": "Coquitlam-Port-Coquitlam",
   "position": {
     "x": 49.430898944480774,
     "y": -122.7334118071955

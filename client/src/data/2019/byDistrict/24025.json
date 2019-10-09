@@ -2,25 +2,26 @@
   "number": 24025,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "bq",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "lpc",
+      "party": "bq",
       "confidence": 0.5
     }
   },
   "scores": [
     {
-      "party": "lpc",
-      "score": 0.25
+      "party": "bq",
+      "score": 0.5
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "bq",
+    "score": 0.5
   },
   "name": "Drummond",
+  "slug": "Drummond",
   "position": {
     "x": 45.85764704442678,
     "y": -72.47074121494424

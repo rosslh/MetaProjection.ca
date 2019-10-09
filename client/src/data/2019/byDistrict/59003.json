@@ -2,17 +2,17 @@
   "number": 59003,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "ndp",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "lpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     }
   },
   "scores": [
     {
-      "party": "lpc",
+      "party": "ndp",
       "score": 0.25
     }
   ],
@@ -21,6 +21,7 @@
     "confidence": 0
   },
   "name": "Burnaby South",
+  "slug": "Burnaby-South",
   "position": {
     "x": 49.22891571549734,
     "y": -122.9815358218118

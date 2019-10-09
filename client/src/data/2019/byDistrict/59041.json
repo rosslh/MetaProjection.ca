@@ -2,8 +2,8 @@
   "number": 59041,
   "projections": {
     "threethirtyeight": {
-      "party": "gpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
       "party": "ndp",
@@ -11,10 +11,6 @@
     }
   },
   "scores": [
-    {
-      "party": "gpc",
-      "score": 0.25
-    },
     {
       "party": "ndp",
       "score": 0.25
@@ -25,6 +21,7 @@
     "confidence": 0
   },
   "name": "Victoria",
+  "slug": "Victoria",
   "position": {
     "x": 48.37388548892962,
     "y": -123.28560467183836

@@ -2,25 +2,21 @@
   "number": 60001,
   "projections": {
     "threethirtyeight": {
-      "party": "lpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "lpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     }
   },
-  "scores": [
-    {
-      "party": "lpc",
-      "score": 0.5
-    }
-  ],
+  "scores": [],
   "winner": {
-    "party": "lpc",
-    "score": 0.5
+    "party": null,
+    "confidence": 0
   },
   "name": "Yukon",
+  "slug": "Yukon",
   "position": {
     "x": 63.64658172275627,
     "y": -135.51984201477376

@@ -7,20 +7,21 @@
     },
     "calculatedPolitics": {
       "party": "ndp",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "ndp",
-      "score": 0.5
+      "score": 0.25
     }
   ],
   "winner": {
-    "party": "ndp",
-    "score": 0.5
+    "party": null,
+    "confidence": 0
   },
   "name": "London--Fanshawe",
+  "slug": "London-Fanshawe",
   "position": {
     "x": 42.99259957827126,
     "y": -81.18079270935512

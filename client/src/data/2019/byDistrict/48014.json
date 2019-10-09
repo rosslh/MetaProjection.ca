@@ -6,21 +6,22 @@
       "confidence": 1
     },
     "calculatedPolitics": {
-      "party": "cpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     }
   },
   "scores": [
     {
       "party": "cpc",
-      "score": 0.75
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "cpc",
-    "score": 0.75
+    "score": 0.5
   },
   "name": "Edmonton Centre",
+  "slug": "Edmonton-Centre",
   "position": {
     "x": 53.548307903598456,
     "y": -113.54623750723496

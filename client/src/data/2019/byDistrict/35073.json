@@ -6,13 +6,13 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "cpc",
+      "party": "lpc",
       "confidence": 0.5
     }
   },
   "scores": [
     {
-      "party": "cpc",
+      "party": "lpc",
       "score": 0.25
     }
   ],
@@ -21,6 +21,7 @@
     "confidence": 0
   },
   "name": "Oakville North--Burlington",
+  "slug": "Oakville-North-Burlington",
   "position": {
     "x": 43.44564622093882,
     "y": -79.76815984090652

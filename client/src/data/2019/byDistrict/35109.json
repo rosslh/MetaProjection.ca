@@ -6,25 +6,22 @@
       "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "ndp",
+      "party": "lpc",
       "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 0.25
-    },
-    {
-      "party": "ndp",
-      "score": 0.25
+      "score": 0.5
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "lpc",
+    "score": 0.5
   },
   "name": "Toronto--Danforth",
+  "slug": "Toronto-Danforth",
   "position": {
     "x": 43.66066570231913,
     "y": -79.33804722916793

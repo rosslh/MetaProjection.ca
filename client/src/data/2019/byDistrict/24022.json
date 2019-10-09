@@ -7,7 +7,7 @@
     },
     "calculatedPolitics": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
@@ -17,14 +17,15 @@
     },
     {
       "party": "lpc",
-      "score": 0.5
+      "score": 0.25
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "cpc",
+    "score": 0.5
   },
   "name": "Chicoutimi--Le Fjord",
+  "slug": "Chicoutimi-Le-Fjord",
   "position": {
     "x": 48.203482392931704,
     "y": -70.54552644312804

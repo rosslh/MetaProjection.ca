@@ -2,7 +2,7 @@
   "number": 24006,
   "projections": {
     "threethirtyeight": {
-      "party": "lpc",
+      "party": "bq",
       "confidence": 0.5
     },
     "calculatedPolitics": {
@@ -13,14 +13,19 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 0.75
+      "score": 0.5
+    },
+    {
+      "party": "bq",
+      "score": 0.25
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 0.75
+    "score": 0.5
   },
   "name": "Avignon--La Mitis--Matane--Matapédia",
+  "slug": "Avignon-La-Mitis-Matane-Matapedia",
   "position": {
     "x": 48.50513325372315,
     "y": -67.23854338392584

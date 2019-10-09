@@ -6,13 +6,13 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "lpc",
+      "party": "cpc",
       "confidence": 0.5
     }
   },
   "scores": [
     {
-      "party": "lpc",
+      "party": "cpc",
       "score": 0.25
     }
   ],
@@ -21,6 +21,7 @@
     "confidence": 0
   },
   "name": "Winnipeg South",
+  "slug": "Winnipeg-South",
   "position": {
     "x": 49.77997895224056,
     "y": -97.14495913280358

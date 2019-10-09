@@ -6,21 +6,26 @@
       "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "lpc",
+      "party": "cpc",
       "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 0.5
+      "score": 0.25
+    },
+    {
+      "party": "cpc",
+      "score": 0.25
     }
   ],
   "winner": {
-    "party": "lpc",
-    "score": 0.5
+    "party": null,
+    "confidence": 0
   },
   "name": "Winnipeg South Centre",
+  "slug": "Winnipeg-South-Centre",
   "position": {
     "x": 49.849079304294584,
     "y": -97.17922251495172

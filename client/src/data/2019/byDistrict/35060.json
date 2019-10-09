@@ -7,20 +7,21 @@
     },
     "calculatedPolitics": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 0.75
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 0.75
+    "score": 0.5
   },
   "name": "Mississauga--Erin Mills",
+  "slug": "Mississauga-Erin-Mills",
   "position": {
     "x": 43.545311605358016,
     "y": -79.70821658636223

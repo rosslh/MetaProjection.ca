@@ -2,8 +2,8 @@
   "number": 59030,
   "projections": {
     "threethirtyeight": {
-      "party": "cpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
       "party": "cpc",
@@ -13,14 +13,15 @@
   "scores": [
     {
       "party": "cpc",
-      "score": 0.75
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "cpc",
-    "score": 0.75
+    "score": 0.5
   },
   "name": "South Surrey--White Rock",
+  "slug": "South-Surrey-White-Rock",
   "position": {
     "x": 49.05080184569187,
     "y": -122.79854317993656

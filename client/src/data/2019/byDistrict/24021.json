@@ -7,20 +7,21 @@
     },
     "calculatedPolitics": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 1
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 1
+    "score": 0.75
   },
   "name": "Châteauguay--Lacolle",
+  "slug": "Chateauguay-Lacolle",
   "position": {
     "x": 45.21365166915794,
     "y": -73.59253108383442

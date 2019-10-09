@@ -6,13 +6,13 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "lpc",
+      "party": "bq",
       "confidence": 0.5
     }
   },
   "scores": [
     {
-      "party": "lpc",
+      "party": "bq",
       "score": 0.25
     }
   ],
@@ -21,6 +21,7 @@
     "confidence": 0
   },
   "name": "Hochelaga",
+  "slug": "Hochelaga",
   "position": {
     "x": 45.56416627893813,
     "y": -73.54276493930095

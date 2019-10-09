@@ -2,25 +2,26 @@
   "number": 24038,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "bq",
+      "confidence": 1
     },
     "calculatedPolitics": {
-      "party": "lpc",
+      "party": "bq",
       "confidence": 0.5
     }
   },
   "scores": [
     {
-      "party": "lpc",
-      "score": 0.25
+      "party": "bq",
+      "score": 0.75
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "bq",
+    "score": 0.75
   },
   "name": "Laurentides--Labelle",
+  "slug": "Laurentides-Labelle",
   "position": {
     "x": 46.778756215115244,
     "y": -75.08425647880146

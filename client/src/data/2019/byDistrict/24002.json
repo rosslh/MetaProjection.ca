@@ -3,24 +3,25 @@
   "projections": {
     "threethirtyeight": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 1
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 1
+    "score": 0.5
   },
   "name": "Abitibi--Témiscamingue",
+  "slug": "Abitibi-Temiscamingue",
   "position": {
     "x": 47.799191837676986,
     "y": -78.53377545929631

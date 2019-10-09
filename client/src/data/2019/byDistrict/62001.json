@@ -2,29 +2,26 @@
   "number": 62001,
   "projections": {
     "threethirtyeight": {
-      "party": "lpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
       "party": "cpc",
-      "confidence": 0.5
+      "confidence": 1
     }
   },
   "scores": [
     {
-      "party": "lpc",
-      "score": 0.25
-    },
-    {
       "party": "cpc",
-      "score": 0.25
+      "score": 0.5
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "cpc",
+    "score": 0.5
   },
   "name": "Nunavut",
+  "slug": "Nunavut",
   "position": {
     "x": 72.96933553013392,
     "y": -89.33690058306456

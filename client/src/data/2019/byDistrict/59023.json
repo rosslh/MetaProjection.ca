@@ -2,25 +2,21 @@
   "number": 59023,
   "projections": {
     "threethirtyeight": {
-      "party": "cpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
       "party": null,
       "confidence": 0
     }
   },
-  "scores": [
-    {
-      "party": "cpc",
-      "score": 0.25
-    }
-  ],
+  "scores": [],
   "winner": {
     "party": null,
     "confidence": 0
   },
   "name": "Port Moody--Coquitlam",
+  "slug": "Port-Moody-Coquitlam",
   "position": {
     "x": 49.29845911024156,
     "y": -122.86128434059853

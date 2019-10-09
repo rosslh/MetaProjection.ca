@@ -7,20 +7,21 @@
     },
     "calculatedPolitics": {
       "party": "bq",
-      "confidence": 0.5
+      "confidence": 1
     }
   },
   "scores": [
     {
       "party": "bq",
-      "score": 0.75
+      "score": 1
     }
   ],
   "winner": {
     "party": "bq",
-    "score": 0.75
+    "score": 1
   },
   "name": "La Pointe-de-l'Île",
+  "slug": "La-Pointe-de-l'Ile",
   "position": {
     "x": 45.637448144365834,
     "y": -73.51337556416092
