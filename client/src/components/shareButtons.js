@@ -48,8 +48,9 @@ function ShareLinks({ page, title }) {
               margin: 0 0.3rem;
               color: white;
               display: inline-block;
-              height: 2rem;
-              width: 2rem;
+              height: 1.6rem;
+              width: 1.6rem;
+              font-size: 0.9rem;
               display: flex;
               justify-content: center;
               align-items: center;
@@ -58,6 +59,13 @@ function ShareLinks({ page, title }) {
             }
           `}
         >
+          <span
+            css={css`
+              padding-right: 0.4rem;
+            `}
+          >
+            Share:
+          </span>
           <FacebookShareButton
             className={style`
               background-color: #3B579D;
