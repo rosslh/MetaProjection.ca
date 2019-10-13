@@ -14,9 +14,11 @@ import ShareButtons from "../components/shareButtons";
 const getPartyStatus = (rank, seats) => {
   switch (rank) {
     case 0:
-      return seats >= 170 ? "Majority government" : "Minority government";
+      return seats >= 169
+        ? "Majority government"
+        : "Likely minority government";
     case 1:
-      return "Official Opposition";
+      return "Likely Official Opposition";
     default:
       return null;
   }

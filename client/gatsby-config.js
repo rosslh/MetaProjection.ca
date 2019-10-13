@@ -54,10 +54,17 @@ module.exports = {
         icon: `${__dirname}/src/images/icon.png`,
       },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
+    // this (optional) plugin enables Progressive Web App + Offline functionality. To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
-
     `gatsby-plugin-emotion`,
+    {
+      resolve: "gatsby-plugin-sentry",
+      options: {
+        dsn: "https://4813b87f38c046ebac3dbbe77a45ae05@sentry.io/1778220",
+        // Optional settings, see https://docs.sentry.io/clients/node/config/#optional-settings
+        environment: process.env.NODE_ENV,
+        enabled: true,
+      },
+    },
   ],
 };
