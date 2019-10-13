@@ -146,4 +146,10 @@ ShareLinks.propTypes = {
   title: PropTypes.string,
 };
 
-export default navigator ? webShare()(ShareLinks) : null;
+export default () => {
+  if (typeof navigator !== "undefined") {
+    return webShare()(ShareLinks);
+  } else {
+    return null;
+  }
+};
