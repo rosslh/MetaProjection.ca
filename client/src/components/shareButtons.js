@@ -15,14 +15,8 @@ import {
   FaShareSquare,
 } from "react-icons/fa";
 import { useStaticQuery, graphql } from "gatsby";
-import webShare from "react-web-share-api";
 
-const ShareButtons = ({
-  page,
-  title,
-  share,
-  isSupported: shareApiSupported,
-}) => {
+const ShareButtons = ({ page, title }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -36,8 +30,50 @@ const ShareButtons = ({
       }
     `
   );
+
+  const shareUrl = `${site.siteMetadata.url}${page}`;
   const fullTitle = `${title} | ${site.siteMetadata.title}`;
-  if (!shareApiSupported) {
+
+  const share = () =>
+    navigator.share({
+      url: shareUrl,
+      text: site.siteMetadata.description,
+      title: fullTitle,
+    });
+
+  if (navigator && navigator.share) {
+    return (
+      <button
+        css={css`
+          margin-top: 1.5rem;
+          font-size: 0.9rem;
+          line-height: 2rem;
+          padding: 0 1rem;
+          border-radius: 4px;
+          border: none;
+          color: white;
+          background-color: #950451;
+          font-weight: bold;
+          box-sizing: content-box;
+          cursor: pointer;
+          display: inline-flex;
+          justify-content: center;
+          align-items: center;
+          :hover {
+            opacity: 0.9;
+          }
+          svg {
+            margin-right: 0.4rem;
+            font-size: 0.85rem;
+          }
+        `}
+        onClick={share}
+      >
+        <FaShareSquare />
+        Share
+      </button>
+    );
+  } else {
     return (
       <ClassNames>
         {({ css: style }) => (
@@ -76,7 +112,7 @@ const ShareButtons = ({
               className={style`
               background-color: #3B579D;
             `}
-              url={`${site.siteMetadata.url}${page}`}
+              url={shareUrl}
               quote={fullTitle}
             >
               <FaFacebookF />
@@ -85,7 +121,7 @@ const ShareButtons = ({
               className={style`
               background-color: #2CAAE1;
             `}
-              url={`${site.siteMetadata.url}${page}`}
+              url={shareUrl}
               title={`${site.siteMetadata.description}. Take a look!`}
             >
               <FaTwitter />
@@ -95,7 +131,7 @@ const ShareButtons = ({
               background-color: #FF4500 !important;
             `}
               title={fullTitle}
-              url={`${site.siteMetadata.url}${page}`}
+              url={shareUrl}
             >
               <FaRedditAlien />
             </RedditShareButton>
@@ -103,7 +139,7 @@ const ShareButtons = ({
               className={style`
               background-color: #007BB6;
             `}
-              url={`${site.siteMetadata.url}${page}`}
+              url={shareUrl}
             >
               <FaLinkedinIn />
             </LinkedinShareButton>
@@ -111,46 +147,12 @@ const ShareButtons = ({
         )}
       </ClassNames>
     );
-  } else {
-    return (
-      <button
-        css={css`
-          margin-top: 1.5rem;
-          font-size: 0.9rem;
-          line-height: 2rem;
-          padding: 0 1rem;
-          border-radius: 4px;
-          border: none;
-          color: white;
-          background-color: #950451;
-          font-weight: bold;
-          box-sizing: content-box;
-          cursor: pointer;
-          display: inline-flex;
-          justify-content: center;
-          align-items: center;
-          :hover {
-            opacity: 0.9;
-          }
-          svg {
-            margin-right: 0.4rem;
-            font-size: 0.85rem;
-          }
-        `}
-        onClick={share}
-      >
-        <FaShareSquare />
-        Share
-      </button>
-    );
   }
 };
 
 ShareButtons.propTypes = {
   page: PropTypes.string,
   title: PropTypes.string,
-  share: PropTypes.func,
-  isSupported: PropTypes.bool,
 };
 
-export default webShare()(ShareButtons);
+export default ShareButtons;
