@@ -154,7 +154,9 @@ const IndexPage = () => (
               ))}
           </tbody>
         </table>
-        <ShareButtons title={pageTitle} page="" />
+        {typeof navigator !== "undefined" ? (
+          <ShareButtons title={pageTitle} page="" />
+        ) : null}
       </Layout>
     )}
   />

@@ -17,7 +17,12 @@ import {
 import { useStaticQuery, graphql } from "gatsby";
 import webShare from "react-web-share-api";
 
-function ShareLinks({ page, title, share, isSupported: shareApiSupported }) {
+const ShareButtons = ({
+  page,
+  title,
+  share,
+  isSupported: shareApiSupported,
+}) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -139,17 +144,13 @@ function ShareLinks({ page, title, share, isSupported: shareApiSupported }) {
       </button>
     );
   }
-}
+};
 
-ShareLinks.propTypes = {
+ShareButtons.propTypes = {
   page: PropTypes.string,
   title: PropTypes.string,
+  share: PropTypes.func,
+  isSupported: PropTypes.bool,
 };
 
-export default () => {
-  if (typeof navigator !== "undefined") {
-    return webShare()(ShareLinks);
-  } else {
-    return null;
-  }
-};
+export default webShare()(ShareButtons);
