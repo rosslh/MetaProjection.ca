@@ -146,4 +146,4 @@ ShareLinks.propTypes = {
   title: PropTypes.string,
 };
 
-export default webShare()(ShareLinks);
+export default navigator ? webShare()(ShareLinks) : null;
