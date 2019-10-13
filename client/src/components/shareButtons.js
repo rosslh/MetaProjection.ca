@@ -41,7 +41,7 @@ const ShareButtons = ({ page, title }) => {
       title: fullTitle,
     });
 
-  if (navigator && navigator.share) {
+  if (navigator || navigator.share) {
     return (
       <button
         css={css`
@@ -64,7 +64,7 @@ const ShareButtons = ({ page, title }) => {
           }
           svg {
             margin-right: 0.4rem;
-            font-size: 0.85rem;
+            font-size: 0.9rem;
           }
         `}
         onClick={share}
