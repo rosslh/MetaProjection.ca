@@ -41,7 +41,7 @@ const ShareButtons = ({ page, title }) => {
       title: fullTitle,
     });
 
-  if (navigator || navigator.share) {
+  if (navigator && navigator.share) {
     return (
       <button
         css={css`
