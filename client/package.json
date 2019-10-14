@@ -12,7 +12,7 @@
     "gatsby-plugin-emotion": "^4.1.10",
     "gatsby-plugin-manifest": "^2.2.21",
     "gatsby-plugin-offline": "^3.0.14",
-    "gatsby-plugin-react-helmet": "^3.1.11",
+    "gatsby-plugin-react-helmet": "^3.1.13",
     "gatsby-plugin-react-leaflet": "^2.0.11",
     "gatsby-plugin-sentry": "^1.0.1",
     "gatsby-plugin-sharp": "^2.2.29",
