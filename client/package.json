@@ -22,7 +22,7 @@
     "gatsby-transformer-sharp": "^2.2.23",
     "jsdom": "^15.1.1",
     "leaflet": "^1.5.1",
-    "mobx": "^5.14.0",
+    "mobx": "^5.14.2",
     "mobx-react": "^6.1.4",
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
