@@ -2,7 +2,7 @@ name: Test and deploy
 on:
   push:
     branches:
-      - master # Push events on master branc
+      - 2019 # Push events on master branc
   # schedule:
   #   - cron: "1 */8 * * *"
 
