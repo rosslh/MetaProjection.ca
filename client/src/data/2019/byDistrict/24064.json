@@ -7,18 +7,18 @@
     },
     "calculatedPolitics": {
       "party": "ndp",
-      "confidence": 0.5
+      "confidence": 1
     }
   },
   "scores": [
     {
       "party": "ndp",
-      "score": 0.5
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "ndp",
-    "score": 0.5
+    "score": 0.75
   },
   "name": "Rosemont--La Petite-Patrie",
   "slug": "Rosemont-La-Petite-Patrie",

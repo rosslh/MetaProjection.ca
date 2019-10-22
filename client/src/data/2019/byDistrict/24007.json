@@ -7,22 +7,22 @@
     },
     "calculatedPolitics": {
       "party": "ind",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
-      "party": "ind",
-      "score": 0.5
+      "party": "ppc",
+      "score": 0.25
     },
     {
-      "party": "ppc",
+      "party": "ind",
       "score": 0.25
     }
   ],
   "winner": {
-    "party": "ind",
-    "score": 0.5
+    "party": null,
+    "confidence": 0
   },
   "name": "Beauce",
   "slug": "Beauce",

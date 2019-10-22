@@ -2,8 +2,8 @@
   "number": 12010,
   "projections": {
     "threethirtyeight": {
-      "party": "lpc",
-      "confidence": 1
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,12 +13,12 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 1
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 1
+    "score": 0.5
   },
   "name": "Sydney--Victoria",
   "slug": "Sydney-Victoria",

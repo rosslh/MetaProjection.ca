@@ -6,23 +6,19 @@
       "confidence": 1
     },
     "calculatedPolitics": {
-      "party": "lpc",
+      "party": "cpc",
       "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "cpc",
-      "score": 0.5
-    },
-    {
-      "party": "lpc",
-      "score": 0.25
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "cpc",
-    "score": 0.5
+    "score": 0.75
   },
   "name": "Calgary Skyview",
   "slug": "Calgary-Skyview",

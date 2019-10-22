@@ -2,8 +2,8 @@
   "number": 59012,
   "projections": {
     "threethirtyeight": {
-      "party": "lpc",
-      "confidence": 1
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,12 +13,12 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 0.75
+      "score": 0.25
     }
   ],
   "winner": {
-    "party": "lpc",
-    "score": 0.75
+    "party": null,
+    "confidence": 0
   },
   "name": "Fleetwood--Port Kells",
   "slug": "Fleetwood-Port-Kells",

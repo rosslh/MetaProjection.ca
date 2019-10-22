@@ -2,22 +2,22 @@
   "number": 35109,
   "projections": {
     "threethirtyeight": {
-      "party": "lpc",
+      "party": "ndp",
       "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "lpc",
+      "party": "ndp",
       "confidence": 0.5
     }
   },
   "scores": [
     {
-      "party": "lpc",
+      "party": "ndp",
       "score": 0.5
     }
   ],
   "winner": {
-    "party": "lpc",
+    "party": "ndp",
     "score": 0.5
   },
   "name": "Toronto--Danforth",

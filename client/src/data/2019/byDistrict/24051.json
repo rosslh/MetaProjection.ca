@@ -2,23 +2,23 @@
   "number": 24051,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "bq",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "cpc",
-      "confidence": 0.5
+      "party": "bq",
+      "confidence": 1
     }
   },
   "scores": [
     {
-      "party": "cpc",
-      "score": 0.25
+      "party": "bq",
+      "score": 0.75
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "bq",
+    "score": 0.75
   },
   "name": "Montmagny--L'Islet--Kamouraska--Rivière-du-Loup",
   "slug": "Montmagny-L'Islet-Kamouraska-Riviere-du-Loup",

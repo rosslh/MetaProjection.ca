@@ -7,18 +7,18 @@
     },
     "calculatedPolitics": {
       "party": "ndp",
-      "confidence": 0.5
+      "confidence": 1
     }
   },
   "scores": [
     {
       "party": "ndp",
-      "score": 0.75
+      "score": 1
     }
   ],
   "winner": {
     "party": "ndp",
-    "score": 0.75
+    "score": 1
   },
   "name": "Vancouver Kingsway",
   "slug": "Vancouver-Kingsway",

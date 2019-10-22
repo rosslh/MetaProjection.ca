@@ -3,25 +3,25 @@
   "projections": {
     "threethirtyeight": {
       "party": "bq",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
-      "party": "lpc",
+      "party": "bq",
       "score": 0.5
     },
     {
-      "party": "bq",
+      "party": "lpc",
       "score": 0.25
     }
   ],
   "winner": {
-    "party": "lpc",
+    "party": "bq",
     "score": 0.5
   },
   "name": "Avignon--La Mitis--Matane--Matapédia",

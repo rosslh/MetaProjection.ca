@@ -3,22 +3,22 @@
   "projections": {
     "threethirtyeight": {
       "party": "bq",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
       "party": "bq",
-      "confidence": 0.5
+      "confidence": 1
     }
   },
   "scores": [
     {
       "party": "bq",
-      "score": 0.5
+      "score": 1
     }
   ],
   "winner": {
     "party": "bq",
-    "score": 0.5
+    "score": 1
   },
   "name": "Drummond",
   "slug": "Drummond",

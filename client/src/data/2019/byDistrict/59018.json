@@ -2,23 +2,23 @@
   "number": 59018,
   "projections": {
     "threethirtyeight": {
-      "party": "gpc",
-      "confidence": 1
-    },
-    "calculatedPolitics": {
       "party": null,
       "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": "ndp",
+      "confidence": 0.5
     }
   },
   "scores": [
     {
-      "party": "gpc",
-      "score": 0.5
+      "party": "ndp",
+      "score": 0.25
     }
   ],
   "winner": {
-    "party": "gpc",
-    "score": 0.5
+    "party": null,
+    "confidence": 0
   },
   "name": "Nanaimo--Ladysmith",
   "slug": "Nanaimo-Ladysmith",

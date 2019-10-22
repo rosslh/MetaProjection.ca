@@ -2,23 +2,23 @@
   "number": 24013,
   "projections": {
     "threethirtyeight": {
-      "party": "lpc",
+      "party": "bq",
       "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": null,
-      "confidence": 0
+      "party": "bq",
+      "confidence": 1
     }
   },
   "scores": [
     {
-      "party": "lpc",
-      "score": 0.25
+      "party": "bq",
+      "score": 0.75
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "bq",
+    "score": 0.75
   },
   "name": "Thérèse-De Blainville",
   "slug": "Therese-De-Blainville",

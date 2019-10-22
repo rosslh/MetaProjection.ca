@@ -6,19 +6,14 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "lpc",
-      "confidence": 1
+      "party": null,
+      "confidence": 0
     }
   },
-  "scores": [
-    {
-      "party": "lpc",
-      "score": 0.5
-    }
-  ],
+  "scores": [],
   "winner": {
-    "party": "lpc",
-    "score": 0.5
+    "party": null,
+    "confidence": 0
   },
   "name": "Gaspésie--Les Îles-de-la-Madeleine",
   "slug": "Gaspesie-Les-Iles-de-la-Madeleine",

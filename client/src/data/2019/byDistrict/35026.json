@@ -2,8 +2,8 @@
   "number": 35026,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "ndp",
+      "confidence": 1
     },
     "calculatedPolitics": {
       "party": "ndp",
@@ -13,12 +13,12 @@
   "scores": [
     {
       "party": "ndp",
-      "score": 0.25
+      "score": 0.75
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "ndp",
+    "score": 0.75
   },
   "name": "Essex",
   "slug": "Essex",

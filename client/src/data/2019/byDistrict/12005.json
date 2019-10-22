@@ -2,23 +2,23 @@
   "number": 12005,
   "projections": {
     "threethirtyeight": {
-      "party": "lpc",
-      "confidence": 1
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "lpc",
-      "confidence": 1
+      "party": "ndp",
+      "confidence": 0.5
     }
   },
   "scores": [
     {
-      "party": "lpc",
-      "score": 1
+      "party": "ndp",
+      "score": 0.25
     }
   ],
   "winner": {
-    "party": "lpc",
-    "score": 1
+    "party": null,
+    "confidence": 0
   },
   "name": "Halifax",
   "slug": "Halifax",

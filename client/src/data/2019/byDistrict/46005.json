@@ -3,22 +3,26 @@
   "projections": {
     "threethirtyeight": {
       "party": "cpc",
-      "confidence": 1
+      "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "cpc",
+      "party": "ndp",
       "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "cpc",
-      "score": 0.75
+      "score": 0.25
+    },
+    {
+      "party": "ndp",
+      "score": 0.25
     }
   ],
   "winner": {
-    "party": "cpc",
-    "score": 0.75
+    "party": null,
+    "confidence": 0
   },
   "name": "Elmwood--Transcona",
   "slug": "Elmwood-Transcona",

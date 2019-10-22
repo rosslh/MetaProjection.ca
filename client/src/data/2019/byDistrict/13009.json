@@ -2,8 +2,8 @@
   "number": 13009,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "cpc",
@@ -14,6 +14,10 @@
     {
       "party": "cpc",
       "score": 0.5
+    },
+    {
+      "party": "lpc",
+      "score": 0.25
     }
   ],
   "winner": {

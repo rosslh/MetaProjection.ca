@@ -2,8 +2,8 @@
   "number": 46002,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "cpc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "cpc",
@@ -13,12 +13,12 @@
   "scores": [
     {
       "party": "cpc",
-      "score": 0.5
+      "score": 0.75
     }
   ],
   "winner": {
     "party": "cpc",
-    "score": 0.5
+    "score": 0.75
   },
   "name": "Charleswood--St. James--Assiniboia--Headingley",
   "slug": "Charleswood-St.-James-Assiniboia-Headingley",

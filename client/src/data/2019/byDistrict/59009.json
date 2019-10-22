@@ -2,23 +2,23 @@
   "number": 59009,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "ndp",
+      "confidence": 1
     },
     "calculatedPolitics": {
-      "party": "cpc",
+      "party": "ndp",
       "confidence": 0.5
     }
   },
   "scores": [
     {
-      "party": "cpc",
-      "score": 0.25
+      "party": "ndp",
+      "score": 0.75
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "ndp",
+    "score": 0.75
   },
   "name": "Courtenay--Alberni",
   "slug": "Courtenay-Alberni",

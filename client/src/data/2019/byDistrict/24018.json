@@ -3,22 +3,22 @@
   "projections": {
     "threethirtyeight": {
       "party": "bq",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
-      "party": null,
-      "confidence": 0
+      "party": "bq",
+      "confidence": 1
     }
   },
   "scores": [
     {
       "party": "bq",
-      "score": 0.25
+      "score": 1
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "bq",
+    "score": 1
   },
   "name": "Rimouski-Neigette--Témiscouata--Les Basques",
   "slug": "Rimouski-Neigette-Temiscouata-Les-Basques",

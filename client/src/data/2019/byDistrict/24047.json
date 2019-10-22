@@ -3,22 +3,22 @@
   "projections": {
     "threethirtyeight": {
       "party": "cpc",
-      "confidence": 1
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "cpc",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "cpc",
-      "score": 1
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "cpc",
-    "score": 1
+    "score": 0.5
   },
   "name": "Mégantic--L'Érable",
   "slug": "Megantic-L'Erable",

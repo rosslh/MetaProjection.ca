@@ -2,23 +2,23 @@
   "number": 47003,
   "projections": {
     "threethirtyeight": {
-      "party": "cpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "cpc",
+      "party": "ndp",
       "confidence": 0.5
     }
   },
   "scores": [
     {
-      "party": "cpc",
-      "score": 0.5
+      "party": "ndp",
+      "score": 0.25
     }
   ],
   "winner": {
-    "party": "cpc",
-    "score": 0.5
+    "party": null,
+    "confidence": 0
   },
   "name": "Desnethé--Missinippi--Churchill River",
   "slug": "Desnethe-Missinippi-Churchill-River",

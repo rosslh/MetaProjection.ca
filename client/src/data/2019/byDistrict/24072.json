@@ -2,23 +2,18 @@
   "number": 24072,
   "projections": {
     "threethirtyeight": {
-      "party": "lpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "lpc",
-      "confidence": 1
+      "party": null,
+      "confidence": 0
     }
   },
-  "scores": [
-    {
-      "party": "lpc",
-      "score": 0.75
-    }
-  ],
+  "scores": [],
   "winner": {
-    "party": "lpc",
-    "score": 0.75
+    "party": null,
+    "confidence": 0
   },
   "name": "Shefford",
   "slug": "Shefford",

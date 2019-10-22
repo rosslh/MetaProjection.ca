@@ -2,23 +2,23 @@
   "number": 24043,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "bq",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "bq",
-      "confidence": 0.5
+      "confidence": 1
     }
   },
   "scores": [
     {
       "party": "bq",
-      "score": 0.25
+      "score": 0.75
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "bq",
+    "score": 0.75
   },
   "name": "Longueuil--Saint-Hubert",
   "slug": "Longueuil-Saint-Hubert",
