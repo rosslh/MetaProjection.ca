@@ -24,6 +24,6 @@ jobs:
         run: |
           cd client
           npm run test
-      - name: deploy
-        run: |
-          curl -X POST -d {} ${{ secrets.BUILD_HOOK }}
+      # - name: deploy
+      #   run: |
+      #     curl -X POST -d {} ${{ secrets.BUILD_HOOK }}
