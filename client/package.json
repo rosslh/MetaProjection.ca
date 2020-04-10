@@ -6,7 +6,7 @@
   "author": "Ross Hill",
   "dependencies": {
     "@emotion/core": "^10.0.21",
-    "date-fns": "^2.4.1",
+    "date-fns": "^2.12.0",
     "gatsby": "^2.15.36",
     "gatsby-image": "^2.2.29",
     "gatsby-plugin-emotion": "^4.1.12",
