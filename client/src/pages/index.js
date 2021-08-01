@@ -168,7 +168,7 @@ const IndexPage = () => (
               ))}
           </tbody>
         </table>
-        <ShareButtons title={pageTitle} page="" visible={typeof navigator !== "undefined"}/>
+        <ShareButtons title={pageTitle} page="" />
         <div
           css={css`
             margin: 4rem 0 2rem;

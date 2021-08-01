@@ -132,7 +132,7 @@ const District = ({ data, pageContext }) => {
           })}
         </tbody>
       </table>
-      <ShareButtons title={districtName} page={pageContext.relativePath} visible={typeof navigator !== "undefined"}/>
+      <ShareButtons title={districtName} page={pageContext.relativePath} />
     </Layout>
   );
 };
