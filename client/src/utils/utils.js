@@ -38,6 +38,11 @@ export const addPartyDetails = party => {
       imageString = "ppc.jpg";
       color = "#551A8B";
       break;
+    case "mav":
+      longName = "Maverick Party"
+      imageString = "mav.png"
+      color = "#6ABB42";
+      break;
     default:
       longName = party.name;
       imageString = "ind.png";

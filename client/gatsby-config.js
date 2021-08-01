@@ -19,19 +19,35 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `ByDistrict2019`,
-        path: `${__dirname}/src/data/2019/byDistrict`,
+        name: `ByDistrict2021`,
+        path: `${__dirname}/src/data/2021/byDistrict`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `Federal2019`,
-        path: `${__dirname}/src/data/2019/federal/${new Date()
+        name: `Federal2021`,
+        path: `${__dirname}/src/data/2021/federal/${new Date()
           .toISOString()
           .slice(0, 10)}.json`,
       },
     },
+    // {
+    //   resolve: `gatsby-source-filesystem`,
+    //   options: {
+    //     name: `ByDistrict2019`,
+    //     path: `${__dirname}/src/data/2019/byDistrict`,
+    //   },
+    // },
+    // {
+    //   resolve: `gatsby-source-filesystem`,
+    //   options: {
+    //     name: `Federal2019`,
+    //     path: `${__dirname}/src/data/2019/federal/${new Date()
+    //       .toISOString()
+    //       .slice(0, 10)}.json`,
+    //   },
+    // },
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,

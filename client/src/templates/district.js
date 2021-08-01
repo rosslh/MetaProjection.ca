@@ -140,7 +140,7 @@ const District = ({ data, pageContext }) => {
 };
 
 export const query = graphql`
-  query ByDistrict2019Query($number: Int) {
+  query ByDistrict2021Query($number: Int) {
     byDistrictJson(number: { eq: $number }) {
       projections {
         calculatedPolitics {
@@ -163,6 +163,29 @@ export const query = graphql`
       number
     }
   }
+  # query ByDistrict2019Query($number: Int) {
+  #   byDistrictJson2019(number: { eq: $number }) {
+  #     projections2019: projections {
+  #       calculatedPolitics {
+  #         confidence
+  #         party
+  #       }
+  #       threethirtyeight {
+  #         confidence
+  #         party
+  #       }
+  #     }
+  #     scores2019: scores {
+  #       party
+  #       score
+  #     }
+  #     winner {
+  #       party
+  #       score
+  #     }
+  #     number
+  #   }
+  # }
 `;
 
 export default District;

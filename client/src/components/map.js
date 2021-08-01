@@ -44,7 +44,7 @@ const DistrictMap = ({ selectedDistrict }) => {
   return (
     <StaticQuery
       query={graphql`
-        query MyQuery {
+        query MapQuery {
           allByDistrictJson {
             nodes {
               winner {
