@@ -16,7 +16,7 @@ import {
 } from "react-icons/fa";
 import { useStaticQuery, graphql } from "gatsby";
 
-const ShareButtons = ({ page, title }) => {
+const ShareButtons = ({ page, title, visible }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -41,10 +41,11 @@ const ShareButtons = ({ page, title }) => {
       title: fullTitle,
     });
 
-  if (navigator && navigator.share) {
+  if (typeof navigator !== "undefined" && navigator && navigator.share) {
     return (
       <button
         css={css`
+          visibility: ${visible ? "visible" : "hidden"}
           margin-top: 1.5rem;
           font-size: 0.9rem;
           line-height: 2rem;
@@ -74,14 +75,14 @@ const ShareButtons = ({ page, title }) => {
       </button>
     );
   } else {
+    // TODO: why doesn't wrapper CSS load on production
     return (
-          <div
-            css={css`
-              padding-top: 1.5rem;
-              display: flex;
-              align-items: center;
-            `}
-          >
+          <div css={css`
+            visibility: ${visible ? "visible" : "hidden"}
+            display: flex !important;
+            align-items: center !important;
+            padding-top: 1.5rem !important;
+          `}>
             <span
               css={css`
                 padding-right: 0.4rem;

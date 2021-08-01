@@ -54,11 +54,10 @@ a,
   cursor: pointer;
   margin: 0 0.3rem;
   color: white;
-  display: inline-block;
+  display: inline-flex;
   height: 1.6rem;
   width: 1.6rem;
   font-size: 0.9rem;
-  display: flex;
   justify-content: center;
   align-items: center;
   border-radius: 50%;

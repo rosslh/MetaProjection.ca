@@ -168,33 +168,34 @@ const IndexPage = () => (
               ))}
           </tbody>
         </table>
-        {typeof navigator !== "undefined" ? (
-          <ShareButtons title={pageTitle} page="" />
-        ) : null}
-      <div
-        css={css`
-          margin: 4rem 0 2rem;
-        `}
-      >
-        <p>View the final projection for 2019 here:</p>
-        <a
-          href={"https://2019.metaprojection.ca"}
+        <ShareButtons title={pageTitle} page="" visible={typeof navigator !== "undefined"}/>
+        <div
           css={css`
-            height: 2rem;
-            border-radius: 2rem;
-            border: none;
-            background-color: #950451;
-            color: white;
-            display: inline-flex;
-            justify-content: center;
-            align-items: center;
-            padding: 0 1rem;
-            text-shadow: none;
+            margin: 4rem 0 2rem;
           `}
         >
-          MetaProjection 2019
-        </a>
-      </div>
+          <p>View the final projection for 2019 here:
+            <a
+              href={"https://2019.metaprojection.ca"}
+              css={css`
+                height: 1.5rem;
+                border-radius: 2rem;
+                border: none;
+                background-color: #950451;
+                color: white;
+                display: inline-flex;
+                justify-content: center;
+                align-items: center;
+                padding: 0 0.8rem;
+                text-shadow: none;
+                font-size: 0.8rem;
+                margin-left: 0.5rem;
+              `}
+            >
+              MetaProjection 2019
+            </a>
+          </p>
+        </div>
       </Layout>
     )}
   />
