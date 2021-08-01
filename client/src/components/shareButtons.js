@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { css, ClassNames } from "@emotion/core";
+import { css } from "@emotion/core";
 import {
   FacebookShareButton,
   LinkedinShareButton,
@@ -75,42 +75,40 @@ const ShareButtons = ({ page, title }) => {
     );
   } else {
     return (
-      <ClassNames>
-        {({ css: style }) => (
           <div
-            className={style`
+            css={css`
               padding-top: 1.5rem;
               display: flex;
               align-items: center;
             `}
           >
             <span
-              className={style`
+              css={css`
                 padding-right: 0.4rem;
               `}
             >
               Share:
             </span>
             <FacebookShareButton
-              className={style`
-              background-color: #3B579D;
-            `}
+              css={css`
+               background-color: #3B579D;
+              `}
               url={shareUrl}
               quote={fullTitle}
             >
               <FaFacebookF />
             </FacebookShareButton>
             <TwitterShareButton
-              className={style`
-              background-color: #2CAAE1;
-            `}
+              css={css`
+               background-color: #2CAAE1;
+              `}
               url={shareUrl}
               title={`${site.siteMetadata.description}. Take a look!`}
             >
               <FaTwitter />
             </TwitterShareButton>
             <RedditShareButton
-              className={style`
+              css={css`
               background-color: #FF4500 !important;
             `}
               title={fullTitle}
@@ -119,19 +117,17 @@ const ShareButtons = ({ page, title }) => {
               <FaRedditAlien />
             </RedditShareButton>
             <LinkedinShareButton
-              className={style`
+              css={css`
               background-color: #007BB6;
-            `}
+              `}
               url={shareUrl}
             >
               <FaLinkedinIn />
             </LinkedinShareButton>
           </div>
-        )}
-      </ClassNames>
-    );
+        )
+      }
   }
-};
 
 ShareButtons.propTypes = {
   page: PropTypes.string,
