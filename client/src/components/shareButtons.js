@@ -78,31 +78,14 @@ const ShareButtons = ({ page, title }) => {
       <ClassNames>
         {({ css: style }) => (
           <div
-            css={css`
+            className={style`
               padding-top: 1.5rem;
               display: flex;
               align-items: center;
-              .SocialMediaShareButton {
-                cursor: pointer;
-                :hover {
-                  opacity: 0.9;
-                }
-                margin: 0 0.3rem;
-                color: white;
-                display: inline-block;
-                height: 1.6rem;
-                width: 1.6rem;
-                font-size: 0.9rem;
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                border-radius: 50%;
-                overflow: hidden;
-              }
             `}
           >
             <span
-              css={css`
+              className={style`
                 padding-right: 0.4rem;
               `}
             >
