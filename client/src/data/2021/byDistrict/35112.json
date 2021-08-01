@@ -1,0 +1,39 @@
+{
+  "number": 35112,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Waterloo",
+  "slug": "Waterloo",
+  "position": {
+    "x": 43.48040342927134,
+    "y": -80.53519305315979
+  },
+  "bounds": [
+    [
+      43.43265987382678,
+      -80.6261842066845
+    ],
+    [
+      43.53180038535432,
+      -80.42222497630343
+    ]
+  ]
+}

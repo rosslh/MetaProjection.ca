@@ -1,0 +1,39 @@
+{
+  "number": 35076,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Orléans",
+  "slug": "Orleans",
+  "position": {
+    "x": 45.40969005465455,
+    "y": -75.50875242701619
+  },
+  "bounds": [
+    [
+      45.29815099477945,
+      -75.60571634875738
+    ],
+    [
+      45.51674441775125,
+      -75.41763040291582
+    ]
+  ]
+}

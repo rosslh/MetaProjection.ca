@@ -1,0 +1,39 @@
+{
+  "number": 48017,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.5
+  },
+  "name": "Edmonton Mill Woods",
+  "slug": "Edmonton-Mill-Woods",
+  "position": {
+    "x": 53.461126985976264,
+    "y": -113.42019403339177
+  },
+  "bounds": [
+    [
+      53.435687707669366,
+      -113.49573038749674
+    ],
+    [
+      53.48779701084026,
+      -113.34425257740303
+    ]
+  ]
+}

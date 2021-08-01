@@ -1,0 +1,39 @@
+{
+  "number": 24010,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Bellechasse--Les Etchemins--Lévis",
+  "slug": "Bellechasse-Les-Etchemins-Levis",
+  "position": {
+    "x": 46.58799373182572,
+    "y": -70.60759732242582
+  },
+  "bounds": [
+    [
+      46.21257360122944,
+      -71.28708013371487
+    ],
+    [
+      46.93031423994922,
+      -70.04645179983669
+    ]
+  ]
+}

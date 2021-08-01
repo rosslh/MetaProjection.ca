@@ -1,0 +1,39 @@
+{
+  "number": 35032,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Guelph",
+  "slug": "Guelph",
+  "position": {
+    "x": 43.53277761819416,
+    "y": -80.2369350298618
+  },
+  "bounds": [
+    [
+      43.4738215015584,
+      -80.32694355722897
+    ],
+    [
+      43.594888632371266,
+      -80.1533919025102
+    ]
+  ]
+}

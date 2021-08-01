@@ -1,0 +1,39 @@
+{
+  "number": 35105,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Thunder Bay--Rainy River",
+  "slug": "Thunder-Bay-Rainy-River",
+  "position": {
+    "x": 48.82461863665429,
+    "y": -91.40360012182687
+  },
+  "bounds": [
+    [
+      47.98568698860922,
+      -94.82381966023094
+    ],
+    [
+      50.06373511874783,
+      -88.75694502274033
+    ]
+  ]
+}

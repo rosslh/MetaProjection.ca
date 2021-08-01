@@ -1,0 +1,39 @@
+{
+  "number": 48007,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Calgary Heritage",
+  "slug": "Calgary-Heritage",
+  "position": {
+    "x": 50.940545359224885,
+    "y": -114.1253783262977
+  },
+  "bounds": [
+    [
+      50.88478471080495,
+      -114.20982577195693
+    ],
+    [
+      51.0090991577885,
+      -114.06823918636209
+    ]
+  ]
+}

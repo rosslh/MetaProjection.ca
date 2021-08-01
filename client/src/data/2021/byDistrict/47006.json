@@ -1,0 +1,39 @@
+{
+  "number": 47006,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Prince Albert",
+  "slug": "Prince-Albert",
+  "position": {
+    "x": 53.15039093399124,
+    "y": -104.65335697359889
+  },
+  "bounds": [
+    [
+      52.66680280730204,
+      -106.44393062964762
+    ],
+    [
+      53.78305171087463,
+      -102.91454063111622
+    ]
+  ]
+}

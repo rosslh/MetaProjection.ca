@@ -1,0 +1,39 @@
+{
+  "number": 13002,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Beauséjour",
+  "slug": "Beausejour",
+  "position": {
+    "x": 46.24674125437887,
+    "y": -64.55002638014687
+  },
+  "bounds": [
+    [
+      45.64489299907366,
+      -65.38619718163997
+    ],
+    [
+      46.8119113922002,
+      -63.61471161121009
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 47012,
+  "projections": {
+    "threethirtyeight": {
+      "party": "ndp",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "ndp",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "ndp",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "ndp",
+    "score": 0.75
+  },
+  "name": "Saskatoon West",
+  "slug": "Saskatoon-West",
+  "position": {
+    "x": 52.15000113387921,
+    "y": -106.70994545698053
+  },
+  "bounds": [
+    [
+      52.086999328620564,
+      -106.82443686627686
+    ],
+    [
+      52.2364136430397,
+      -106.61757835940976
+    ]
+  ]
+}

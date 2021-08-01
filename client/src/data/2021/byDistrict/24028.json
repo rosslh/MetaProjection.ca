@@ -1,0 +1,39 @@
+{
+  "number": 24028,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Hochelaga",
+  "slug": "Hochelaga",
+  "position": {
+    "x": 45.56416627893813,
+    "y": -73.54276493930095
+  },
+  "bounds": [
+    [
+      45.53274753314866,
+      -73.58728416775959
+    ],
+    [
+      45.59316194957821,
+      -73.50163039765057
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 35054,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": "ind",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "ind",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "ind",
+    "score": 0.5
+  },
+  "name": "Markham--Stouffville",
+  "slug": "Markham-Stouffville",
+  "position": {
+    "x": 43.98235381549088,
+    "y": -79.29875112445238
+  },
+  "bounds": [
+    [
+      43.84209708247354,
+      -79.42024281629217
+    ],
+    [
+      44.1012660947532,
+      -79.17024551864576
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 46008,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Provencher",
+  "slug": "Provencher",
+  "position": {
+    "x": 49.559256176502764,
+    "y": -96.12168656960479
+  },
+  "bounds": [
+    [
+      48.99999999901533,
+      -97.45971891028924
+    ],
+    [
+      50.39595930963147,
+      -95.15214526568619
+    ]
+  ]
+}

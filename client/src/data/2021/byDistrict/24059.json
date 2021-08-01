@@ -1,0 +1,39 @@
+{
+  "number": 24059,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Québec",
+  "slug": "Quebec",
+  "position": {
+    "x": 46.80898757229378,
+    "y": -71.26474279816466
+  },
+  "bounds": [
+    [
+      46.78419209460685,
+      -71.34520008959073
+    ],
+    [
+      46.83701035460279,
+      -71.18845045800141
+    ]
+  ]
+}

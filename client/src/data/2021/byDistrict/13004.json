@@ -1,0 +1,39 @@
+{
+  "number": 13004,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.75
+  },
+  "name": "Fundy Royal",
+  "slug": "Fundy-Royal",
+  "position": {
+    "x": 45.77802345125855,
+    "y": -65.3352401669624
+  },
+  "bounds": [
+    [
+      45.20855196800253,
+      -66.22973002682252
+    ],
+    [
+      46.28479463748983,
+      -64.54110332920479
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "number": 48004,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": null,
+      "confidence": 0
+    }
+  },
+  "scores": [],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Calgary Centre",
+  "slug": "Calgary-Centre",
+  "position": {
+    "x": 51.02233065111802,
+    "y": -114.07491910037686
+  },
+  "bounds": [
+    [
+      50.986859962951485,
+      -114.14137748660926
+    ],
+    [
+      51.05683088740395,
+      -114.00314666731023
+    ]
+  ]
+}

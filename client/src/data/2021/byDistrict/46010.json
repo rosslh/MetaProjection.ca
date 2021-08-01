@@ -1,0 +1,39 @@
+{
+  "number": 46010,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Selkirk--Interlake--Eastman",
+  "slug": "Selkirk-Interlake-Eastman",
+  "position": {
+    "x": 50.696784302660376,
+    "y": -97.3885852870946
+  },
+  "bounds": [
+    [
+      49.91593825130947,
+      -98.87764496310761
+    ],
+    [
+      51.88578055714083,
+      -95.53442812241535
+    ]
+  ]
+}

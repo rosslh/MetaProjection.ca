@@ -1,0 +1,39 @@
+{
+  "number": 13003,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Fredericton",
+  "slug": "Fredericton",
+  "position": {
+    "x": 45.966816910357885,
+    "y": -66.34828667037208
+  },
+  "bounds": [
+    [
+      45.717481621653285,
+      -66.78340077155194
+    ],
+    [
+      46.25935498999308,
+      -66.0197437468837
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 35025,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Elgin--Middlesex--London",
+  "slug": "Elgin-Middlesex-London",
+  "position": {
+    "x": 42.716649743237106,
+    "y": -81.19276937298424
+  },
+  "bounds": [
+    [
+      42.3356305404799,
+      -81.83467289530202
+    ],
+    [
+      43.2314618845254,
+      -80.71713209264858
+    ]
+  ]
+}

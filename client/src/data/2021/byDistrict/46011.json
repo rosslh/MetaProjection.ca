@@ -1,0 +1,39 @@
+{
+  "number": 46011,
+  "projections": {
+    "threethirtyeight": {
+      "party": "ndp",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": null,
+      "confidence": 0
+    }
+  },
+  "scores": [
+    {
+      "party": "ndp",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "ndp",
+    "score": 0.5
+  },
+  "name": "Winnipeg Centre",
+  "slug": "Winnipeg-Centre",
+  "position": {
+    "x": 49.899646416198784,
+    "y": -97.18047680401824
+  },
+  "bounds": [
+    [
+      49.87345469249525,
+      -97.22964378397624
+    ],
+    [
+      49.9330110034709,
+      -97.10857704631432
+    ]
+  ]
+}

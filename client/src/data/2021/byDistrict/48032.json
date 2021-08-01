@@ -1,0 +1,39 @@
+{
+  "number": 48032,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Sherwood Park--Fort Saskatchewan",
+  "slug": "Sherwood-Park-Fort-Saskatchewan",
+  "position": {
+    "x": 53.57284681295958,
+    "y": -113.10208858393356
+  },
+  "bounds": [
+    [
+      53.35433164558919,
+      -113.40227993971632
+    ],
+    [
+      53.89370242381656,
+      -112.84068390522872
+    ]
+  ]
+}

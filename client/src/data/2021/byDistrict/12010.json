@@ -1,0 +1,39 @@
+{
+  "number": 12010,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Sydney--Victoria",
+  "slug": "Sydney-Victoria",
+  "position": {
+    "x": 46.45605598774781,
+    "y": -60.57431438168721
+  },
+  "bounds": [
+    [
+      45.84965198060155,
+      -61.051113851848854
+    ],
+    [
+      47.23508069250461,
+      -60.005493296389716
+    ]
+  ]
+}

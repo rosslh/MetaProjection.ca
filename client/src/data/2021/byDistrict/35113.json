@@ -1,0 +1,39 @@
+{
+  "number": 35113,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Wellington--Halton Hills",
+  "slug": "Wellington-Halton-Hills",
+  "position": {
+    "x": 43.64672833586525,
+    "y": -80.19257135264216
+  },
+  "bounds": [
+    [
+      43.3871914304314,
+      -80.55754341342276
+    ],
+    [
+      43.86153918754117,
+      -79.78822221152625
+    ]
+  ]
+}

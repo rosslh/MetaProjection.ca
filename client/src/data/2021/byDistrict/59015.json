@@ -1,0 +1,36 @@
+{
+  "number": 59015,
+  "projections": {
+    "threethirtyeight": {
+      "party": "ndp",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "ndp",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Kootenay--Columbia",
+  "slug": "Kootenay-Columbia",
+  "position": {
+    "x": 50.501962207822224,
+    "y": -116.6583629689391
+  },
+  "bounds": [
+    [
+      48.99885049658082,
+      -118.99026648882194
+    ],
+    [
+      52.50023849060475,
+      -114.05375826446955
+    ]
+  ]
+}

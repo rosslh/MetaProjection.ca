@@ -1,0 +1,39 @@
+{
+  "number": 24061,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Richmond--Arthabaska",
+  "slug": "Richmond-Arthabaska",
+  "position": {
+    "x": 45.853591292005156,
+    "y": -71.9407349247358
+  },
+  "bounds": [
+    [
+      45.380853214238144,
+      -72.32720638045666
+    ],
+    [
+      46.326629162343316,
+      -71.43667967161522
+    ]
+  ]
+}

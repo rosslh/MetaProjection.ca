@@ -1,0 +1,39 @@
+{
+  "number": 24060,
+  "projections": {
+    "threethirtyeight": {
+      "party": "bq",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "bq",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "bq",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "bq",
+    "score": 1
+  },
+  "name": "Repentigny",
+  "slug": "Repentigny",
+  "position": {
+    "x": 45.81868297990098,
+    "y": -73.4227345948226
+  },
+  "bounds": [
+    [
+      45.70040926079477,
+      -73.52947950446656
+    ],
+    [
+      45.94375995587931,
+      -73.26943790170228
+    ]
+  ]
+}

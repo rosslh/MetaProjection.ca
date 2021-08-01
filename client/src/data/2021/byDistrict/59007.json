@@ -1,0 +1,36 @@
+{
+  "number": 59007,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.5
+  },
+  "name": "Cloverdale--Langley City",
+  "slug": "Cloverdale-Langley-City",
+  "position": {
+    "x": 49.12311788451906,
+    "y": -122.71753900229338
+  },
+  "bounds": [
+    [
+      49.082006096498084,
+      -122.82344153568437
+    ],
+    [
+      49.16641709492317,
+      -122.6375079865602
+    ]
+  ]
+}

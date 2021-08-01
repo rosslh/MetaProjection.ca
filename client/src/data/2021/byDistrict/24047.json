@@ -1,0 +1,39 @@
+{
+  "number": 24047,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Mégantic--L'Érable",
+  "slug": "Megantic-L'Erable",
+  "position": {
+    "x": 45.90392873345903,
+    "y": -71.21521946101176
+  },
+  "bounds": [
+    [
+      45.22863758360601,
+      -71.98613914589266
+    ],
+    [
+      46.4525696403995,
+      -70.38396375246982
+    ]
+  ]
+}

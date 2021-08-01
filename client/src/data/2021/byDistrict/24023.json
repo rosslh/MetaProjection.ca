@@ -1,0 +1,39 @@
+{
+  "number": 24023,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Compton--Stanstead",
+  "slug": "Compton-Stanstead",
+  "position": {
+    "x": 45.34567631591344,
+    "y": -71.65521701803789
+  },
+  "bounds": [
+    [
+      45.00476966875214,
+      -72.28215675265345
+    ],
+    [
+      45.79874334994339,
+      -71.13096806663707
+    ]
+  ]
+}

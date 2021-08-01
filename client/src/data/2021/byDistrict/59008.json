@@ -1,0 +1,36 @@
+{
+  "number": 59008,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.5
+  },
+  "name": "Coquitlam--Port Coquitlam",
+  "slug": "Coquitlam-Port-Coquitlam",
+  "position": {
+    "x": 49.430898944480774,
+    "y": -122.7334118071955
+  },
+  "bounds": [
+    [
+      49.213381215054284,
+      -122.94504470846769
+    ],
+    [
+      49.57427534049748,
+      -122.52683879230503
+    ]
+  ]
+}

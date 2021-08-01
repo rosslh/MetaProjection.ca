@@ -1,0 +1,39 @@
+{
+  "number": 35009,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Brampton East",
+  "slug": "Brampton-East",
+  "position": {
+    "x": 43.77448605940192,
+    "y": -79.7001495895394
+  },
+  "bounds": [
+    [
+      43.70830962209245,
+      -79.78184161191865
+    ],
+    [
+      43.84771811972941,
+      -79.63027010823467
+    ]
+  ]
+}

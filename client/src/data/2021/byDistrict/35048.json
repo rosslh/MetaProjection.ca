@@ -1,0 +1,39 @@
+{
+  "number": 35048,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Lambton--Kent--Middlesex",
+  "slug": "Lambton-Kent-Middlesex",
+  "position": {
+    "x": 42.85951482067485,
+    "y": -81.89420805982805
+  },
+  "bounds": [
+    [
+      42.3167360557649,
+      -82.80345512831234
+    ],
+    [
+      43.32217850434679,
+      -81.17885955903006
+    ]
+  ]
+}

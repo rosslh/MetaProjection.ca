@@ -1,0 +1,34 @@
+{
+  "number": 35046,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": null,
+      "confidence": 0
+    }
+  },
+  "scores": [],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Kitchener--Conestoga",
+  "slug": "Kitchener-Conestoga",
+  "position": {
+    "x": 43.50166336178943,
+    "y": -80.61226328976055
+  },
+  "bounds": [
+    [
+      43.31098099654574,
+      -80.86903649374544
+    ],
+    [
+      43.68959600546704,
+      -80.3060262909559
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 35104,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Thornhill",
+  "slug": "Thornhill",
+  "position": {
+    "x": 43.81175514772294,
+    "y": -79.47782595950079
+  },
+  "bounds": [
+    [
+      43.77269425200668,
+      -79.54617666921087
+    ],
+    [
+      43.847715702845214,
+      -79.39621860826036
+    ]
+  ]
+}

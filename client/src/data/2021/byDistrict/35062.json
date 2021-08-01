@@ -1,0 +1,39 @@
+{
+  "number": 35062,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Mississauga--Malton",
+  "slug": "Mississauga-Malton",
+  "position": {
+    "x": 43.65766378722704,
+    "y": -79.65775102641031
+  },
+  "bounds": [
+    [
+      43.58675310546218,
+      -79.73662491147024
+    ],
+    [
+      43.73733393332898,
+      -79.58876324515758
+    ]
+  ]
+}

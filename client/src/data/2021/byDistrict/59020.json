@@ -1,0 +1,36 @@
+{
+  "number": 59020,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.5
+  },
+  "name": "North Okanagan--Shuswap",
+  "slug": "North-Okanagan-Shuswap",
+  "position": {
+    "x": 50.58913090000216,
+    "y": -118.81481427337226
+  },
+  "bounds": [
+    [
+      49.70909878012401,
+      -119.80436074964706
+    ],
+    [
+      51.70272153566625,
+      -117.80691899658162
+    ]
+  ]
+}

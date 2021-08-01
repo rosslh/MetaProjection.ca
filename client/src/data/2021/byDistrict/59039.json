@@ -1,0 +1,36 @@
+{
+  "number": 59039,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.5
+  },
+  "name": "Vancouver Quadra",
+  "slug": "Vancouver-Quadra",
+  "position": {
+    "x": 49.256119645382,
+    "y": -123.21265364549606
+  },
+  "bounds": [
+    [
+      49.20191348292643,
+      -123.30959556577263
+    ],
+    [
+      49.28468198945251,
+      -123.14056114379812
+    ]
+  ]
+}

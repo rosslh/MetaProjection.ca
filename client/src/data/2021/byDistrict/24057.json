@@ -1,0 +1,39 @@
+{
+  "number": 24057,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Pontiac",
+  "slug": "Pontiac",
+  "position": {
+    "x": 46.601466480562024,
+    "y": -76.58209045480375
+  },
+  "bounds": [
+    [
+      45.40163468695757,
+      -77.93298748491105
+    ],
+    [
+      47.84795397054562,
+      -75.30835185506344
+    ]
+  ]
+}

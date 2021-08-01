@@ -1,0 +1,39 @@
+{
+  "number": 12004,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Dartmouth--Cole Harbour",
+  "slug": "Dartmouth-Cole-Harbour",
+  "position": {
+    "x": 44.68278526060696,
+    "y": -63.54784776669631
+  },
+  "bounds": [
+    [
+      44.62031083015496,
+      -63.65453425947514
+    ],
+    [
+      44.74005590461032,
+      -63.44641072580274
+    ]
+  ]
+}

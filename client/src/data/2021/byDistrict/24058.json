@@ -1,0 +1,39 @@
+{
+  "number": 24058,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Portneuf--Jacques-Cartier",
+  "slug": "Portneuf-Jacques-Cartier",
+  "position": {
+    "x": 47.1221233557114,
+    "y": -71.86522392252421
+  },
+  "bounds": [
+    [
+      46.570025463994604,
+      -72.54756834459167
+    ],
+    [
+      47.77256562283556,
+      -71.08596663383491
+    ]
+  ]
+}

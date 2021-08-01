@@ -1,0 +1,39 @@
+{
+  "number": 24027,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Gatineau",
+  "slug": "Gatineau",
+  "position": {
+    "x": 45.50953846324043,
+    "y": -75.62284595249172
+  },
+  "bounds": [
+    [
+      45.45296953958603,
+      -75.75085797914863
+    ],
+    [
+      45.57593688096397,
+      -75.52556854243382
+    ]
+  ]
+}

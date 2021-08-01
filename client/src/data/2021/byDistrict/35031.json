@@ -1,0 +1,39 @@
+{
+  "number": 35031,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Glengarry--Prescott--Russell",
+  "slug": "Glengarry-Prescott-Russell",
+  "position": {
+    "x": 45.43026036598903,
+    "y": -74.93206413683527
+  },
+  "bounds": [
+    [
+      45.18207449368228,
+      -75.47299550583693
+    ],
+    [
+      45.64569308570335,
+      -74.38126699849899
+    ]
+  ]
+}

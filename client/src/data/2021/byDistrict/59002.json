@@ -1,0 +1,36 @@
+{
+  "number": 59002,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Burnaby North--Seymour",
+  "slug": "Burnaby-North-Seymour",
+  "position": {
+    "x": 49.33432707812466,
+    "y": -122.95240449902172
+  },
+  "bounds": [
+    [
+      49.24578503446607,
+      -123.0389613295708
+    ],
+    [
+      49.41454595698954,
+      -122.86933767466782
+    ]
+  ]
+}

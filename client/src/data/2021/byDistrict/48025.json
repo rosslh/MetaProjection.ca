@@ -1,0 +1,39 @@
+{
+  "number": 48025,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Lakeland",
+  "slug": "Lakeland",
+  "position": {
+    "x": 54.011304190941644,
+    "y": -111.77787800505163
+  },
+  "bounds": [
+    [
+      52.856321257985954,
+      -113.69446308381521
+    ],
+    [
+      55.461064866641806,
+      -110.00462843463347
+    ]
+  ]
+}

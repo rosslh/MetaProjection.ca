@@ -1,0 +1,31 @@
+{
+  "number": 59025,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Richmond Centre",
+  "slug": "Richmond-Centre",
+  "position": {
+    "x": 49.209929224894296,
+    "y": -123.35141897779788
+  },
+  "bounds": [
+    [
+      49.13351371301861,
+      -123.6613109931336
+    ],
+    [
+      49.29065725029652,
+      -123.10752595578096
+    ]
+  ]
+}

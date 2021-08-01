@@ -1,0 +1,39 @@
+{
+  "number": 35049,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Lanark--Frontenac--Kingston",
+  "slug": "Lanark-Frontenac-Kingston",
+  "position": {
+    "x": 44.864566259427164,
+    "y": -76.55631583539706
+  },
+  "bounds": [
+    [
+      44.26903389137098,
+      -77.22135925824038
+    ],
+    [
+      45.41055763335311,
+      -75.81616466856987
+    ]
+  ]
+}

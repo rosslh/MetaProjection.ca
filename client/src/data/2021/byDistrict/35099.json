@@ -1,0 +1,39 @@
+{
+  "number": 35099,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Simcoe--Grey",
+  "slug": "Simcoe-Grey",
+  "position": {
+    "x": 44.40541758316385,
+    "y": -80.12560207235624
+  },
+  "bounds": [
+    [
+      43.95142348943194,
+      -80.59918520747622
+    ],
+    [
+      44.97271742341691,
+      -79.6704182705321
+    ]
+  ]
+}

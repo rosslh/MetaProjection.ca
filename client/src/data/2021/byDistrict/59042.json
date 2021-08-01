@@ -1,0 +1,36 @@
+{
+  "number": 59042,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.5
+  },
+  "name": "West Vancouver--Sunshine Coast--Sea to Sky Country",
+  "slug": "West-Vancouver-Sunshine-Coast-Sea-to-Sky-Country",
+  "position": {
+    "x": 50.05547802624441,
+    "y": -123.36907629884418
+  },
+  "bounds": [
+    [
+      49.282302967707906,
+      -124.29192444013904
+    ],
+    [
+      50.8440722053722,
+      -122.258440063193
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 35052,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "London North Centre",
+  "slug": "London-North-Centre",
+  "position": {
+    "x": 43.01446867706108,
+    "y": -81.25921580201688
+  },
+  "bounds": [
+    [
+      42.97118594370306,
+      -81.3197896029922
+    ],
+    [
+      43.06080688952562,
+      -81.19864929966533
+    ]
+  ]
+}

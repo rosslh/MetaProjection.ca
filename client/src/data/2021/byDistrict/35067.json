@@ -1,0 +1,39 @@
+{
+  "number": 35067,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": null,
+      "confidence": 0
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Niagara Falls",
+  "slug": "Niagara-Falls",
+  "position": {
+    "x": 43.005869575659545,
+    "y": -79.07104805024748
+  },
+  "bounds": [
+    [
+      42.76035332696791,
+      -79.20258851667072
+    ],
+    [
+      43.2653526550599,
+      -78.90589884671043
+    ]
+  ]
+}

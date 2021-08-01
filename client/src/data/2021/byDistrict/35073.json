@@ -1,0 +1,39 @@
+{
+  "number": 35073,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Oakville North--Burlington",
+  "slug": "Oakville-North-Burlington",
+  "position": {
+    "x": 43.44564622093882,
+    "y": -79.76815984090652
+  },
+  "bounds": [
+    [
+      43.364644109333604,
+      -79.83401748359049
+    ],
+    [
+      43.52652738203304,
+      -79.69538650041069
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "number": 35042,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": null,
+      "confidence": 0
+    }
+  },
+  "scores": [],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Kenora",
+  "slug": "Kenora",
+  "position": {
+    "x": 52.729742622491145,
+    "y": -90.78817461226316
+  },
+  "bounds": [
+    [
+      49.000024197648344,
+      -95.15600124228514
+    ],
+    [
+      56.85903623312993,
+      -86.54487871669838
+    ]
+  ]
+}

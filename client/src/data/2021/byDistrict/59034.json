@@ -1,0 +1,36 @@
+{
+  "number": 59034,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.5
+  },
+  "name": "Vancouver Centre",
+  "slug": "Vancouver-Centre",
+  "position": {
+    "x": 49.290433143976045,
+    "y": -123.13508770230395
+  },
+  "bounds": [
+    [
+      49.26591701069175,
+      -123.16423610838541
+    ],
+    [
+      49.316690028211084,
+      -123.09976286855822
+    ]
+  ]
+}

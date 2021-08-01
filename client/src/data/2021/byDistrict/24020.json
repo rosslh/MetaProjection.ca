@@ -1,0 +1,39 @@
+{
+  "number": 24020,
+  "projections": {
+    "threethirtyeight": {
+      "party": "bq",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": null,
+      "confidence": 0
+    }
+  },
+  "scores": [
+    {
+      "party": "bq",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "bq",
+    "score": 0.5
+  },
+  "name": "Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix",
+  "slug": "Beauport-Cote-de-Beaupre-Ile-d'Orleans-Charlevoix",
+  "position": {
+    "x": 47.61241249112832,
+    "y": -70.8067870538423
+  },
+  "bounds": [
+    [
+      46.83793357937797,
+      -72.07393193201766
+    ],
+    [
+      48.181631362297075,
+      -69.53633729986639
+    ]
+  ]
+}

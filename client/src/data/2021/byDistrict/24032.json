@@ -1,0 +1,39 @@
+{
+  "number": 24032,
+  "projections": {
+    "threethirtyeight": {
+      "party": "bq",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "bq",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "bq",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "bq",
+    "score": 0.75
+  },
+  "name": "Jonquière",
+  "slug": "Jonquiere",
+  "position": {
+    "x": 50.21710244635414,
+    "y": -70.69109629471531
+  },
+  "bounds": [
+    [
+      47.99984313235189,
+      -71.63973700308287
+    ],
+    [
+      52.69636036266842,
+      -70.00849681677096
+    ]
+  ]
+}

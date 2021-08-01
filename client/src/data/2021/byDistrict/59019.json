@@ -1,0 +1,36 @@
+{
+  "number": 59019,
+  "projections": {
+    "threethirtyeight": {
+      "party": "ndp",
+      "confidence": 1
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "ndp",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "ndp",
+    "score": 0.5
+  },
+  "name": "New Westminster--Burnaby",
+  "slug": "New-Westminster-Burnaby",
+  "position": {
+    "x": 49.21555536812083,
+    "y": -122.92411394629363
+  },
+  "bounds": [
+    [
+      49.1751718810898,
+      -122.964530114815
+    ],
+    [
+      49.24624939131551,
+      -122.87503471406451
+    ]
+  ]
+}

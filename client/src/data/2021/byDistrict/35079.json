@@ -1,0 +1,39 @@
+{
+  "number": 35079,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Ottawa West--Nepean",
+  "slug": "Ottawa-West-Nepean",
+  "position": {
+    "x": 45.361415570000055,
+    "y": -75.82748084236076
+  },
+  "bounds": [
+    [
+      45.320593371246744,
+      -75.94577578763958
+    ],
+    [
+      45.41022239140816,
+      -75.69622887737947
+    ]
+  ]
+}

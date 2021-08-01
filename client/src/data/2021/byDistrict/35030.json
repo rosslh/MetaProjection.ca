@@ -1,0 +1,39 @@
+{
+  "number": 35030,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Flamborough--Glanbrook",
+  "slug": "Flamborough-Glanbrook",
+  "position": {
+    "x": 43.25733275258221,
+    "y": -79.98396857750704
+  },
+  "bounds": [
+    [
+      43.05051649416893,
+      -80.24848621461076
+    ],
+    [
+      43.47105600816437,
+      -79.63559910358717
+    ]
+  ]
+}

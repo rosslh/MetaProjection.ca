@@ -1,0 +1,39 @@
+{
+  "number": 24040,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Laval--Les Îles",
+  "slug": "Laval-Les-Iles",
+  "position": {
+    "x": 45.53894528309739,
+    "y": -73.82205755525501
+  },
+  "bounds": [
+    [
+      45.510927290807516,
+      -73.89536610156973
+    ],
+    [
+      45.580884018824584,
+      -73.73562502628204
+    ]
+  ]
+}

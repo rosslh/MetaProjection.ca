@@ -1,0 +1,39 @@
+{
+  "number": 24055,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Papineau",
+  "slug": "Papineau",
+  "position": {
+    "x": 45.546536875545044,
+    "y": -73.6184023876386
+  },
+  "bounds": [
+    [
+      45.52337604897894,
+      -73.64901903071018
+    ],
+    [
+      45.572512213359104,
+      -73.58628991712511
+    ]
+  ]
+}

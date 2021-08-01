@@ -1,0 +1,39 @@
+{
+  "number": 60001,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Yukon",
+  "slug": "Yukon",
+  "position": {
+    "x": 63.64658172275627,
+    "y": -135.51984201477376
+  },
+  "bounds": [
+    [
+      59.99999998685869,
+      -141.01807315762775
+    ],
+    [
+      69.68942748467914,
+      -123.78932483557892
+    ]
+  ]
+}

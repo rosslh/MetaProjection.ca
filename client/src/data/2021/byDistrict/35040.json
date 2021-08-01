@@ -1,0 +1,39 @@
+{
+  "number": 35040,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Huron--Bruce",
+  "slug": "Huron-Bruce",
+  "position": {
+    "x": 43.87774434620581,
+    "y": -81.41845305148797
+  },
+  "bounds": [
+    [
+      43.23691514783056,
+      -81.7773978353742
+    ],
+    [
+      44.54030024838553,
+      -80.95439919561193
+    ]
+  ]
+}

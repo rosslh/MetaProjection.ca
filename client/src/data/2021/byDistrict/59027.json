@@ -1,0 +1,36 @@
+{
+  "number": 59027,
+  "projections": {
+    "threethirtyeight": {
+      "party": "gpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "gpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "gpc",
+    "score": 0.5
+  },
+  "name": "Saanich--Gulf Islands",
+  "slug": "Saanich-Gulf-Islands",
+  "position": {
+    "x": 48.782872533233274,
+    "y": -123.34930943639384
+  },
+  "bounds": [
+    [
+      48.448149483262114,
+      -123.6300337873159
+    ],
+    [
+      49.01825724689616,
+      -123.00848896210454
+    ]
+  ]
+}

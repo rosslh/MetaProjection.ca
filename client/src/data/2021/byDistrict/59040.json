@@ -1,0 +1,36 @@
+{
+  "number": 59040,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.5
+  },
+  "name": "Vancouver South",
+  "slug": "Vancouver-South",
+  "position": {
+    "x": 49.218708325178085,
+    "y": -123.06944971210035
+  },
+  "bounds": [
+    [
+      49.199744470989344,
+      -123.11729185041116
+    ],
+    [
+      49.23416620684581,
+      -123.02293652609609
+    ]
+  ]
+}

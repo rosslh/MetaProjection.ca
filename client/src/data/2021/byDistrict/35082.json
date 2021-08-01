@@ -1,0 +1,39 @@
+{
+  "number": 35082,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Parry Sound--Muskoka",
+  "slug": "Parry-Sound-Muskoka",
+  "position": {
+    "x": 45.45920388220882,
+    "y": -79.94637985632104
+  },
+  "bounds": [
+    [
+      44.77249756508016,
+      -81.07548063606986
+    ],
+    [
+      46.21386369259296,
+      -78.84319645179751
+    ]
+  ]
+}

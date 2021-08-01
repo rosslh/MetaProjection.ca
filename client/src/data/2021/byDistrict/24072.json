@@ -1,0 +1,39 @@
+{
+  "number": 24072,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.5
+  },
+  "name": "Shefford",
+  "slug": "Shefford",
+  "position": {
+    "x": 45.42868825029576,
+    "y": -72.6294293812877
+  },
+  "bounds": [
+    [
+      45.26455297039047,
+      -73.16213086687978
+    ],
+    [
+      45.59843729002512,
+      -72.12859368940707
+    ]
+  ]
+}

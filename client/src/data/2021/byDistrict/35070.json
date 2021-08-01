@@ -1,0 +1,39 @@
+{
+  "number": 35070,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Nipissing--Timiskaming",
+  "slug": "Nipissing-Timiskaming",
+  "position": {
+    "x": 46.477947405479846,
+    "y": -79.33654638402345
+  },
+  "bounds": [
+    [
+      45.414624350861665,
+      -80.29216301454947
+    ],
+    [
+      47.581127096823195,
+      -78.24817854760403
+    ]
+  ]
+}

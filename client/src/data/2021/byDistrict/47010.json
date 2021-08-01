@@ -1,0 +1,39 @@
+{
+  "number": 47010,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.75
+  },
+  "name": "Saskatoon--Grasswood",
+  "slug": "Saskatoon-Grasswood",
+  "position": {
+    "x": 52.04737428260096,
+    "y": -106.57056987956204
+  },
+  "bounds": [
+    [
+      51.96890334813384,
+      -106.79560766712834
+    ],
+    [
+      52.14385391420712,
+      -106.432139362668
+    ]
+  ]
+}

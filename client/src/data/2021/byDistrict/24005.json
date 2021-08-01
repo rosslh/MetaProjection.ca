@@ -1,0 +1,39 @@
+{
+  "number": 24005,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Argenteuil--La Petite-Nation",
+  "slug": "Argenteuil-La-Petite-Nation",
+  "position": {
+    "x": 45.81263716832692,
+    "y": -74.96508052025293
+  },
+  "bounds": [
+    [
+      45.49678164408433,
+      -75.79807061455642
+    ],
+    [
+      46.21612289732134,
+      -74.10356086335659
+    ]
+  ]
+}

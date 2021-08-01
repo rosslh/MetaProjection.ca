@@ -1,0 +1,39 @@
+{
+  "number": 48029,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Red Deer--Mountain View",
+  "slug": "Red-Deer-Mountain-View",
+  "position": {
+    "x": 51.89595276106101,
+    "y": -114.02101342713708
+  },
+  "bounds": [
+    [
+      51.44513209986913,
+      -114.99439924354571
+    ],
+    [
+      52.3223606564711,
+      -112.90684631411402
+    ]
+  ]
+}

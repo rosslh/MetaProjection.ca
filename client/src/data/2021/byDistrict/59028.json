@@ -1,0 +1,36 @@
+{
+  "number": 59028,
+  "projections": {
+    "threethirtyeight": {
+      "party": "ndp",
+      "confidence": 1
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "ndp",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "ndp",
+    "score": 0.5
+  },
+  "name": "Skeena--Bulkley Valley",
+  "slug": "Skeena-Bulkley-Valley",
+  "position": {
+    "x": 56.072890397468385,
+    "y": -129.37764707494355
+  },
+  "bounds": [
+    [
+      50.96557513179998,
+      -139.0522010411866
+    ],
+    [
+      60.000061531800796,
+      -123.39225944188127
+    ]
+  ]
+}

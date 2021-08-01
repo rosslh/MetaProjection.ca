@@ -1,0 +1,36 @@
+{
+  "number": 59024,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.5
+  },
+  "name": "Prince George--Peace River--Northern Rockies",
+  "slug": "Prince-George-Peace-River-Northern-Rockies",
+  "position": {
+    "x": 57.058306349874066,
+    "y": -122.87911461788363
+  },
+  "bounds": [
+    [
+      52.15146311154567,
+      -127.81058614699616
+    ],
+    [
+      60.000061531606846,
+      -118.1933509328137
+    ]
+  ]
+}

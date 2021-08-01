@@ -1,0 +1,39 @@
+{
+  "number": 12011,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "West Nova",
+  "slug": "West-Nova",
+  "position": {
+    "x": 44.35502627984658,
+    "y": -65.5887154316617
+  },
+  "bounds": [
+    [
+      43.25174235614506,
+      -66.44708145805399
+    ],
+    [
+      45.19765178031474,
+      -64.52943404409726
+    ]
+  ]
+}

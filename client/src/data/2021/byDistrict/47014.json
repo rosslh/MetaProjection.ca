@@ -1,0 +1,39 @@
+{
+  "number": 47014,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Yorkton--Melville",
+  "slug": "Yorkton-Melville",
+  "position": {
+    "x": 51.94809905978045,
+    "y": -102.76124511730926
+  },
+  "bounds": [
+    [
+      50.47530971212964,
+      -105.0283038183511
+    ],
+    [
+      53.710321766995456,
+      -101.47513398776682
+    ]
+  ]
+}

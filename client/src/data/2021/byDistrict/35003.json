@@ -1,0 +1,34 @@
+{
+  "number": 35003,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": null,
+      "confidence": 0
+    }
+  },
+  "scores": [],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Aurora--Oak Ridges--Richmond Hill",
+  "slug": "Aurora-Oak-Ridges-Richmond-Hill",
+  "position": {
+    "x": 43.94678975236722,
+    "y": -79.4350158759187
+  },
+  "bounds": [
+    [
+      43.87828389997058,
+      -79.49429671326826
+    ],
+    [
+      44.01380967391177,
+      -79.37959889795621
+    ]
+  ]
+}

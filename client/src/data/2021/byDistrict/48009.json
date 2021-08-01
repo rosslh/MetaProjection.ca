@@ -1,0 +1,39 @@
+{
+  "number": 48009,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Calgary Nose Hill",
+  "slug": "Calgary-Nose-Hill",
+  "position": {
+    "x": 51.13722048741719,
+    "y": -114.10034841359837
+  },
+  "bounds": [
+    [
+      51.0897634964258,
+      -114.16813050425424
+    ],
+    [
+      51.21248109794862,
+      -114.04077294552367
+    ]
+  ]
+}

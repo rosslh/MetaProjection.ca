@@ -1,0 +1,39 @@
+{
+  "number": 24033,
+  "projections": {
+    "threethirtyeight": {
+      "party": "bq",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "bq",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "bq",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "bq",
+    "score": 0.75
+  },
+  "name": "La Pointe-de-l'Île",
+  "slug": "La-Pointe-de-l'Ile",
+  "position": {
+    "x": 45.637448144365834,
+    "y": -73.51337556416092
+  },
+  "bounds": [
+    [
+      45.57355843632199,
+      -73.56759292819842
+    ],
+    [
+      45.705571297087445,
+      -73.47303265885772
+    ]
+  ]
+}

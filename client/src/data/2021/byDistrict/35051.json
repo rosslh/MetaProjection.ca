@@ -1,0 +1,39 @@
+{
+  "number": 35051,
+  "projections": {
+    "threethirtyeight": {
+      "party": "ndp",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "ndp",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "ndp",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "ndp",
+    "score": 1
+  },
+  "name": "London--Fanshawe",
+  "slug": "London-Fanshawe",
+  "position": {
+    "x": 42.99259957827126,
+    "y": -81.18079270935512
+  },
+  "bounds": [
+    [
+      42.92323530487492,
+      -81.26050739425304
+    ],
+    [
+      43.07324455814146,
+      -81.11344695307666
+    ]
+  ]
+}

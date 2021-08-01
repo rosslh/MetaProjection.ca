@@ -1,0 +1,39 @@
+{
+  "number": 46001,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Brandon--Souris",
+  "slug": "Brandon-Souris",
+  "position": {
+    "x": 49.4439164308067,
+    "y": -100.16670685440377
+  },
+  "bounds": [
+    [
+      48.99999999718253,
+      -101.44923896099934
+    ],
+    [
+      50.06406507579335,
+      -98.6717375417803
+    ]
+  ]
+}

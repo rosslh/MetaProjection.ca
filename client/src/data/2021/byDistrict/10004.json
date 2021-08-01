@@ -1,0 +1,39 @@
+{
+  "number": 10004,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Labrador",
+  "slug": "Labrador",
+  "position": {
+    "x": 54.46612533073035,
+    "y": -61.61232515660049
+  },
+  "bounds": [
+    [
+      51.250241117399554,
+      -67.82168528783178
+    ],
+    [
+      60.37774401263083,
+      -55.177891783309455
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 48016,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.75
+  },
+  "name": "Edmonton Manning",
+  "slug": "Edmonton-Manning",
+  "position": {
+    "x": 53.6433898145178,
+    "y": -113.3742889816032
+  },
+  "bounds": [
+    [
+      53.56908569923233,
+      -113.5191556159281
+    ],
+    [
+      53.71609807986961,
+      -113.27131955497659
+    ]
+  ]
+}

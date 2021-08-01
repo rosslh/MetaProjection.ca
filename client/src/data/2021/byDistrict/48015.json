@@ -1,0 +1,43 @@
+{
+  "number": 48015,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "ndp",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.25
+    },
+    {
+      "party": "ndp",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Edmonton Griesbach",
+  "slug": "Edmonton-Griesbach",
+  "position": {
+    "x": 53.58230521847607,
+    "y": -113.46748172097584
+  },
+  "bounds": [
+    [
+      53.54135410562736,
+      -113.5749707963738
+    ],
+    [
+      53.61599779451322,
+      -113.36955711111315
+    ]
+  ]
+}

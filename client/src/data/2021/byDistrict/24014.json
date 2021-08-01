@@ -1,0 +1,39 @@
+{
+  "number": 24014,
+  "projections": {
+    "threethirtyeight": {
+      "party": "bq",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "bq",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "bq",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "bq",
+    "score": 1
+  },
+  "name": "Pierre-Boucher--Les Patriotes--Verchères",
+  "slug": "Pierre-Boucher-Les-Patriotes-Vercheres",
+  "position": {
+    "x": 45.7160937525165,
+    "y": -73.27427827333743
+  },
+  "bounds": [
+    [
+      45.53295044093379,
+      -73.50326142176453
+    ],
+    [
+      45.98437783486063,
+      -73.05902306906083
+    ]
+  ]
+}

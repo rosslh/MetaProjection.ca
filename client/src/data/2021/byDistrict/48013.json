@@ -1,0 +1,39 @@
+{
+  "number": 48013,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": null,
+      "confidence": 0
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Calgary Skyview",
+  "slug": "Calgary-Skyview",
+  "position": {
+    "x": 51.14409521801502,
+    "y": -113.99385652339646
+  },
+  "bounds": [
+    [
+      51.08154858894943,
+      -114.07137917692417
+    ],
+    [
+      51.212562296503904,
+      -113.91169899535964
+    ]
+  ]
+}

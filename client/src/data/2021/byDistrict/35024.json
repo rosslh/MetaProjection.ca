@@ -1,0 +1,39 @@
+{
+  "number": 35024,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Eglinton--Lawrence",
+  "slug": "Eglinton-Lawrence",
+  "position": {
+    "x": 43.71831122236079,
+    "y": -79.43383212419884
+  },
+  "bounds": [
+    [
+      43.69215678994417,
+      -79.4725218770349
+    ],
+    [
+      43.753603907185365,
+      -79.39835610751169
+    ]
+  ]
+}

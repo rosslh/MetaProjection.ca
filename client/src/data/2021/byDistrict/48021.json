@@ -1,0 +1,39 @@
+{
+  "number": 48021,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Edmonton--Wetaskiwin",
+  "slug": "Edmonton-Wetaskiwin",
+  "position": {
+    "x": 53.06035926797533,
+    "y": -113.84976034118962
+  },
+  "bounds": [
+    [
+      52.75556663139921,
+      -115.02579918079904
+    ],
+    [
+      53.453919928041934,
+      -113.0517852200401
+    ]
+  ]
+}

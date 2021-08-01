@@ -1,0 +1,39 @@
+{
+  "number": 46006,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.5
+  },
+  "name": "Kildonan--St. Paul",
+  "slug": "Kildonan-St.-Paul",
+  "position": {
+    "x": 49.992955557994236,
+    "y": -97.08746979245439
+  },
+  "bounds": [
+    [
+      49.922436087926144,
+      -97.18460001999412
+    ],
+    [
+      50.0638859047098,
+      -96.95633612257139
+    ]
+  ]
+}

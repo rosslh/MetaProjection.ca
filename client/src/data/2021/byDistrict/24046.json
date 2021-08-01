@@ -1,0 +1,39 @@
+{
+  "number": 24046,
+  "projections": {
+    "threethirtyeight": {
+      "party": "bq",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "bq",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "bq",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "bq",
+    "score": 1
+  },
+  "name": "Manicouagan",
+  "slug": "Manicouagan",
+  "position": {
+    "x": 51.29745083517819,
+    "y": -65.41470544919785
+  },
+  "bounds": [
+    [
+      48.05613266801324,
+      -70.07879830511328
+    ],
+    [
+      55.00007056917001,
+      -57.105486400101476
+    ]
+  ]
+}

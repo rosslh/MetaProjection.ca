@@ -1,0 +1,39 @@
+{
+  "number": 13001,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Acadie--Bathurst",
+  "slug": "Acadie-Bathurst",
+  "position": {
+    "x": 47.626407626212924,
+    "y": -65.40983455537956
+  },
+  "bounds": [
+    [
+      47.23253277868495,
+      -66.21716123280821
+    ],
+    [
+      48.02520766949446,
+      -64.4595880319768
+    ]
+  ]
+}

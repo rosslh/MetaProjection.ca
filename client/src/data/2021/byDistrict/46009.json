@@ -1,0 +1,39 @@
+{
+  "number": 46009,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Saint Boniface--Saint Vital",
+  "slug": "Saint-Boniface-Saint-Vital",
+  "position": {
+    "x": 49.85157818159103,
+    "y": -97.07555437383678
+  },
+  "bounds": [
+    [
+      49.7888371891815,
+      -97.14849657405298
+    ],
+    [
+      49.902672865386904,
+      -97.02642049549665
+    ]
+  ]
+}

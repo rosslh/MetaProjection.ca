@@ -1,0 +1,39 @@
+{
+  "number": 35047,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Kitchener South--Hespeler",
+  "slug": "Kitchener-South-Hespeler",
+  "position": {
+    "x": 43.41621946250679,
+    "y": -80.40122584444705
+  },
+  "bounds": [
+    [
+      43.35802799823714,
+      -80.51412001028906
+    ],
+    [
+      43.47206619266246,
+      -80.28308795618062
+    ]
+  ]
+}

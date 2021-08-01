@@ -1,0 +1,39 @@
+{
+  "number": 24016,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Brome--Missisquoi",
+  "slug": "Brome-Missisquoi",
+  "position": {
+    "x": 45.17785890297356,
+    "y": -72.65162118969783
+  },
+  "bounds": [
+    [
+      45.0037970258306,
+      -73.34362256133058
+    ],
+    [
+      45.4497644734805,
+      -72.04270029471292
+    ]
+  ]
+}

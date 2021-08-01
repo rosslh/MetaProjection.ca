@@ -1,0 +1,39 @@
+{
+  "number": 48031,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "St. Albert--Edmonton",
+  "slug": "St.-Albert-Edmonton",
+  "position": {
+    "x": 53.62228338824014,
+    "y": -113.61318985473095
+  },
+  "bounds": [
+    [
+      53.56991680726633,
+      -113.71364808584451
+    ],
+    [
+      53.68176971231328,
+      -113.49110929877789
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 46005,
+  "projections": {
+    "threethirtyeight": {
+      "party": "ndp",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "ndp",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "ndp",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "ndp",
+    "score": 1
+  },
+  "name": "Elmwood--Transcona",
+  "slug": "Elmwood-Transcona",
+  "position": {
+    "x": 49.904484281491065,
+    "y": -97.03747534528081
+  },
+  "bounds": [
+    [
+      49.87105609457387,
+      -97.12690438854698
+    ],
+    [
+      49.939992955420124,
+      -96.95599255663436
+    ]
+  ]
+}

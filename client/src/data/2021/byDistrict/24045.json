@@ -1,0 +1,39 @@
+{
+  "number": 24045,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Louis-Saint-Laurent",
+  "slug": "Louis-Saint-Laurent",
+  "position": {
+    "x": 46.84735683957743,
+    "y": -71.40935666212548
+  },
+  "bounds": [
+    [
+      46.785411897680916,
+      -71.54944509450938
+    ],
+    [
+      46.914640438966664,
+      -71.26467498019184
+    ]
+  ]
+}

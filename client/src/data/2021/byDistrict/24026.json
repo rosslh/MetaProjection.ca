@@ -1,0 +1,39 @@
+{
+  "number": 24026,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Gaspésie--Les Îles-de-la-Madeleine",
+  "slug": "Gaspesie-Les-Iles-de-la-Madeleine",
+  "position": {
+    "x": 48.60765085835063,
+    "y": -65.10366205215311
+  },
+  "bounds": [
+    [
+      47.198940581128035,
+      -66.99557395200823
+    ],
+    [
+      49.259026691162106,
+      -61.10861969127595
+    ]
+  ]
+}

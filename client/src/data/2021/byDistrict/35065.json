@@ -1,0 +1,39 @@
+{
+  "number": 35065,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.5
+  },
+  "name": "Newmarket--Aurora",
+  "slug": "Newmarket-Aurora",
+  "position": {
+    "x": 44.04014220941023,
+    "y": -79.45880295624289
+  },
+  "bounds": [
+    [
+      43.9940411034422,
+      -79.51080810982077
+    ],
+    [
+      44.08689391884049,
+      -79.40645613811023
+    ]
+  ]
+}

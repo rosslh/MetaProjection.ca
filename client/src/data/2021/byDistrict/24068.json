@@ -1,0 +1,39 @@
+{
+  "number": 24068,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Saint-Laurent",
+  "slug": "Saint-Laurent",
+  "position": {
+    "x": 45.49833681787497,
+    "y": -73.71263227469605
+  },
+  "bounds": [
+    [
+      45.46120812480293,
+      -73.77365825952462
+    ],
+    [
+      45.5328102001153,
+      -73.65089277045328
+    ]
+  ]
+}

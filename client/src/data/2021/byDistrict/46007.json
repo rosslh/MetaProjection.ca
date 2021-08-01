@@ -1,0 +1,39 @@
+{
+  "number": 46007,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Portage--Lisgar",
+  "slug": "Portage-Lisgar",
+  "position": {
+    "x": 49.547877968271074,
+    "y": -98.05876862616759
+  },
+  "bounds": [
+    [
+      49.0000245654711,
+      -99.08850218758161
+    ],
+    [
+      50.30696744714717,
+      -97.15985935063007
+    ]
+  ]
+}

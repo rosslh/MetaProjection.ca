@@ -1,0 +1,39 @@
+{
+  "number": 46002,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": null,
+      "confidence": 0
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Charleswood--St. James--Assiniboia--Headingley",
+  "slug": "Charleswood-St.-James-Assiniboia-Headingley",
+  "position": {
+    "x": 49.86791287862175,
+    "y": -97.33876388925151
+  },
+  "bounds": [
+    [
+      49.805525024808226,
+      -97.45384674410516
+    ],
+    [
+      49.93125950399218,
+      -97.21133569604727
+    ]
+  ]
+}

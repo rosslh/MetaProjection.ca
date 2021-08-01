@@ -1,0 +1,39 @@
+{
+  "number": 47002,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Cypress Hills--Grasslands",
+  "slug": "Cypress-Hills-Grasslands",
+  "position": {
+    "x": 50.15864447497103,
+    "y": -108.00919287692646
+  },
+  "bounds": [
+    [
+      48.99969874172833,
+      -110.0080243584634
+    ],
+    [
+      51.620714890059546,
+      -105.36840047252228
+    ]
+  ]
+}

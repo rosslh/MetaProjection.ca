@@ -1,0 +1,36 @@
+{
+  "number": 59009,
+  "projections": {
+    "threethirtyeight": {
+      "party": "ndp",
+      "confidence": 1
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "ndp",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "ndp",
+    "score": 0.5
+  },
+  "name": "Courtenay--Alberni",
+  "slug": "Courtenay-Alberni",
+  "position": {
+    "x": 49.21569209082301,
+    "y": -125.27214163961504
+  },
+  "bounds": [
+    [
+      48.521572021807366,
+      -126.62861990610193
+    ],
+    [
+      49.74093351188369,
+      -124.03825030719715
+    ]
+  ]
+}

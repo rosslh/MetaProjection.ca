@@ -1,0 +1,39 @@
+{
+  "number": 48008,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Calgary Midnapore",
+  "slug": "Calgary-Midnapore",
+  "position": {
+    "x": 50.908830838889685,
+    "y": -114.04201019089778
+  },
+  "bounds": [
+    [
+      50.847100400314275,
+      -114.09998319855269
+    ],
+    [
+      50.99453189676445,
+      -113.9730538595596
+    ]
+  ]
+}

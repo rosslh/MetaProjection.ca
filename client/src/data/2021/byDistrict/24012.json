@@ -1,0 +1,43 @@
+{
+  "number": 24012,
+  "projections": {
+    "threethirtyeight": {
+      "party": "bq",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "ndp",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "bq",
+      "score": 0.5
+    },
+    {
+      "party": "ndp",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": "bq",
+    "score": 0.5
+  },
+  "name": "Berthier--Maskinongé",
+  "slug": "Berthier-Maskinonge",
+  "position": {
+    "x": 46.40221152243776,
+    "y": -73.17588116526382
+  },
+  "bounds": [
+    [
+      45.84763826508548,
+      -73.68253220388797
+    ],
+    [
+      46.88926150577536,
+      -72.59935691031058
+    ]
+  ]
+}

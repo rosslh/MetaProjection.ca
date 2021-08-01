@@ -1,0 +1,39 @@
+{
+  "number": 35045,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Kitchener Centre",
+  "slug": "Kitchener-Centre",
+  "position": {
+    "x": 43.44868229721092,
+    "y": -80.4706853344602
+  },
+  "bounds": [
+    [
+      43.41921269866311,
+      -80.54281307052842
+    ],
+    [
+      43.478362364003665,
+      -80.39233658262738
+    ]
+  ]
+}

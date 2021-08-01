@@ -1,0 +1,39 @@
+{
+  "number": 48023,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Fort McMurray--Cold Lake",
+  "slug": "Fort-McMurray-Cold-Lake",
+  "position": {
+    "x": 57.38632726069952,
+    "y": -112.14307799664374
+  },
+  "bounds": [
+    [
+      54.23854162060195,
+      -115.56920611960521
+    ],
+    [
+      60.0000732601729,
+      -109.99964079577134
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 35096,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Scarborough North",
+  "slug": "Scarborough-North",
+  "position": {
+    "x": 43.809651619673055,
+    "y": -79.2546580818733
+  },
+  "bounds": [
+    [
+      43.77728774931324,
+      -79.29732082702152
+    ],
+    [
+      43.84207975528511,
+      -79.21562532269384
+    ]
+  ]
+}

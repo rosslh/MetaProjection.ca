@@ -1,0 +1,34 @@
+{
+  "number": 24076,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": null,
+      "confidence": 0
+    }
+  },
+  "scores": [],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Trois-Rivières",
+  "slug": "Trois-Rivieres",
+  "position": {
+    "x": 46.3572278992742,
+    "y": -72.61000082224382
+  },
+  "bounds": [
+    [
+      46.28472818618607,
+      -72.7397608243106
+    ],
+    [
+      46.42411452376713,
+      -72.48050702127853
+    ]
+  ]
+}

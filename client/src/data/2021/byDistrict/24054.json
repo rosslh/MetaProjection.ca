@@ -1,0 +1,39 @@
+{
+  "number": 24054,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Outremont",
+  "slug": "Outremont",
+  "position": {
+    "x": 45.510548196144775,
+    "y": -73.61066574712542
+  },
+  "bounds": [
+    [
+      45.486471897343705,
+      -73.6421721503614
+    ],
+    [
+      45.53010093045926,
+      -73.57587199537656
+    ]
+  ]
+}

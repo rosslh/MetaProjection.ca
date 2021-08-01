@@ -1,0 +1,31 @@
+{
+  "number": 59022,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Pitt Meadows--Maple Ridge",
+  "slug": "Pitt-Meadows-Maple-Ridge",
+  "position": {
+    "x": 49.561047688177005,
+    "y": -122.54398274474647
+  },
+  "bounds": [
+    [
+      49.167224006203924,
+      -123.00248067139555
+    ],
+    [
+      49.936179785710934,
+      -122.0706108764321
+    ]
+  ]
+}

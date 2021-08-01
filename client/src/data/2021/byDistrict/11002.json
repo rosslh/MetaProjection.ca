@@ -1,0 +1,39 @@
+{
+  "number": 11002,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Charlottetown",
+  "slug": "Charlottetown",
+  "position": {
+    "x": 46.265844613835704,
+    "y": -63.135100761900425
+  },
+  "bounds": [
+    [
+      46.21714351164024,
+      -63.19695868741176
+    ],
+    [
+      46.306232138714556,
+      -63.07368023230242
+    ]
+  ]
+}

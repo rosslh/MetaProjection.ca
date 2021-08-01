@@ -1,0 +1,39 @@
+{
+  "number": 35033,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Haldimand--Norfolk",
+  "slug": "Haldimand-Norfolk",
+  "position": {
+    "x": 42.7981597384136,
+    "y": -80.15201619102474
+  },
+  "bounds": [
+    [
+      42.506642408521365,
+      -80.74463614615946
+    ],
+    [
+      43.13200039483446,
+      -79.33149849214782
+    ]
+  ]
+}

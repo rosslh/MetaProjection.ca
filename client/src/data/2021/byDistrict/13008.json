@@ -1,0 +1,39 @@
+{
+  "number": 13008,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "New Brunswick Southwest",
+  "slug": "New-Brunswick-Southwest",
+  "position": {
+    "x": 45.46047270286769,
+    "y": -66.6729196242278
+  },
+  "bounds": [
+    [
+      44.555680603529545,
+      -67.57365328166262
+    ],
+    [
+      46.05193281131062,
+      -65.38378887808517
+    ]
+  ]
+}

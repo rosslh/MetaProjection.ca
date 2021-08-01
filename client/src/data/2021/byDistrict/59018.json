@@ -1,0 +1,31 @@
+{
+  "number": 59018,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Nanaimo--Ladysmith",
+  "slug": "Nanaimo-Ladysmith",
+  "position": {
+    "x": 49.12677206556529,
+    "y": -123.9921330744238
+  },
+  "bounds": [
+    [
+      48.89427823880069,
+      -124.69924484407483
+    ],
+    [
+      49.365001378547696,
+      -123.35712180299551
+    ]
+  ]
+}

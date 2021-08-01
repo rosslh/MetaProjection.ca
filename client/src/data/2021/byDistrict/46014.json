@@ -1,0 +1,39 @@
+{
+  "number": 46014,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Winnipeg South Centre",
+  "slug": "Winnipeg-South-Centre",
+  "position": {
+    "x": 49.849079304294584,
+    "y": -97.17922251495172
+  },
+  "bounds": [
+    [
+      49.813324778791724,
+      -97.23429280598963
+    ],
+    [
+      49.88587855956183,
+      -97.1125379752033
+    ]
+  ]
+}

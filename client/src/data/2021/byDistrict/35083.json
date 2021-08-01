@@ -1,0 +1,39 @@
+{
+  "number": 35083,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Perth--Wellington",
+  "slug": "Perth-Wellington",
+  "position": {
+    "x": 43.6272876487472,
+    "y": -80.90491046822042
+  },
+  "bounds": [
+    [
+      43.203325208888565,
+      -81.44303828528432
+    ],
+    [
+      44.02598939242103,
+      -80.38791321196454
+    ]
+  ]
+}

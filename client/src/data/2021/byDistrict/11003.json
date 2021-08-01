@@ -1,0 +1,39 @@
+{
+  "number": 11003,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Egmont",
+  "slug": "Egmont",
+  "position": {
+    "x": 46.66187159671811,
+    "y": -64.0667622332108
+  },
+  "bounds": [
+    [
+      46.32620820506768,
+      -64.44601613056889
+    ],
+    [
+      47.06596779633777,
+      -63.69216666747294
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 46003,
+  "projections": {
+    "threethirtyeight": {
+      "party": "ndp",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "ndp",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "ndp",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "ndp",
+    "score": 1
+  },
+  "name": "Churchill--Keewatinook Aski",
+  "slug": "Churchill-Keewatinook-Aski",
+  "position": {
+    "x": 55.94345550471907,
+    "y": -97.09096014047805
+  },
+  "bounds": [
+    [
+      50.39577207246231,
+      -102.0000000251461
+    ],
+    [
+      60.00006152625466,
+      -88.98649334011766
+    ]
+  ]
+}

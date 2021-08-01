@@ -1,0 +1,39 @@
+{
+  "number": 24078,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Vimy",
+  "slug": "Vimy",
+  "position": {
+    "x": 45.56073752019591,
+    "y": -73.73044791112149
+  },
+  "bounds": [
+    [
+      45.52932375717648,
+      -73.80878211154334
+    ],
+    [
+      45.59256237155004,
+      -73.66678829440114
+    ]
+  ]
+}

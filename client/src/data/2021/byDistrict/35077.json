@@ -1,0 +1,39 @@
+{
+  "number": 35077,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Ottawa South",
+  "slug": "Ottawa-South",
+  "position": {
+    "x": 45.36685587044558,
+    "y": -75.64884773476638
+  },
+  "bounds": [
+    [
+      45.29788439566955,
+      -75.70282816842021
+    ],
+    [
+      45.42338890249376,
+      -75.57925870976997
+    ]
+  ]
+}

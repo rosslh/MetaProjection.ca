@@ -1,0 +1,39 @@
+{
+  "number": 24075,
+  "projections": {
+    "threethirtyeight": {
+      "party": "bq",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "bq",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "bq",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "bq",
+    "score": 1
+  },
+  "name": "Terrebonne",
+  "slug": "Terrebonne",
+  "position": {
+    "x": 45.73222740447972,
+    "y": -73.68421902372744
+  },
+  "bounds": [
+    [
+      45.668482397187624,
+      -73.84646376154721
+    ],
+    [
+      45.82680699986639,
+      -73.48715046659704
+    ]
+  ]
+}

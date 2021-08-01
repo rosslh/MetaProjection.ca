@@ -1,0 +1,39 @@
+{
+  "number": 47003,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Desnethé--Missinippi--Churchill River",
+  "slug": "Desnethe-Missinippi-Churchill-River",
+  "position": {
+    "x": 56.71247349951371,
+    "y": -105.93568022779621
+  },
+  "bounds": [
+    [
+      52.92918651947823,
+      -110.0059263498704
+    ],
+    [
+      60.00006152741276,
+      -101.76824503817627
+    ]
+  ]
+}

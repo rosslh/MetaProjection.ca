@@ -1,0 +1,36 @@
+{
+  "number": 59033,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.5
+  },
+  "name": "Surrey--Newton",
+  "slug": "Surrey-Newton",
+  "position": {
+    "x": 49.135182021178274,
+    "y": -122.85653734584791
+  },
+  "bounds": [
+    [
+      49.10459913282194,
+      -122.89039689408882
+    ],
+    [
+      49.16325930943245,
+      -122.8232744768862
+    ]
+  ]
+}

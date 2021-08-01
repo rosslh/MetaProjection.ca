@@ -1,0 +1,36 @@
+{
+  "number": 59016,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Langley--Aldergrove",
+  "slug": "Langley-Aldergrove",
+  "position": {
+    "x": 49.089283923068784,
+    "y": -122.54504998926724
+  },
+  "bounds": [
+    [
+      49.002199030138584,
+      -122.68166437791224
+    ],
+    [
+      49.210470194121065,
+      -122.37834701173085
+    ]
+  ]
+}

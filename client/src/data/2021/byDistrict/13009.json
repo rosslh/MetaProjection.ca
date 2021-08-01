@@ -1,0 +1,39 @@
+{
+  "number": 13009,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Saint John--Rothesay",
+  "slug": "Saint-John-Rothesay",
+  "position": {
+    "x": 45.27093371797505,
+    "y": -66.0407126640715
+  },
+  "bounds": [
+    [
+      45.131182550754374,
+      -66.24088151247864
+    ],
+    [
+      45.41796859067469,
+      -65.83883175628223
+    ]
+  ]
+}

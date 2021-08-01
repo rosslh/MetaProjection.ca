@@ -1,0 +1,39 @@
+{
+  "number": 35101,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Spadina--Fort York",
+  "slug": "Spadina-Fort-York",
+  "position": {
+    "x": 43.63443871016904,
+    "y": -79.38647382954018
+  },
+  "bounds": [
+    [
+      43.61036507623714,
+      -79.42865573768508
+    ],
+    [
+      43.655713605445364,
+      -79.34415998438648
+    ]
+  ]
+}

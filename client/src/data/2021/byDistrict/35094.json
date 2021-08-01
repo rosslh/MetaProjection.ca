@@ -1,0 +1,39 @@
+{
+  "number": 35094,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Scarborough Centre",
+  "slug": "Scarborough-Centre",
+  "position": {
+    "x": 43.75276808704077,
+    "y": -79.27658262371395
+  },
+  "bounds": [
+    [
+      43.724793498014996,
+      -79.31965301196963
+    ],
+    [
+      43.781252072860845,
+      -79.22876414471263
+    ]
+  ]
+}

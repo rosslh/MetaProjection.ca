@@ -1,0 +1,39 @@
+{
+  "number": 24067,
+  "projections": {
+    "threethirtyeight": {
+      "party": "bq",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "bq",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "bq",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "bq",
+    "score": 0.5
+  },
+  "name": "Saint-Jean",
+  "slug": "Saint-Jean",
+  "position": {
+    "x": 45.25432102375178,
+    "y": -73.2402311608923
+  },
+  "bounds": [
+    [
+      45.009788574623,
+      -73.41194521973239
+    ],
+    [
+      45.4131999433489,
+      -72.99481315553012
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 13005,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Madawaska--Restigouche",
+  "slug": "Madawaska-Restigouche",
+  "position": {
+    "x": 47.656521188936395,
+    "y": -67.34755553867338
+  },
+  "bounds": [
+    [
+      47.09149353435625,
+      -69.05327852013826
+    ],
+    [
+      48.08933913280555,
+      -65.72933647705281
+    ]
+  ]
+}

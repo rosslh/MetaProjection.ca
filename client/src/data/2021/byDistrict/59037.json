@@ -1,0 +1,36 @@
+{
+  "number": 59037,
+  "projections": {
+    "threethirtyeight": {
+      "party": "ndp",
+      "confidence": 1
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "ndp",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "ndp",
+    "score": 0.5
+  },
+  "name": "North Island--Powell River",
+  "slug": "North-Island-Powell-River",
+  "position": {
+    "x": 50.68565545561879,
+    "y": -126.32571717793324
+  },
+  "bounds": [
+    [
+      49.43856931030807,
+      -129.11989091935357
+    ],
+    [
+      52.01231246473774,
+      -123.71402467142462
+    ]
+  ]
+}

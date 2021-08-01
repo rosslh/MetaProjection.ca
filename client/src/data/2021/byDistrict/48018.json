@@ -1,0 +1,39 @@
+{
+  "number": 48018,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.75
+  },
+  "name": "Edmonton Riverbend",
+  "slug": "Edmonton-Riverbend",
+  "position": {
+    "x": 53.45516508646447,
+    "y": -113.56253925736591
+  },
+  "bounds": [
+    [
+      53.42486990005207,
+      -113.65760651743652
+    ],
+    [
+      53.5056448047394,
+      -113.49038880936911
+    ]
+  ]
+}

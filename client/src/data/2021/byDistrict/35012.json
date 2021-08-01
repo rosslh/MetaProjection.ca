@@ -1,0 +1,39 @@
+{
+  "number": 35012,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Brampton West",
+  "slug": "Brampton-West",
+  "position": {
+    "x": 43.67933140491702,
+    "y": -79.82669862375776
+  },
+  "bounds": [
+    [
+      43.627310610425965,
+      -79.88887089612541
+    ],
+    [
+      43.728788332774975,
+      -79.77065040037425
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 48024,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Grande Prairie--Mackenzie",
+  "slug": "Grande-Prairie-Mackenzie",
+  "position": {
+    "x": 57.77706881500357,
+    "y": -118.13056487792812
+  },
+  "bounds": [
+    [
+      54.58737424856628,
+      -120.00269820226401
+    ],
+    [
+      60.000061525935614,
+      -114.00001051326578
+    ]
+  ]
+}

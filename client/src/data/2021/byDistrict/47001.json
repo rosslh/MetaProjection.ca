@@ -1,0 +1,39 @@
+{
+  "number": 47001,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Battlefords--Lloydminster",
+  "slug": "Battlefords-Lloydminster",
+  "position": {
+    "x": 52.7481165160386,
+    "y": -109.03740185039443
+  },
+  "bounds": [
+    [
+      51.61919410673276,
+      -110.00661705739194
+    ],
+    [
+      53.80239112047577,
+      -107.73516654663429
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 35097,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Scarborough--Rouge Park",
+  "slug": "Scarborough-Rouge-Park",
+  "position": {
+    "x": 43.80522626767862,
+    "y": -79.17639105352475
+  },
+  "bounds": [
+    [
+      43.75107268928529,
+      -79.23232898727993
+    ],
+    [
+      43.85546549604324,
+      -79.11346701068295
+    ]
+  ]
+}

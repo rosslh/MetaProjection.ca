@@ -1,0 +1,39 @@
+{
+  "number": 24034,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "La Prairie",
+  "slug": "La-Prairie",
+  "position": {
+    "x": 45.36601543821435,
+    "y": -73.54628589084673
+  },
+  "bounds": [
+    [
+      45.27767240314742,
+      -73.75275863168565
+    ],
+    [
+      45.43765133129661,
+      -73.38043015927786
+    ]
+  ]
+}

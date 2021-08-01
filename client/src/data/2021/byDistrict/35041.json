@@ -1,0 +1,39 @@
+{
+  "number": 35041,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Kanata--Carleton",
+  "slug": "Kanata-Carleton",
+  "position": {
+    "x": 45.3710495085017,
+    "y": -76.09707124570373
+  },
+  "bounds": [
+    [
+      45.171460309146774,
+      -76.35397110687275
+    ],
+    [
+      45.51918409910944,
+      -75.83253480321461
+    ]
+  ]
+}

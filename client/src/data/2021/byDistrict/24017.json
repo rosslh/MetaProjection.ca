@@ -1,0 +1,39 @@
+{
+  "number": 24017,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Brossard--Saint-Lambert",
+  "slug": "Brossard-Saint-Lambert",
+  "position": {
+    "x": 45.45439333016521,
+    "y": -73.46347743743024
+  },
+  "bounds": [
+    [
+      45.4131999433489,
+      -73.52565335727864
+    ],
+    [
+      45.51889507803249,
+      -73.3763670476546
+    ]
+  ]
+}

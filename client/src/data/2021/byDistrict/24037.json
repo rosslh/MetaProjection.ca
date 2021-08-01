@@ -1,0 +1,39 @@
+{
+  "number": 24037,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "LaSalle--Émard--Verdun",
+  "slug": "LaSalle-Emard-Verdun",
+  "position": {
+    "x": 45.43821409214503,
+    "y": -73.58199830217903
+  },
+  "bounds": [
+    [
+      45.41008214807221,
+      -73.63508374730517
+    ],
+    [
+      45.477690128190915,
+      -73.52161447484302
+    ]
+  ]
+}

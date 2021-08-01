@@ -1,0 +1,39 @@
+{
+  "number": 35120,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "York South--Weston",
+  "slug": "York-South-Weston",
+  "position": {
+    "x": 43.69493941490788,
+    "y": -79.49334009773969
+  },
+  "bounds": [
+    [
+      43.66261437845067,
+      -79.53945508011306
+    ],
+    [
+      43.724871718883804,
+      -79.45999985799085
+    ]
+  ]
+}

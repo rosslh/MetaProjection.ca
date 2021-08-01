@@ -1,0 +1,36 @@
+{
+  "number": 59026,
+  "projections": {
+    "threethirtyeight": {
+      "party": "ndp",
+      "confidence": 1
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "ndp",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "ndp",
+    "score": 0.5
+  },
+  "name": "Esquimalt--Saanich--Sooke",
+  "slug": "Esquimalt-Saanich-Sooke",
+  "position": {
+    "x": 48.36043939529665,
+    "y": -123.68591039356474
+  },
+  "bounds": [
+    [
+      48.249999997870674,
+      -124.13203663109672
+    ],
+    [
+      48.58145534610567,
+      -123.35118235725214
+    ]
+  ]
+}

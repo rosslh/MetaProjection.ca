@@ -1,0 +1,39 @@
+{
+  "number": 10002,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Bonavista--Burin--Trinity",
+  "slug": "Bonavista-Burin-Trinity",
+  "position": {
+    "x": 48.12148640304629,
+    "y": -54.14956104624899
+  },
+  "bounds": [
+    [
+      46.79478130531705,
+      -56.00000000515682
+    ],
+    [
+      49.90549867095084,
+      -52.77505135503788
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 24056,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Pierrefonds--Dollard",
+  "slug": "Pierrefonds-Dollard",
+  "position": {
+    "x": 45.495273313566464,
+    "y": -73.86243256337988
+  },
+  "bounds": [
+    [
+      45.46254541437442,
+      -73.9554488857752
+    ],
+    [
+      45.526582601456646,
+      -73.75220173656426
+    ]
+  ]
+}

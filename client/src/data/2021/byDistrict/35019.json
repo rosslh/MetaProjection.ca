@@ -1,0 +1,39 @@
+{
+  "number": 35019,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Don Valley East",
+  "slug": "Don-Valley-East",
+  "position": {
+    "x": 43.73971797116556,
+    "y": -79.3329711582613
+  },
+  "bounds": [
+    [
+      43.70299760422867,
+      -79.3629663870583
+    ],
+    [
+      43.76835733310806,
+      -79.30058081702995
+    ]
+  ]
+}

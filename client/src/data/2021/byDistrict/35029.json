@@ -1,0 +1,39 @@
+{
+  "number": 35029,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Etobicoke North",
+  "slug": "Etobicoke-North",
+  "position": {
+    "x": 43.719443700867444,
+    "y": -79.58456095846694
+  },
+  "bounds": [
+    [
+      43.66857603936488,
+      -79.63930240559498
+    ],
+    [
+      43.76301248764887,
+      -79.5259744438766
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 48033,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Sturgeon River--Parkland",
+  "slug": "Sturgeon-River-Parkland",
+  "position": {
+    "x": 53.747850371165875,
+    "y": -113.80372987677653
+  },
+  "bounds": [
+    [
+      53.3230602743883,
+      -114.67174081432682
+    ],
+    [
+      54.02299869264621,
+      -112.84351794569945
+    ]
+  ]
+}

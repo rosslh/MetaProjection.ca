@@ -1,0 +1,39 @@
+{
+  "number": 24024,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Dorval--Lachine--LaSalle",
+  "slug": "Dorval-Lachine-LaSalle",
+  "position": {
+    "x": 45.444857682779826,
+    "y": -73.7074457173342
+  },
+  "bounds": [
+    [
+      45.41059172127192,
+      -73.79467190650035
+    ],
+    [
+      45.494512216585186,
+      -73.60487137715222
+    ]
+  ]
+}

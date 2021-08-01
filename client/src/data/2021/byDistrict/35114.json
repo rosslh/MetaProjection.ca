@@ -1,0 +1,39 @@
+{
+  "number": 35114,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Whitby",
+  "slug": "Whitby",
+  "position": {
+    "x": 43.933084798097504,
+    "y": -78.96524923962204
+  },
+  "bounds": [
+    [
+      43.833493978619146,
+      -79.04731130406515
+    ],
+    [
+      44.02868709023758,
+      -78.8821771906138
+    ]
+  ]
+}

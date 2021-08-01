@@ -1,0 +1,39 @@
+{
+  "number": 24015,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Bourassa",
+  "slug": "Bourassa",
+  "position": {
+    "x": 45.59888260944789,
+    "y": -73.63426393747415
+  },
+  "bounds": [
+    [
+      45.564818274252424,
+      -73.66678829440114
+    ],
+    [
+      45.63499632654671,
+      -73.60171417106929
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 35110,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "University--Rosedale",
+  "slug": "University-Rosedale",
+  "position": {
+    "x": 43.67114097897199,
+    "y": -79.39431221677185
+  },
+  "bounds": [
+    [
+      43.64932509984226,
+      -79.42941724960254
+    ],
+    [
+      43.695157176133776,
+      -79.35961530153146
+    ]
+  ]
+}

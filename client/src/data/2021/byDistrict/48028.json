@@ -1,0 +1,39 @@
+{
+  "number": 48028,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Peace River--Westlock",
+  "slug": "Peace-River-Westlock",
+  "position": {
+    "x": 56.182854315980315,
+    "y": -115.7605731338556
+  },
+  "bounds": [
+    [
+      53.8027824090137,
+      -118.93088292954403
+    ],
+    [
+      58.769485383325815,
+      -113.3004764875896
+    ]
+  ]
+}

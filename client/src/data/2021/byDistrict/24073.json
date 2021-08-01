@@ -1,0 +1,39 @@
+{
+  "number": 24073,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.5
+  },
+  "name": "Sherbrooke",
+  "slug": "Sherbrooke",
+  "position": {
+    "x": 45.406271459076784,
+    "y": -71.90202023138905
+  },
+  "bounds": [
+    [
+      45.34897841543684,
+      -71.98507331095261
+    ],
+    [
+      45.453296814679824,
+      -71.80255477122473
+    ]
+  ]
+}

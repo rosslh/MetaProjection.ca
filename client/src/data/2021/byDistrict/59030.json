@@ -1,0 +1,36 @@
+{
+  "number": 59030,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "South Surrey--White Rock",
+  "slug": "South-Surrey-White-Rock",
+  "position": {
+    "x": 49.05080184569187,
+    "y": -122.79854317993656
+  },
+  "bounds": [
+    [
+      49.001891749086205,
+      -122.95891751028621
+    ],
+    [
+      49.108283096354135,
+      -122.67924851762461
+    ]
+  ]
+}

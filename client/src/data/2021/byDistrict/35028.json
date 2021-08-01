@@ -1,0 +1,39 @@
+{
+  "number": 35028,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Etobicoke--Lakeshore",
+  "slug": "Etobicoke-Lakeshore",
+  "position": {
+    "x": 43.614895483965604,
+    "y": -79.5181087185738
+  },
+  "bounds": [
+    [
+      43.56034288130149,
+      -79.56848898543115
+    ],
+    [
+      43.66277746591606,
+      -79.46375921705939
+    ]
+  ]
+}

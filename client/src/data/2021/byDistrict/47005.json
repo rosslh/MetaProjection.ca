@@ -1,0 +1,39 @@
+{
+  "number": 47005,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Moose Jaw--Lake Centre--Lanigan",
+  "slug": "Moose-Jaw-Lake-Centre-Lanigan",
+  "position": {
+    "x": 51.112753741965335,
+    "y": -105.51602970018257
+  },
+  "bounds": [
+    [
+      49.7842749753649,
+      -107.08797889772573
+    ],
+    [
+      52.14395464385701,
+      -104.44501105328439
+    ]
+  ]
+}

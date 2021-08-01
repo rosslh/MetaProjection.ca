@@ -1,0 +1,39 @@
+{
+  "number": 35027,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Etobicoke Centre",
+  "slug": "Etobicoke-Centre",
+  "position": {
+    "x": 43.66441414073607,
+    "y": -79.55253767851706
+  },
+  "bounds": [
+    [
+      43.62539789498382,
+      -79.60885515806044
+    ],
+    [
+      43.701599384108846,
+      -79.50542839770269
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 35086,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Renfrew--Nipissing--Pembroke",
+  "slug": "Renfrew-Nipissing-Pembroke",
+  "position": {
+    "x": 45.679846429245096,
+    "y": -77.54518119321686
+  },
+  "bounds": [
+    [
+      45.09926047824307,
+      -78.68191596828258
+    ],
+    [
+      46.2927415457219,
+      -76.29621681486498
+    ]
+  ]
+}

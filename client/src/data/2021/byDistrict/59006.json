@@ -1,0 +1,36 @@
+{
+  "number": 59006,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.5
+  },
+  "name": "Chilliwack--Hope",
+  "slug": "Chilliwack-Hope",
+  "position": {
+    "x": 49.19619721175668,
+    "y": -121.39170370611254
+  },
+  "bounds": [
+    [
+      48.99999998547569,
+      -122.12479121039297
+    ],
+    [
+      49.67353418037208,
+      -120.81206601533042
+    ]
+  ]
+}

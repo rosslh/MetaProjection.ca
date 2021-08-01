@@ -1,0 +1,39 @@
+{
+  "number": 24043,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Longueuil--Saint-Hubert",
+  "slug": "Longueuil-Saint-Hubert",
+  "position": {
+    "x": 45.53796150115759,
+    "y": -73.4521252982614
+  },
+  "bounds": [
+    [
+      45.48256016531988,
+      -73.52688462513271
+    ],
+    [
+      45.589253628303574,
+      -73.37709869090949
+    ]
+  ]
+}

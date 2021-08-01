@@ -1,0 +1,39 @@
+{
+  "number": 24002,
+  "projections": {
+    "threethirtyeight": {
+      "party": "bq",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "bq",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "bq",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "bq",
+    "score": 0.75
+  },
+  "name": "Abitibi--Témiscamingue",
+  "slug": "Abitibi-Temiscamingue",
+  "position": {
+    "x": 47.799191837676986,
+    "y": -78.53377545929631
+  },
+  "bounds": [
+    [
+      46.20796968597723,
+      -79.58687808417284
+    ],
+    [
+      49.00953712663538,
+      -77.05946174281135
+    ]
+  ]
+}

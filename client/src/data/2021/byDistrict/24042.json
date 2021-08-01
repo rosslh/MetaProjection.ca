@@ -1,0 +1,39 @@
+{
+  "number": 24042,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Lévis--Lotbinière",
+  "slug": "Levis-Lotbiniere",
+  "position": {
+    "x": 46.53230709687115,
+    "y": -71.50524222945508
+  },
+  "bounds": [
+    [
+      46.289639339100056,
+      -72.05669321311882
+    ],
+    [
+      46.74787074487369,
+      -71.10057942391428
+    ]
+  ]
+}

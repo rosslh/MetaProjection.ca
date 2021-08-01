@@ -1,0 +1,39 @@
+{
+  "number": 35023,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.75
+  },
+  "name": "Durham",
+  "slug": "Durham",
+  "position": {
+    "x": 44.057481932306224,
+    "y": -78.85917087410323
+  },
+  "bounds": [
+    [
+      43.86694041865665,
+      -79.12249371185735
+    ],
+    [
+      44.227428245304026,
+      -78.60422329863536
+    ]
+  ]
+}

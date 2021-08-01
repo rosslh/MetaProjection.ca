@@ -1,0 +1,39 @@
+{
+  "number": 35050,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Leeds-Grenville-Thousand Islands and Rideau Lakes",
+  "slug": "Leeds-Grenville-Thousand-Islands-and-Rideau-Lakes",
+  "position": {
+    "x": 44.68529928829728,
+    "y": -75.91914556374128
+  },
+  "bounds": [
+    [
+      44.280743337197976,
+      -76.52566459620101
+    ],
+    [
+      45.12552851801174,
+      -75.35724024903448
+    ]
+  ]
+}

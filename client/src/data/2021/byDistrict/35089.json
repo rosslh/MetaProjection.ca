@@ -1,0 +1,39 @@
+{
+  "number": 35089,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "St. Catharines",
+  "slug": "St.-Catharines",
+  "position": {
+    "x": 43.19361304850455,
+    "y": -79.24194049098796
+  },
+  "bounds": [
+    [
+      43.13207880741297,
+      -79.29008293849425
+    ],
+    [
+      43.247777615851575,
+      -79.19222225098146
+    ]
+  ]
+}

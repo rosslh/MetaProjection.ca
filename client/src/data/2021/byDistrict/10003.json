@@ -1,0 +1,39 @@
+{
+  "number": 10003,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Coast of Bays--Central--Notre Dame",
+  "slug": "Coast-of-Bays-Central-Notre-Dame",
+  "position": {
+    "x": 48.828176141385164,
+    "y": -55.746932526172166
+  },
+  "bounds": [
+    [
+      47.21656593008301,
+      -57.52125358210724
+    ],
+    [
+      50.53765191638938,
+      -53.533098440096154
+    ]
+  ]
+}

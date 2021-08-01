@@ -1,0 +1,39 @@
+{
+  "number": 35121,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Humber River--Black Creek",
+  "slug": "Humber-River-Black-Creek",
+  "position": {
+    "x": 43.75074976278388,
+    "y": -79.53019253138942
+  },
+  "bounds": [
+    [
+      43.712985326638,
+      -79.58516822486976
+    ],
+    [
+      43.78164890750487,
+      -79.48815708444239
+    ]
+  ]
+}

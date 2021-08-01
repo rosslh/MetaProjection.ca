@@ -1,0 +1,39 @@
+{
+  "number": 35039,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": null,
+      "confidence": 0
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Hastings--Lennox and Addington",
+  "slug": "Hastings-Lennox-and-Addington",
+  "position": {
+    "x": 44.70717914978932,
+    "y": -77.40207644036178
+  },
+  "bounds": [
+    [
+      44.01110075329595,
+      -78.1784558982418
+    ],
+    [
+      45.43811923983049,
+      -76.52473737457403
+    ]
+  ]
+}

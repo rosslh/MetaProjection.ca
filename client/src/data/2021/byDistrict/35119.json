@@ -1,0 +1,39 @@
+{
+  "number": 35119,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "York--Simcoe",
+  "slug": "York-Simcoe",
+  "position": {
+    "x": 44.23721264634088,
+    "y": -79.42313945832937
+  },
+  "bounds": [
+    [
+      44.01287215023565,
+      -79.71192097413288
+    ],
+    [
+      44.45978378734141,
+      -79.15612311781425
+    ]
+  ]
+}

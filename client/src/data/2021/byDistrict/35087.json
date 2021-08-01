@@ -1,0 +1,39 @@
+{
+  "number": 35087,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Richmond Hill",
+  "slug": "Richmond-Hill",
+  "position": {
+    "x": 43.86144961346619,
+    "y": -79.42010907801497
+  },
+  "bounds": [
+    [
+      43.829370695524666,
+      -79.46735250855005
+    ],
+    [
+      43.89376930451697,
+      -79.36811568221451
+    ]
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "number": 59017,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Mission--Matsqui--Fraser Canyon",
+  "slug": "Mission-Matsqui-Fraser-Canyon",
+  "position": {
+    "x": 50.27939537979603,
+    "y": -122.02742753031056
+  },
+  "bounds": [
+    [
+      49.05564883280273,
+      -123.7582174748975
+    ],
+    [
+      51.22007306191181,
+      -120.89010480496216
+    ]
+  ]
+}

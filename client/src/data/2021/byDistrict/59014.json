@@ -1,0 +1,31 @@
+{
+  "number": 59014,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Kelowna--Lake Country",
+  "slug": "Kelowna-Lake-Country",
+  "position": {
+    "x": 49.92838434537982,
+    "y": -119.24897970818161
+  },
+  "bounds": [
+    [
+      49.67527462235213,
+      -119.69745585992824
+    ],
+    [
+      50.151865183720425,
+      -118.7975574085625
+    ]
+  ]
+}

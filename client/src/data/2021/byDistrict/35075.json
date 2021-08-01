@@ -1,0 +1,39 @@
+{
+  "number": 35075,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Ottawa Centre",
+  "slug": "Ottawa-Centre",
+  "position": {
+    "x": 45.39511717193907,
+    "y": -75.71901236571802
+  },
+  "bounds": [
+    [
+      45.35268319415773,
+      -75.77875423737555
+    ],
+    [
+      45.429754307191835,
+      -75.66348945314755
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 13010,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Tobique--Mactaquac",
+  "slug": "Tobique-Mactaquac",
+  "position": {
+    "x": 46.56726794811238,
+    "y": -67.24162312259301
+  },
+  "bounds": [
+    [
+      45.59889653047907,
+      -67.84533764636755
+    ],
+    [
+      47.568539737661,
+      -66.20096874116932
+    ]
+  ]
+}

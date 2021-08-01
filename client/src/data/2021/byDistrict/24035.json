@@ -1,0 +1,43 @@
+{
+  "number": 24035,
+  "projections": {
+    "threethirtyeight": {
+      "party": "bq",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "bq",
+      "score": 0.5
+    },
+    {
+      "party": "lpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Lac-Saint-Jean",
+  "slug": "Lac-Saint-Jean",
+  "position": {
+    "x": 49.53999360179894,
+    "y": -72.5566890551627
+  },
+  "bounds": [
+    [
+      47.949661080734074,
+      -74.4438903054567
+    ],
+    [
+      52.2798234329109,
+      -70.8579515365541
+    ]
+  ]
+}

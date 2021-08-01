@@ -1,0 +1,39 @@
+{
+  "number": 35088,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Carleton",
+  "slug": "Carleton",
+  "position": {
+    "x": 45.17448859842876,
+    "y": -75.70685800998073
+  },
+  "bounds": [
+    [
+      44.962213116477415,
+      -76.05049300129042
+    ],
+    [
+      45.38182951813942,
+      -75.35318540994493
+    ]
+  ]
+}

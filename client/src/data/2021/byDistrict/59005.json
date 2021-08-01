@@ -1,0 +1,31 @@
+{
+  "number": 59005,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Central Okanagan--Similkameen--Nicola",
+  "slug": "Central-Okanagan-Similkameen-Nicola",
+  "position": {
+    "x": 49.75221060497007,
+    "y": -120.38259609837574
+  },
+  "bounds": [
+    [
+      49.00000178924993,
+      -121.32832074076315
+    ],
+    [
+      50.58075130137313,
+      -119.41756863065002
+    ]
+  ]
+}

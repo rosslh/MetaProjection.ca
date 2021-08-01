@@ -1,0 +1,39 @@
+{
+  "number": 24041,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Longueuil--Charles-LeMoyne",
+  "slug": "Longueuil-Charles-LeMoyne",
+  "position": {
+    "x": 45.48878125545596,
+    "y": -73.44948749036281
+  },
+  "bounds": [
+    [
+      45.432982694672006,
+      -73.52919391710505
+    ],
+    [
+      45.53748067674171,
+      -73.36041535456998
+    ]
+  ]
+}

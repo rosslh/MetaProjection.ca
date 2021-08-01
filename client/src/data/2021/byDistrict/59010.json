@@ -1,0 +1,36 @@
+{
+  "number": 59010,
+  "projections": {
+    "threethirtyeight": {
+      "party": "ndp",
+      "confidence": 1
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "ndp",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "ndp",
+    "score": 0.5
+  },
+  "name": "Cowichan--Malahat--Langford",
+  "slug": "Cowichan-Malahat-Langford",
+  "position": {
+    "x": 48.69136155727462,
+    "y": -124.1313809410273
+  },
+  "bounds": [
+    [
+      48.34379079465973,
+      -124.85522722752836
+    ],
+    [
+      49.14880351269685,
+      -123.45650320654615
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 24070,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Saint-Maurice--Champlain",
+  "slug": "Saint-Maurice-Champlain",
+  "position": {
+    "x": 47.814637753500406,
+    "y": -73.81155308282608
+  },
+  "bounds": [
+    [
+      46.36787700207675,
+      -75.52506216654784
+    ],
+    [
+      49.000079223851074,
+      -71.89256064157256
+    ]
+  ]
+}

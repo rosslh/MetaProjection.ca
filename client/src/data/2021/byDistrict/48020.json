@@ -1,0 +1,39 @@
+{
+  "number": 48020,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Edmonton West",
+  "slug": "Edmonton-West",
+  "position": {
+    "x": 53.50619708805741,
+    "y": -113.65117118078813
+  },
+  "bounds": [
+    [
+      53.39556721990258,
+      -113.7136589874413
+    ],
+    [
+      53.580851636555536,
+      -113.58622524248352
+    ]
+  ]
+}

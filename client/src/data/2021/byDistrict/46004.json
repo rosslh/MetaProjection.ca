@@ -1,0 +1,39 @@
+{
+  "number": 46004,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Dauphin--Swan River--Neepawa",
+  "slug": "Dauphin-Swan-River-Neepawa",
+  "position": {
+    "x": 51.27726592770249,
+    "y": -100.29290403982894
+  },
+  "bounds": [
+    [
+      49.753565017700744,
+      -101.67181191358888
+    ],
+    [
+      53.00138099433293,
+      -98.52092419577936
+    ]
+  ]
+}

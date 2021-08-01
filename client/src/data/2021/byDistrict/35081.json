@@ -1,0 +1,39 @@
+{
+  "number": 35081,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.5
+  },
+  "name": "Parkdale--High Park",
+  "slug": "Parkdale-High-Park",
+  "position": {
+    "x": 43.649243174510055,
+    "y": -79.46610007979484
+  },
+  "bounds": [
+    [
+      43.62548182488919,
+      -79.51220061132018
+    ],
+    [
+      43.66736048363948,
+      -79.42519377785048
+    ]
+  ]
+}

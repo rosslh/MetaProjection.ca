@@ -1,0 +1,39 @@
+{
+  "number": 24029,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Honoré-Mercier",
+  "slug": "Honore-Mercier",
+  "position": {
+    "x": 45.63929036255715,
+    "y": -73.56484693340842
+  },
+  "bounds": [
+    [
+      45.58848281472137,
+      -73.6241482480575
+    ],
+    [
+      45.70231693647108,
+      -73.50881610272717
+    ]
+  ]
+}

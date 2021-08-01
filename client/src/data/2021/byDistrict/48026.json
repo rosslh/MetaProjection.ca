@@ -1,0 +1,39 @@
+{
+  "number": 48026,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Lethbridge",
+  "slug": "Lethbridge",
+  "position": {
+    "x": 49.84376710751075,
+    "y": -112.76759187395072
+  },
+  "bounds": [
+    [
+      49.52321184521026,
+      -113.27680948763673
+    ],
+    [
+      50.13605997432459,
+      -112.21776395852908
+    ]
+  ]
+}

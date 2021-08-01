@@ -1,0 +1,39 @@
+{
+  "number": 35080,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Oxford",
+  "slug": "Oxford",
+  "position": {
+    "x": 43.10648640675601,
+    "y": -80.74505578330907
+  },
+  "bounds": [
+    [
+      42.823983763674576,
+      -81.13220345191304
+    ],
+    [
+      43.35333740487152,
+      -80.41386569198839
+    ]
+  ]
+}

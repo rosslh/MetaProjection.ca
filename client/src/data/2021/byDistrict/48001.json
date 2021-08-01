@@ -1,0 +1,39 @@
+{
+  "number": 48001,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Banff--Airdrie",
+  "slug": "Banff-Airdrie",
+  "position": {
+    "x": 51.446409424987415,
+    "y": -115.5090976615072
+  },
+  "bounds": [
+    [
+      50.70533416683723,
+      -117.31730287211278
+    ],
+    [
+      52.26945518932207,
+      -113.77231348991559
+    ]
+  ]
+}

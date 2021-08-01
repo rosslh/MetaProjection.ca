@@ -1,0 +1,39 @@
+{
+  "number": 24030,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Hull--Aylmer",
+  "slug": "Hull-Aylmer",
+  "position": {
+    "x": 45.42372205697337,
+    "y": -75.78533170449276
+  },
+  "bounds": [
+    [
+      45.37269870934804,
+      -75.90006010466486
+    ],
+    [
+      45.49038669811159,
+      -75.69244127031335
+    ]
+  ]
+}

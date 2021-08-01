@@ -1,0 +1,39 @@
+{
+  "number": 12007,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Kings--Hants",
+  "slug": "Kings-Hants",
+  "position": {
+    "x": 45.08824120427731,
+    "y": -64.06385349526573
+  },
+  "bounds": [
+    [
+      44.76086450697124,
+      -64.75411000591777
+    ],
+    [
+      45.35739324650043,
+      -63.381940263972616
+    ]
+  ]
+}

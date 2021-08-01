@@ -1,0 +1,39 @@
+{
+  "number": 46012,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Winnipeg North",
+  "slug": "Winnipeg-North",
+  "position": {
+    "x": 49.9428429282334,
+    "y": -97.18003845882882
+  },
+  "bounds": [
+    [
+      49.902679973085974,
+      -97.22964690360598
+    ],
+    [
+      49.97550819682227,
+      -97.1087070516613
+    ]
+  ]
+}

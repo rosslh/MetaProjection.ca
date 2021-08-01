@@ -1,0 +1,39 @@
+{
+  "number": 24071,
+  "projections": {
+    "threethirtyeight": {
+      "party": "bq",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "bq",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "bq",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "bq",
+    "score": 0.75
+  },
+  "name": "Salaberry--Suroît",
+  "slug": "Salaberry-Suroit",
+  "position": {
+    "x": 45.16204977137568,
+    "y": -74.09854430690599
+  },
+  "bounds": [
+    [
+      44.99114316765957,
+      -74.66855690414323
+    ],
+    [
+      45.45750663732139,
+      -73.51062237234368
+    ]
+  ]
+}

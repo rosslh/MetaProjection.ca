@@ -1,0 +1,39 @@
+{
+  "number": 24019,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.75
+  },
+  "name": "Charlesbourg--Haute-Saint-Charles",
+  "slug": "Charlesbourg-Haute-Saint-Charles",
+  "position": {
+    "x": 46.905180242256456,
+    "y": -71.33288216482241
+  },
+  "bounds": [
+    [
+      46.83469065458734,
+      -71.44773413321629
+    ],
+    [
+      46.98193772169322,
+      -71.22188241020298
+    ]
+  ]
+}

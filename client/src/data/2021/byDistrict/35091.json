@@ -1,0 +1,39 @@
+{
+  "number": 35091,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Sarnia--Lambton",
+  "slug": "Sarnia-Lambton",
+  "position": {
+    "x": 42.89541498044945,
+    "y": -82.2488017946176
+  },
+  "bounds": [
+    [
+      42.626733501608165,
+      -82.51049180311072
+    ],
+    [
+      43.16286844069749,
+      -82.0010157997141
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 24077,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Ville-Marie--Le Sud-Ouest--Île-des-Soeurs",
+  "slug": "Ville-Marie-Le-Sud-Ouest-Ile-des-Soeurs",
+  "position": {
+    "x": 45.48399192519704,
+    "y": -73.5504688467341
+  },
+  "bounds": [
+    [
+      45.43765133129661,
+      -73.59999814567313
+    ],
+    [
+      45.53459621922072,
+      -73.5184771061506
+    ]
+  ]
+}

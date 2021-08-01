@@ -1,0 +1,39 @@
+{
+  "number": 35011,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Brampton South",
+  "slug": "Brampton-South",
+  "position": {
+    "x": 43.65007499809219,
+    "y": -79.767660053484
+  },
+  "bounds": [
+    [
+      43.60223143860326,
+      -79.82462030262316
+    ],
+    [
+      43.70262578864469,
+      -79.71388160999902
+    ]
+  ]
+}

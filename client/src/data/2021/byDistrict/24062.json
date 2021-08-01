@@ -1,0 +1,39 @@
+{
+  "number": 24062,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.5
+  },
+  "name": "Rivière-des-Mille-Îles",
+  "slug": "Riviere-des-Mille-Iles",
+  "position": {
+    "x": 45.59042843107965,
+    "y": -73.899566255173
+  },
+  "bounds": [
+    [
+      45.52530860781992,
+      -74.02581786094028
+    ],
+    [
+      45.66466603858549,
+      -73.76784545150161
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 47008,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Regina--Qu'Appelle",
+  "slug": "Regina-Qu'Appelle",
+  "position": {
+    "x": 51.06482899004968,
+    "y": -103.93913853080853
+  },
+  "bounds": [
+    [
+      50.396261564927194,
+      -104.64349825822553
+    ],
+    [
+      51.88194398991363,
+      -102.9125507840825
+    ]
+  ]
+}

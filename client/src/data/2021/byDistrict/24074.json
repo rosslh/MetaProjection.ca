@@ -1,0 +1,39 @@
+{
+  "number": 24074,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Vaudreuil--Soulanges",
+  "slug": "Vaudreuil-Soulanges",
+  "position": {
+    "x": 45.40920297049388,
+    "y": -74.1201324843277
+  },
+  "bounds": [
+    [
+      45.2935211350876,
+      -74.4213767234555
+    ],
+    [
+      45.56611354869266,
+      -73.80528954877082
+    ]
+  ]
+}

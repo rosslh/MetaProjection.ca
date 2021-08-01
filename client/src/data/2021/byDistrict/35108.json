@@ -1,0 +1,39 @@
+{
+  "number": 35108,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Toronto Centre",
+  "slug": "Toronto-Centre",
+  "position": {
+    "x": 43.660126844822024,
+    "y": -79.37005435589644
+  },
+  "bounds": [
+    [
+      43.64577849174368,
+      -79.38886299179312
+    ],
+    [
+      43.67316158675683,
+      -79.34923403055714
+    ]
+  ]
+}

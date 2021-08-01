@@ -1,0 +1,39 @@
+{
+  "number": 35002,
+  "projections": {
+    "threethirtyeight": {
+      "party": "ndp",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "ndp",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "ndp",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "ndp",
+    "score": 1
+  },
+  "name": "Algoma--Manitoulin--Kapuskasing",
+  "slug": "Algoma-Manitoulin-Kapuskasing",
+  "position": {
+    "x": 48.04045650527913,
+    "y": -83.614841691908
+  },
+  "bounds": [
+    [
+      45.36070178831532,
+      -87.0000000117517
+    ],
+    [
+      49.97133970074513,
+      -81.07097183728358
+    ]
+  ]
+}

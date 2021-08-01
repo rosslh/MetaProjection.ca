@@ -1,0 +1,39 @@
+{
+  "number": 35056,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.75
+  },
+  "name": "Markham--Unionville",
+  "slug": "Markham-Unionville",
+  "position": {
+    "x": 43.89505075351637,
+    "y": -79.32687066005049
+  },
+  "bounds": [
+    [
+      43.83921992868718,
+      -79.38952093596956
+    ],
+    [
+      43.95075240715211,
+      -79.26405439034062
+    ]
+  ]
+}

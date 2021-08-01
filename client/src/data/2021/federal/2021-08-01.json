@@ -1,0 +1,73 @@
+{
+  "parties": [
+    {
+      "name": "lpc",
+      "projections": {
+        "threethirtyeight": 164,
+        "calculatedPolitics": 181,
+        "cbc": 169
+      },
+      "avg": 171.33
+    },
+    {
+      "name": "cpc",
+      "projections": {
+        "threethirtyeight": 105.7,
+        "calculatedPolitics": 108,
+        "cbc": 105
+      },
+      "avg": 106.23
+    },
+    {
+      "name": "ndp",
+      "projections": {
+        "threethirtyeight": 37.2,
+        "calculatedPolitics": 24,
+        "cbc": 33
+      },
+      "avg": 31.4
+    },
+    {
+      "name": "bq",
+      "projections": {
+        "threethirtyeight": 29.3,
+        "calculatedPolitics": 20,
+        "cbc": 29
+      },
+      "avg": 26.1
+    },
+    {
+      "name": "gpc",
+      "projections": {
+        "threethirtyeight": 1.6,
+        "calculatedPolitics": 2,
+        "cbc": 1
+      },
+      "avg": 1.53
+    },
+    {
+      "name": "ind",
+      "projections": {
+        "threethirtyeight": 0,
+        "calculatedPolitics": 3,
+        "cbc": 1
+      },
+      "avg": 1.33
+    },
+    {
+      "name": "ppc",
+      "projections": {
+        "threethirtyeight": 0.4
+      },
+      "avg": 0.4
+    },
+    {
+      "name": "mav",
+      "projections": {
+        "threethirtyeight": 0
+      },
+      "avg": 0
+    }
+  ],
+  "valid": true
+}

@@ -1,0 +1,39 @@
+{
+  "number": 48030,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Red Deer--Lacombe",
+  "slug": "Red-Deer-Lacombe",
+  "position": {
+    "x": 52.57277858109976,
+    "y": -113.81471015259524
+  },
+  "bounds": [
+    [
+      52.234798693177424,
+      -114.65596063523925
+    ],
+    [
+      52.93080520263361,
+      -112.92681074016105
+    ]
+  ]
+}

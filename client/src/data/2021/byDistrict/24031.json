@@ -1,0 +1,39 @@
+{
+  "number": 24031,
+  "projections": {
+    "threethirtyeight": {
+      "party": "bq",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "bq",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "bq",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "bq",
+    "score": 1
+  },
+  "name": "Joliette",
+  "slug": "Joliette",
+  "position": {
+    "x": 46.65662058773714,
+    "y": -73.99035047513892
+  },
+  "bounds": [
+    [
+      45.90523480279432,
+      -74.65989826436707
+    ],
+    [
+      47.46422638877526,
+      -73.23375542908708
+    ]
+  ]
+}

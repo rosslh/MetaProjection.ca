@@ -1,0 +1,39 @@
+{
+  "number": 48011,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Calgary Shepard",
+  "slug": "Calgary-Shepard",
+  "position": {
+    "x": 50.94445967100772,
+    "y": -113.9403741664565
+  },
+  "bounds": [
+    [
+      50.8430787325635,
+      -114.03622971488723
+    ],
+    [
+      51.03795099820471,
+      -113.85829670343645
+    ]
+  ]
+}

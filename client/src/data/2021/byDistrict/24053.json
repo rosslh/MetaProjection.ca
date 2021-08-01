@@ -1,0 +1,39 @@
+{
+  "number": 24053,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Notre-Dame-de-Grâce--Westmount",
+  "slug": "Notre-Dame-de-Grace-Westmount",
+  "position": {
+    "x": 45.473431274556674,
+    "y": -73.62105568237843
+  },
+  "bounds": [
+    [
+      45.44696223007475,
+      -73.66824019833219
+    ],
+    [
+      45.50365157990083,
+      -73.58059332204178
+    ]
+  ]
+}

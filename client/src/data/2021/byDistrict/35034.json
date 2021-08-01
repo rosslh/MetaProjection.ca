@@ -1,0 +1,39 @@
+{
+  "number": 35034,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Haliburton--Kawartha Lakes--Brock",
+  "slug": "Haliburton-Kawartha-Lakes-Brock",
+  "position": {
+    "x": 44.82775736567029,
+    "y": -78.65939247286035
+  },
+  "bounds": [
+    [
+      44.05840225596033,
+      -79.25211422266723
+    ],
+    [
+      45.561075031934415,
+      -77.96119811006834
+    ]
+  ]
+}

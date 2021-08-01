@@ -1,0 +1,39 @@
+{
+  "number": 35008,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Brampton Centre",
+  "slug": "Brampton-Centre",
+  "position": {
+    "x": 43.700634305097516,
+    "y": -79.72041516342826
+  },
+  "bounds": [
+    [
+      43.65177479700309,
+      -79.78668630871462
+    ],
+    [
+      43.74416268829693,
+      -79.67159451122019
+    ]
+  ]
+}

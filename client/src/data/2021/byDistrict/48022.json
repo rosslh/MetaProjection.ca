@@ -1,0 +1,39 @@
+{
+  "number": 48022,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Foothills",
+  "slug": "Foothills",
+  "position": {
+    "x": 50.134582701136694,
+    "y": -114.16698799353472
+  },
+  "bounds": [
+    [
+      48.997632655100986,
+      -115.4507385502322
+    ],
+    [
+      51.13282749650792,
+      -113.0356385158039
+    ]
+  ]
+}

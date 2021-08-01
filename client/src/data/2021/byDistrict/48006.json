@@ -1,0 +1,39 @@
+{
+  "number": 48006,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.75
+  },
+  "name": "Calgary Forest Lawn",
+  "slug": "Calgary-Forest-Lawn",
+  "position": {
+    "x": 51.06062261182324,
+    "y": -113.95248282055967
+  },
+  "bounds": [
+    [
+      51.02957916092825,
+      -114.03402507804014
+    ],
+    [
+      51.11070590099481,
+      -113.86536524481008
+    ]
+  ]
+}

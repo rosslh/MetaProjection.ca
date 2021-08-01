@@ -1,0 +1,43 @@
+{
+  "number": 35066,
+  "projections": {
+    "threethirtyeight": {
+      "party": "ndp",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.5
+    },
+    {
+      "party": "ndp",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.5
+  },
+  "name": "Niagara Centre",
+  "slug": "Niagara-Centre",
+  "position": {
+    "x": 42.9280723929693,
+    "y": -79.20906462095651
+  },
+  "bounds": [
+    [
+      42.751288537087724,
+      -79.29087904470968
+    ],
+    [
+      43.152404570508146,
+      -79.11516384163589
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 10005,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Long Range Mountains",
+  "slug": "Long-Range-Mountains",
+  "position": {
+    "x": 49.45574132061236,
+    "y": -57.384047784906116
+  },
+  "bounds": [
+    [
+      47.3541237499287,
+      -59.46538364596983
+    ],
+    [
+      51.75859155394733,
+      -55.238440298630394
+    ]
+  ]
+}

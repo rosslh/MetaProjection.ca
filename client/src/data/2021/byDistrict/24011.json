@@ -1,0 +1,39 @@
+{
+  "number": 24011,
+  "projections": {
+    "threethirtyeight": {
+      "party": "bq",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "bq",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "bq",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "bq",
+    "score": 1
+  },
+  "name": "Beloeil--Chambly",
+  "slug": "Beloeil-Chambly",
+  "position": {
+    "x": 45.480253178530376,
+    "y": -73.20786628886195
+  },
+  "bounds": [
+    [
+      45.36205943158459,
+      -73.38701092273587
+    ],
+    [
+      45.63323370258973,
+      -73.06226821423661
+    ]
+  ]
+}

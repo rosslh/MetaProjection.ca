@@ -1,0 +1,39 @@
+{
+  "number": 35102,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Stormont--Dundas--South Glengarry",
+  "slug": "Stormont-Dundas-South-Glengarry",
+  "position": {
+    "x": 45.09863892603025,
+    "y": -74.99656003553255
+  },
+  "bounds": [
+    [
+      44.798100899789304,
+      -75.59498419451731
+    ],
+    [
+      45.35590211565625,
+      -74.32038089500803
+    ]
+  ]
+}

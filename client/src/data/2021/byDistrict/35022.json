@@ -1,0 +1,39 @@
+{
+  "number": 35022,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.5
+  },
+  "name": "Dufferin--Caledon",
+  "slug": "Dufferin-Caledon",
+  "position": {
+    "x": 43.98279741941664,
+    "y": -80.10740307844439
+  },
+  "bounds": [
+    [
+      43.674890594649504,
+      -80.43842851804033
+    ],
+    [
+      44.294871706423834,
+      -79.69481889689197
+    ]
+  ]
+}

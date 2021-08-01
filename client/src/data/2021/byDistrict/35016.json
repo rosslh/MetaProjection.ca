@@ -1,0 +1,39 @@
+{
+  "number": 35016,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Cambridge",
+  "slug": "Cambridge",
+  "position": {
+    "x": 43.322394168815684,
+    "y": -80.34923393685598
+  },
+  "bounds": [
+    [
+      43.22486148587756,
+      -80.50595460686769
+    ],
+    [
+      43.42097459308555,
+      -80.18760310172958
+    ]
+  ]
+}

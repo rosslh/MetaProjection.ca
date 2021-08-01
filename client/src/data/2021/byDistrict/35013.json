@@ -1,0 +1,39 @@
+{
+  "number": 35013,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": null,
+      "confidence": 0
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.5
+  },
+  "name": "Brantford--Brant",
+  "slug": "Brantford-Brant",
+  "position": {
+    "x": 43.114302750433296,
+    "y": -80.23601182677126
+  },
+  "bounds": [
+    [
+      42.96339068140556,
+      -80.48043050778995
+    ],
+    [
+      43.264252296263386,
+      -79.97640789336464
+    ]
+  ]
+}

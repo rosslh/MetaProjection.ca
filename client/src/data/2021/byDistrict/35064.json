@@ -1,0 +1,39 @@
+{
+  "number": 35064,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Nepean",
+  "slug": "Nepean",
+  "position": {
+    "x": 45.27221797129712,
+    "y": -75.77687648945574
+  },
+  "bounds": [
+    [
+      45.18038059106625,
+      -75.8859513744043
+    ],
+    [
+      45.345553102995495,
+      -75.68897773912278
+    ]
+  ]
+}

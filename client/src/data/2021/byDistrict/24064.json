@@ -1,0 +1,39 @@
+{
+  "number": 24064,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": "ndp",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "ndp",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "ndp",
+    "score": 0.5
+  },
+  "name": "Rosemont--La Petite-Patrie",
+  "slug": "Rosemont-La-Petite-Patrie",
+  "position": {
+    "x": 45.54575550568229,
+    "y": -73.58685452546295
+  },
+  "bounds": [
+    [
+      45.52566071659534,
+      -73.62148077089249
+    ],
+    [
+      45.56500950574206,
+      -73.55446971743274
+    ]
+  ]
+}

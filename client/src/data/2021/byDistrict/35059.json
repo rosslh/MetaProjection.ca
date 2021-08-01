@@ -1,0 +1,39 @@
+{
+  "number": 35059,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Mississauga East--Cooksville",
+  "slug": "Mississauga-East-Cooksville",
+  "position": {
+    "x": 43.60670208031691,
+    "y": -79.60621361003642
+  },
+  "bounds": [
+    [
+      43.56081920096691,
+      -79.64587260736542
+    ],
+    [
+      43.64642825492525,
+      -79.56356140564816
+    ]
+  ]
+}

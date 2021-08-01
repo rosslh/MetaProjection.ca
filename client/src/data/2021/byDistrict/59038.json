@@ -1,0 +1,36 @@
+{
+  "number": 59038,
+  "projections": {
+    "threethirtyeight": {
+      "party": "ndp",
+      "confidence": 1
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "ndp",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "ndp",
+    "score": 0.5
+  },
+  "name": "Vancouver Kingsway",
+  "slug": "Vancouver-Kingsway",
+  "position": {
+    "x": 49.24495720827923,
+    "y": -123.06166464904744
+  },
+  "bounds": [
+    [
+      49.23197111346229,
+      -123.10166590700874
+    ],
+    [
+      49.258212793284464,
+      -123.02342681388241
+    ]
+  ]
+}

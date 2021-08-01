@@ -1,0 +1,39 @@
+{
+  "number": 47004,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Carlton Trail--Eagle Creek",
+  "slug": "Carlton-Trail-Eagle-Creek",
+  "position": {
+    "x": 52.28396515507761,
+    "y": -106.96053731333083
+  },
+  "bounds": [
+    [
+      51.2705863719345,
+      -108.55630814309971
+    ],
+    [
+      53.199638480985875,
+      -104.57789991114963
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 35055,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Markham--Thornhill",
+  "slug": "Markham-Thornhill",
+  "position": {
+    "x": 43.834654553542705,
+    "y": -79.32103147052581
+  },
+  "bounds": [
+    [
+      43.80326310670802,
+      -79.40602881845372
+    ],
+    [
+      43.86566282002445,
+      -79.22773388772802
+    ]
+  ]
+}

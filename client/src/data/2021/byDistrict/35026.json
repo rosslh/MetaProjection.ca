@@ -1,0 +1,43 @@
+{
+  "number": 35026,
+  "projections": {
+    "threethirtyeight": {
+      "party": "ndp",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "ndp",
+      "score": 0.25
+    },
+    {
+      "party": "cpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Essex",
+  "slug": "Essex",
+  "position": {
+    "x": 42.09063542649033,
+    "y": -82.84737060148909
+  },
+  "bounds": [
+    [
+      41.8089188410008,
+      -83.14951046237029
+    ],
+    [
+      42.398147815169466,
+      -82.58864738743391
+    ]
+  ]
+}

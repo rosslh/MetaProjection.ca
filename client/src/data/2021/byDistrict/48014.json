@@ -1,0 +1,39 @@
+{
+  "number": 48014,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.5
+  },
+  "name": "Edmonton Centre",
+  "slug": "Edmonton-Centre",
+  "position": {
+    "x": 53.548307903598456,
+    "y": -113.54623750723496
+  },
+  "bounds": [
+    [
+      53.50119464808683,
+      -113.61242785872618
+    ],
+    [
+      53.58361168468781,
+      -113.4836809272778
+    ]
+  ]
+}

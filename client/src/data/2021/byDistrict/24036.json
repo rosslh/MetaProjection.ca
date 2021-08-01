@@ -1,0 +1,39 @@
+{
+  "number": 24036,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Lac-Saint-Louis",
+  "slug": "Lac-Saint-Louis",
+  "position": {
+    "x": 45.43863446530885,
+    "y": -73.87895931462958
+  },
+  "bounds": [
+    [
+      45.39848100745244,
+      -73.99868834669905
+    ],
+    [
+      45.48753829461695,
+      -73.76692787653461
+    ]
+  ]
+}

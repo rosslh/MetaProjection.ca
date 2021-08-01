@@ -1,0 +1,39 @@
+{
+  "number": 35115,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Willowdale",
+  "slug": "Willowdale",
+  "position": {
+    "x": 43.776889059029685,
+    "y": -79.41648107306604
+  },
+  "bounds": [
+    [
+      43.74929826667439,
+      -79.4466657090933
+    ],
+    [
+      43.80326310670802,
+      -79.3870478023951
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 46013,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Winnipeg South",
+  "slug": "Winnipeg-South",
+  "position": {
+    "x": 49.77997895224056,
+    "y": -97.14495913280358
+  },
+  "bounds": [
+    [
+      49.71363749142379,
+      -97.22216547064941
+    ],
+    [
+      49.838208484617304,
+      -97.04329650027783
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 48012,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Calgary Signal Hill",
+  "slug": "Calgary-Signal-Hill",
+  "position": {
+    "x": 51.054739276875786,
+    "y": -114.20001569805245
+  },
+  "bounds": [
+    [
+      51.00833475336092,
+      -114.29482296693422
+    ],
+    [
+      51.10370986894448,
+      -114.11253180478384
+    ]
+  ]
+}

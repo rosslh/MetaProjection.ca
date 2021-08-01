@@ -1,0 +1,43 @@
+{
+  "number": 35117,
+  "projections": {
+    "threethirtyeight": {
+      "party": "ndp",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "ndp",
+      "score": 0.5
+    },
+    {
+      "party": "lpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Windsor West",
+  "slug": "Windsor-West",
+  "position": {
+    "x": 42.27822351045461,
+    "y": -83.0307961447737
+  },
+  "bounds": [
+    [
+      42.233657100516474,
+      -83.11506819863827
+    ],
+    [
+      42.32718373874966,
+      -82.95264511716918
+    ]
+  ]
+}

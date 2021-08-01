@@ -1,0 +1,39 @@
+{
+  "number": 35015,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Burlington",
+  "slug": "Burlington",
+  "position": {
+    "x": 43.33949034481203,
+    "y": -79.81778352499309
+  },
+  "bounds": [
+    [
+      43.28615758501358,
+      -79.91252965779576
+    ],
+    [
+      43.39541399329879,
+      -79.72018083748276
+    ]
+  ]
+}

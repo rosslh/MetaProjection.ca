@@ -1,0 +1,36 @@
+{
+  "number": 59001,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.5
+  },
+  "name": "Abbotsford",
+  "slug": "Abbotsford",
+  "position": {
+    "x": 49.04290532361204,
+    "y": -122.21784546903648
+  },
+  "bounds": [
+    [
+      49.00217363319099,
+      -122.3872420060357
+    ],
+    [
+      49.12699439623182,
+      -122.07255991353362
+    ]
+  ]
+}

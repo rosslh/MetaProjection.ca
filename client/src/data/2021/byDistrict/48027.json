@@ -1,0 +1,39 @@
+{
+  "number": 48027,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Medicine Hat--Cardston--Warner",
+  "slug": "Medicine-Hat-Cardston-Warner",
+  "position": {
+    "x": 49.66016338299033,
+    "y": -111.32924712116245
+  },
+  "bounds": [
+    [
+      48.99673996422612,
+      -113.73324688821786
+    ],
+    [
+      50.83377473854311,
+      -110.00301558218098
+    ]
+  ]
+}

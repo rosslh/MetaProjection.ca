@@ -1,0 +1,36 @@
+{
+  "number": 59036,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Vancouver Granville",
+  "slug": "Vancouver-Granville",
+  "position": {
+    "x": 49.238010552201985,
+    "y": -123.12998397844109
+  },
+  "bounds": [
+    [
+      49.198534897927416,
+      -123.15550945621555
+    ],
+    [
+      49.26930889339122,
+      -123.10084401175912
+    ]
+  ]
+}

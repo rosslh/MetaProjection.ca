@@ -1,0 +1,39 @@
+{
+  "number": 48003,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 1
+  },
+  "name": "Bow River",
+  "slug": "Bow-River",
+  "position": {
+    "x": 50.65490095454644,
+    "y": -112.61695418354691
+  },
+  "bounds": [
+    [
+      49.53024703317082,
+      -113.91191011706452
+    ],
+    [
+      51.678204889166565,
+      -111.36938500008375
+    ]
+  ]
+}

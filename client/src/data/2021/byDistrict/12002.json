@@ -1,0 +1,39 @@
+{
+  "number": 12002,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Central Nova",
+  "slug": "Central-Nova",
+  "position": {
+    "x": 45.29161906308773,
+    "y": -62.54748749051964
+  },
+  "bounds": [
+    [
+      44.613778939257884,
+      -63.57299171861614
+    ],
+    [
+      46.068210745524375,
+      -61.52140195095983
+    ]
+  ]
+}

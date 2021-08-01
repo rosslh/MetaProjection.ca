@@ -1,0 +1,39 @@
+{
+  "number": 35107,
+  "projections": {
+    "threethirtyeight": {
+      "party": "ndp",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "ndp",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "ndp",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "ndp",
+    "score": 1
+  },
+  "name": "Timmins--James Bay",
+  "slug": "Timmins-James-Bay",
+  "position": {
+    "x": 51.80402332481391,
+    "y": -83.3271089016807
+  },
+  "bounds": [
+    [
+      47.32021184856194,
+      -86.55960369689558
+    ],
+    [
+      55.808579691928216,
+      -79.51048602213024
+    ]
+  ]
+}

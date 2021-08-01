@@ -1,0 +1,39 @@
+{
+  "number": 12006,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Halifax West",
+  "slug": "Halifax-West",
+  "position": {
+    "x": 44.72497376307585,
+    "y": -63.74850504339469
+  },
+  "bounds": [
+    [
+      44.62762928837461,
+      -63.87687267694636
+    ],
+    [
+      44.84009647628432,
+      -63.622106448831175
+    ]
+  ]
+}

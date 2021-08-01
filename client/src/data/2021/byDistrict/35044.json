@@ -1,0 +1,39 @@
+{
+  "number": 35044,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 1
+  },
+  "name": "Kingston and the Islands",
+  "slug": "Kingston-and-the-Islands",
+  "position": {
+    "x": 44.21069660538652,
+    "y": -76.42203187165391
+  },
+  "bounds": [
+    [
+      44.01516946661416,
+      -76.66740120262276
+    ],
+    [
+      44.33121106867672,
+      -76.16181222078188
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 47007,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "cpc",
+    "score": 0.5
+  },
+  "name": "Regina--Lewvan",
+  "slug": "Regina-Lewvan",
+  "position": {
+    "x": 50.45866949331742,
+    "y": -104.66529735220072
+  },
+  "bounds": [
+    [
+      50.39674723437243,
+      -104.70981574450428
+    ],
+    [
+      50.513426203783546,
+      -104.61803517047598
+    ]
+  ]
+}

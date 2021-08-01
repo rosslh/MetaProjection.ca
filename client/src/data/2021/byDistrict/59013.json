@@ -1,0 +1,36 @@
+{
+  "number": 59013,
+  "projections": {
+    "threethirtyeight": {
+      "party": "cpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {}
+  },
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Kamloops--Thompson--Cariboo",
+  "slug": "Kamloops-Thompson-Cariboo",
+  "position": {
+    "x": 51.55914403865778,
+    "y": -120.43267408106722
+  },
+  "bounds": [
+    [
+      50.357835249128804,
+      -122.67742479062944
+    ],
+    [
+      52.87786898599715,
+      -118.78649116969417
+    ]
+  ]
+}

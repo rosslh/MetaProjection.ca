@@ -1,0 +1,39 @@
+{
+  "number": 12005,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "Halifax",
+  "slug": "Halifax",
+  "position": {
+    "x": 44.24601309430076,
+    "y": -61.77051322740137
+  },
+  "bounds": [
+    [
+      43.90745795171097,
+      -63.705393278587096
+    ],
+    [
+      44.69262286743885,
+      -59.67045766211794
+    ]
+  ]
+}

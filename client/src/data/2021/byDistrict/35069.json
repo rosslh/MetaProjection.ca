@@ -1,0 +1,43 @@
+{
+  "number": 35069,
+  "projections": {
+    "threethirtyeight": {
+      "party": "ndp",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 0.5
+    }
+  },
+  "scores": [
+    {
+      "party": "ndp",
+      "score": 0.25
+    },
+    {
+      "party": "lpc",
+      "score": 0.25
+    }
+  ],
+  "winner": {
+    "party": null,
+    "confidence": 0
+  },
+  "name": "Nickel Belt",
+  "slug": "Nickel-Belt",
+  "position": {
+    "x": 47.0142726276843,
+    "y": -81.27137100148745
+  },
+  "bounds": [
+    [
+      45.86549975385383,
+      -82.60150804580773
+    ],
+    [
+      48.103900399176936,
+      -79.62994859374338
+    ]
+  ]
+}

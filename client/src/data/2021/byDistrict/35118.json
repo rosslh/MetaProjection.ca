@@ -1,0 +1,39 @@
+{
+  "number": 35118,
+  "projections": {
+    "threethirtyeight": {
+      "party": "lpc",
+      "confidence": 0.5
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.75
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.75
+  },
+  "name": "York Centre",
+  "slug": "York-Centre",
+  "position": {
+    "x": 43.752551934753434,
+    "y": -79.4677712350555
+  },
+  "bounds": [
+    [
+      43.71774860684994,
+      -79.5132102128679
+    ],
+    [
+      43.79240009201526,
+      -79.411401427355
+    ]
+  ]
+}

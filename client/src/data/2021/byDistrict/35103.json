@@ -1,0 +1,39 @@
+{
+  "number": 35103,
+  "projections": {
+    "threethirtyeight": {
+      "party": null,
+      "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": "lpc",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.5
+    }
+  ],
+  "winner": {
+    "party": "lpc",
+    "score": 0.5
+  },
+  "name": "Sudbury",
+  "slug": "Sudbury",
+  "position": {
+    "x": 46.40659684643074,
+    "y": -81.29443531245992
+  },
+  "bounds": [
+    [
+      46.19530626516097,
+      -81.59748146044791
+    ],
+    [
+      46.53728479655875,
+      -80.88064793089589
+    ]
+  ]
+}

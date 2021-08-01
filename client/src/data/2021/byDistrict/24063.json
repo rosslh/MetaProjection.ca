@@ -1,0 +1,39 @@
+{
+  "number": 24063,
+  "projections": {
+    "threethirtyeight": {
+      "party": "bq",
+      "confidence": 1
+    },
+    "calculatedPolitics": {
+      "party": "bq",
+      "confidence": 1
+    }
+  },
+  "scores": [
+    {
+      "party": "bq",
+      "score": 1
+    }
+  ],
+  "winner": {
+    "party": "bq",
+    "score": 1
+  },
+  "name": "Rivière-du-Nord",
+  "slug": "Riviere-du-Nord",
+  "position": {
+    "x": 45.856941377231934,
+    "y": -73.99031572600084
+  },
+  "bounds": [
+    [
+      45.74335232677422,
+      -74.14195439543049
+    ],
+    [
+      45.997765293850115,
+      -73.80677512144865
+    ]
+  ]
+}
