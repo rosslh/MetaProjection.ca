@@ -17,7 +17,7 @@ describe("Unit test the Federal overview", () => {
           assert(
             cy
               .get(".table-projection tr")
-              .should("have.length", 3) // TODO: change to 4 when project is back
+              .should("have.length", 3) // TODO: change to 4 when projection is back
               .each(tr => {
                 cy.wrap(tr)
                   .invoke("text")
