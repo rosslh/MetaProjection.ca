@@ -24,7 +24,7 @@ jobs:
         env:
           CI: true
         with:
-          args: cd client && npm run build
+          args: ./gh-build.sh
       - name: test
         run: |
           cd client
