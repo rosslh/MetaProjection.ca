@@ -54,7 +54,7 @@
     "getData": "npm run getFederalData && npm run getDistrictData",
     "getDistrictData": "node src/data/2021/byDistrictScraper",
     "getFederalData": "node src/data/2021/federalScraper",
-    "build": "npm run getData && gatsby build",
+    "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "serve": "gatsby serve",
