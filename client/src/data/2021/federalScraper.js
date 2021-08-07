@@ -129,7 +129,8 @@ async function getCBC() {
   const url = "https://newsinteractives.cbc.ca/elections/poll-tracker/canada/";
   const browser = await puppeteer.launch({
     headless: false,
-    executablePath: process.env.PUPPETEER_EXEC_PATH
+    executablePath: process.env.PUPPETEER_EXEC_PATH,
+    args: ["--no-sandbox", "--disable-setuid-sandbox"],
   }); // using puppeteer because they load dynamic content
   const page = await browser.newPage();
 
