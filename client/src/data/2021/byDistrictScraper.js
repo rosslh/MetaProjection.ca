@@ -209,7 +209,7 @@ async function getGeography() {
     "https://represent.opennorth.ca/boundaries/federal-electoral-districts/";
 
   for (const [i, district] of output.districts.entries()) {
-    await sleep(1800);
+    await sleep(1000);
     fetchAndRetry(`${url}${district.number}`, {
       retries: 3,
       retryDelay: attemptNumber => Math.pow(2, attemptNumber) * 8000 // 8000, 16000, 32000

@@ -58,7 +58,7 @@
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "serve": "gatsby serve",
-    "cyTest": "sleep 5; cypress run",
+    "cyTest": "cypress run",
     "cyTestGui": "cypress open",
     "runTestServer": "gatsby serve --port 3939",
     "test": "server-test runTestServer 3939 cyTest",

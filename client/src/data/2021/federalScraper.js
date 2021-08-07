@@ -127,7 +127,10 @@ function getCalculatedPolitics() {
 
 async function getCBC() {
   const url = "https://newsinteractives.cbc.ca/elections/poll-tracker/canada/";
-  const browser = await puppeteer.launch({ headless: false }); // using puppeteer because they load dynamic content
+  const browser = await puppeteer.launch({
+    headless: false,
+    executablePath: process.env.PUPPETEER_EXEC_PATH
+  }); // using puppeteer because they load dynamic content
   const page = await browser.newPage();
 
   await page.goto(url);
