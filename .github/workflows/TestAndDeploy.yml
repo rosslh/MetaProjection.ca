@@ -15,10 +15,8 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: "14.x"
-      - name: npm install and build
-        run: |
-          cd client
-          npm install
+      - name: npm install
+        run: cd client && npm install
         env:
           PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: 'true'
       - name: npm build
@@ -26,9 +24,7 @@ jobs:
         env:
           CI: true
         with:
-          args: |
-            cd client
-            npm run build
+          args: cd client && npm run build
       - name: test
         run: |
           cd client
