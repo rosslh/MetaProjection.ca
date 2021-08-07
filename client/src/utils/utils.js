@@ -67,7 +67,7 @@ export const projections = {
   },
   threethirtyeight: {
     name: "338 Canada",
-    url: "http://338canada.com/districts/districts.htm",
+    url: "http://338canada.com/districts.htm",
   },
   cbc: {
     name: "CBC Poll Tracker",
