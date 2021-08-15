@@ -1,6 +1,7 @@
 const fetch = require("node-fetch");
 const JSDOM = require("jsdom").JSDOM;
 const puppeteer = require("puppeteer");
+const chromium = require('chrome-aws-lambda')
 
 const output = {
   parties: [
@@ -127,9 +128,10 @@ function getCalculatedPolitics() {
 
 async function getCBC() {
   const url = "https://newsinteractives.cbc.ca/elections/poll-tracker/canada/";
+  const executablePath = await chromium.executablePath;
   const browser = await puppeteer.launch({
     headless: false,
-    executablePath: process.env.PUPPETEER_EXEC_PATH,
+    executablePath: executablePath || process.env.PUPPETEER_EXEC_PATH,
     args: ["--no-sandbox", "--disable-setuid-sandbox"],
   }); // using puppeteer because they load dynamic content
   const page = await browser.newPage();
@@ -150,9 +152,9 @@ async function getCBC() {
         seats: parseFloat(total.split(": ")[1]),
       };
     });
-
     return output;
   });
+  console.log("cbc", list);
 
   await browser.close();
 
