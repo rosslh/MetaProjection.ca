@@ -1,8 +1,5 @@
 name: Test and deploy
 on:
-  push:
-    branches:
-      - master # Push events on master branch
   schedule:
     - cron: "1 */8 * * *"
 

@@ -72,7 +72,7 @@ function get338() {
       const dom = new JSDOM(text);
       const { document } = dom.window;
       const list = Array.from(
-        document.querySelectorAll("table tbody tr td:last-child")
+        document.querySelectorAll("table tbody tr td:nth-child(6)")
       )
         .map(x => {
           const color = x.innerHTML.match(/color:(.*);/);
@@ -155,7 +155,6 @@ async function getCBC() {
     });
     return output;
   });
-  console.log("cbc", list);
 
   await browser.close();
 

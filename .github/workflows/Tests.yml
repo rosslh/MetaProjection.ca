@@ -1,11 +1,8 @@
-name: Tests
+name: Test
 on:
   push:
     branches:
-      - "*"
-      - "*/*"
-      - "dependabot/*/*/*"
-      - "!master"
+      - master # Push events on master branch
 
 jobs:
   Test:
@@ -16,10 +13,16 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: "10.x"
-      - name: npm install and build
+      - name: npm install
+        run: cd client && npm install
+      - name: get data
         run: |
           cd client
-          npm install
+          npm run getData
+      - name: build
+        run: |
+          cd client
+          npm rebuild sharp --force
           npm run build
       - name: test
         run: |
