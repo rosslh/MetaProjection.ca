@@ -17,14 +17,10 @@ jobs:
           node-version: "10.x"
       - name: npm install
         run: cd client && npm install
-        env:
-          PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: 'true'
       - name: get data
-        uses: mujo-code/puppeteer-headful@master
-        env:
-          CI: true
-        with:
-          args: ./gh-get-data.sh
+        run: |
+          cd client
+          npm run getData
       - name: build
         run: |
           cd client
