@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "cpc",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
       "party": "ndp",
@@ -13,7 +13,7 @@
   "scores": [
     {
       "party": "cpc",
-      "score": 0.25
+      "score": 0.5
     },
     {
       "party": "ndp",
@@ -21,8 +21,8 @@
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "cpc",
+    "score": 0.5
   },
   "name": "Edmonton Griesbach",
   "slug": "Edmonton-Griesbach",

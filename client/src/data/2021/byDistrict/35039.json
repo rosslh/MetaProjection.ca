@@ -6,13 +6,17 @@
       "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": null,
-      "confidence": 0
+      "party": "cpc",
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "lpc",
+      "score": 0.25
+    },
+    {
+      "party": "cpc",
       "score": 0.25
     }
   ],

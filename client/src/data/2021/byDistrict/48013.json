@@ -2,12 +2,12 @@
   "number": 48013,
   "projections": {
     "threethirtyeight": {
-      "party": "cpc",
-      "confidence": 0.5
-    },
-    "calculatedPolitics": {
       "party": null,
       "confidence": 0
+    },
+    "calculatedPolitics": {
+      "party": "cpc",
+      "confidence": 0.5
     }
   },
   "scores": [

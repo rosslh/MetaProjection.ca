@@ -6,19 +6,19 @@
       "confidence": 1
     },
     "calculatedPolitics": {
-      "party": "bq",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     }
   },
   "scores": [
     {
       "party": "bq",
-      "score": 0.75
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "bq",
-    "score": 0.75
+    "score": 0.5
   },
   "name": "Jonquière",
   "slug": "Jonquiere",

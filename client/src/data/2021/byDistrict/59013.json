@@ -3,19 +3,19 @@
   "projections": {
     "threethirtyeight": {
       "party": "cpc",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {}
   },
   "scores": [
     {
       "party": "cpc",
-      "score": 0.25
+      "score": 0.5
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "cpc",
+    "score": 0.5
   },
   "name": "Kamloops--Thompson--Cariboo",
   "slug": "Kamloops-Thompson-Cariboo",

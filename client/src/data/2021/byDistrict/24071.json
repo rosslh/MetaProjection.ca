@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "bq",
-      "confidence": 1
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "bq",
@@ -13,12 +13,12 @@
   "scores": [
     {
       "party": "bq",
-      "score": 0.75
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "bq",
-    "score": 0.75
+    "score": 0.5
   },
   "name": "Salaberry--Suroît",
   "slug": "Salaberry-Suroit",

@@ -2,6 +2,7 @@ const fetch = require("node-fetch");
 const JSDOM = require("jsdom").JSDOM;
 const puppeteer = require("puppeteer");
 const chromium = require('chrome-aws-lambda')
+const fetchAndRetry = require('fetch-retry')(fetch);
 
 const output = {
   parties: [
@@ -93,7 +94,10 @@ function get338() {
 
 function getCalculatedPolitics() {
   const url = "https://calculatedpolitics.ca/projection/canadian-federal-election/";
-  return fetch(url)
+  return fetchAndRetry(url, {
+    retries: 3,
+    retryDelay: attemptNumber => Math.pow(2, attemptNumber) * 8000 // 8000, 16000, 32000
+  })
     .then(resp => resp.text())
     .then(text => {
       const dom = new JSDOM(text);

@@ -2,12 +2,17 @@
   "number": 59018,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "gpc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {}
   },
-  "scores": [],
+  "scores": [
+    {
+      "party": "gpc",
+      "score": 0.25
+    }
+  ],
   "winner": {
     "party": null,
     "confidence": 0

@@ -6,18 +6,18 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "ind",
+      "party": "lpc",
       "confidence": 1
     }
   },
   "scores": [
     {
-      "party": "ind",
+      "party": "lpc",
       "score": 0.5
     }
   ],
   "winner": {
-    "party": "ind",
+    "party": "lpc",
     "score": 0.5
   },
   "name": "Markham--Stouffville",

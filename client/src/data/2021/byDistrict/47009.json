@@ -7,22 +7,22 @@
     },
     "calculatedPolitics": {
       "party": "lpc",
-      "confidence": 0.5
+      "confidence": 1
     }
   },
   "scores": [
     {
-      "party": "cpc",
-      "score": 0.25
+      "party": "lpc",
+      "score": 0.5
     },
     {
-      "party": "lpc",
+      "party": "cpc",
       "score": 0.25
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "lpc",
+    "score": 0.5
   },
   "name": "Regina--Wascana",
   "slug": "Regina-Wascana",

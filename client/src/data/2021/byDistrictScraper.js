@@ -1,7 +1,7 @@
 const fetch = require("node-fetch");
 const JSDOM = require("jsdom").JSDOM;
 const slugify = require("slugify");
-var fetchAndRetry = require('fetch-retry')(fetch);
+const fetchAndRetry = require('fetch-retry')(fetch);
 // Winning party, confidence (toss-up: 0, leans: 0.5, likely/safe: 1),
 
 const output = {

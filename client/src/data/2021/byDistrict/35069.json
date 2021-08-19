@@ -6,23 +6,19 @@
       "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "lpc",
+      "party": "ndp",
       "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "ndp",
-      "score": 0.25
-    },
-    {
-      "party": "lpc",
-      "score": 0.25
+      "score": 0.5
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "ndp",
+    "score": 0.5
   },
   "name": "Nickel Belt",
   "slug": "Nickel-Belt",

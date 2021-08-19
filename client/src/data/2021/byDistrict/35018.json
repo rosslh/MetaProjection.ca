@@ -6,23 +6,19 @@
       "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "lpc",
-      "confidence": 1
+      "party": null,
+      "confidence": 0
     }
   },
   "scores": [
-    {
-      "party": "lpc",
-      "score": 0.5
-    },
     {
       "party": "ndp",
       "score": 0.25
     }
   ],
   "winner": {
-    "party": "lpc",
-    "score": 0.5
+    "party": null,
+    "confidence": 0
   },
   "name": "Davenport",
   "slug": "Davenport",

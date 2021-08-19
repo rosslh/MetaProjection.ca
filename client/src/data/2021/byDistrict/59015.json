@@ -2,14 +2,14 @@
   "number": 59015,
   "projections": {
     "threethirtyeight": {
-      "party": "ndp",
+      "party": "cpc",
       "confidence": 0.5
     },
     "calculatedPolitics": {}
   },
   "scores": [
     {
-      "party": "ndp",
+      "party": "cpc",
       "score": 0.25
     }
   ],

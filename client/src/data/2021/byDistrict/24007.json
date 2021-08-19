@@ -2,22 +2,22 @@
   "number": 24007,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "cpc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "ind",
-      "confidence": 1
+      "party": "cpc",
+      "confidence": 0.5
     }
   },
   "scores": [
     {
-      "party": "ind",
+      "party": "cpc",
       "score": 0.5
     }
   ],
   "winner": {
-    "party": "ind",
+    "party": "cpc",
     "score": 0.5
   },
   "name": "Beauce",

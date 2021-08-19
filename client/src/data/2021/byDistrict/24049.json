@@ -2,24 +2,15 @@
   "number": 24049,
   "projections": {
     "threethirtyeight": {
-      "party": "bq",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "lpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     }
   },
-  "scores": [
-    {
-      "party": "bq",
-      "score": 0.25
-    },
-    {
-      "party": "lpc",
-      "score": 0.25
-    }
-  ],
+  "scores": [],
   "winner": {
     "party": null,
     "confidence": 0
