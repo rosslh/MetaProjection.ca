@@ -2,8 +2,8 @@
   "number": 35026,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "ndp",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "cpc",
@@ -11,6 +11,10 @@
     }
   },
   "scores": [
+    {
+      "party": "ndp",
+      "score": 0.25
+    },
     {
       "party": "cpc",
       "score": 0.25

@@ -58,7 +58,7 @@
     "getFederalData": "node src/data/2021/federalScraper",
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "format": "prettier --write \"**/*.{js,jsx}\"",
     "serve": "gatsby serve",
     "cyTest": "cypress run",
     "cyTestGui": "cypress open",

@@ -6,19 +6,19 @@
       "confidence": 1
     },
     "calculatedPolitics": {
-      "party": "ndp",
-      "confidence": 1
+      "party": null,
+      "confidence": 0
     }
   },
   "scores": [
     {
       "party": "ndp",
-      "score": 1
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "ndp",
-    "score": 1
+    "score": 0.5
   },
   "name": "Elmwood--Transcona",
   "slug": "Elmwood-Transcona",

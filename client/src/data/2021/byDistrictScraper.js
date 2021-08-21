@@ -1,7 +1,7 @@
 const fetch = require("node-fetch");
 const JSDOM = require("jsdom").JSDOM;
 const slugify = require("slugify");
-const fetchAndRetry = require('fetch-retry')(fetch);
+const fetchAndRetry = require("fetch-retry")(fetch);
 // Winning party, confidence (toss-up: 0, leans: 0.5, likely/safe: 1),
 
 const output = {
@@ -188,12 +188,11 @@ function getWinners() {
       const ranking = data.scores.sort((a, b) => {
         return b.score - a.score;
       });
-      winner = ranking[0];
       if (
         ranking[0].score >= 0.5 &&
         (!ranking[1] || ranking[0].score > ranking[1].score)
       ) {
-        data.winner = winner;
+        data.winner = ranking[0];
       }
     }
     return data;
@@ -212,7 +211,7 @@ async function getGeography() {
     await sleep(1000);
     fetchAndRetry(`${url}${district.number}`, {
       retries: 3,
-      retryDelay: attemptNumber => Math.pow(2, attemptNumber) * 8000 // 8000, 16000, 32000
+      retryDelay: attemptNumber => Math.pow(2, attemptNumber) * 8000, // 8000, 16000, 32000
     })
       .then(resp => resp.text())
       .then(async text => {

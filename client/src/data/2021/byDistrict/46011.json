@@ -6,23 +6,19 @@
       "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "lpc",
-      "confidence": 0.5
+      "party": "ndp",
+      "confidence": 1
     }
   },
   "scores": [
     {
       "party": "ndp",
-      "score": 0.25
-    },
-    {
-      "party": "lpc",
-      "score": 0.25
+      "score": 0.75
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "ndp",
+    "score": 0.75
   },
   "name": "Winnipeg Centre",
   "slug": "Winnipeg-Centre",

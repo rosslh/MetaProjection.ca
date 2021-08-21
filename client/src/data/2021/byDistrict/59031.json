@@ -2,12 +2,17 @@
   "number": 59031,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "cpc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {}
   },
-  "scores": [],
+  "scores": [
+    {
+      "party": "cpc",
+      "score": 0.25
+    }
+  ],
   "winner": {
     "party": null,
     "confidence": 0

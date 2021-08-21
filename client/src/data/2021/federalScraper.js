@@ -1,8 +1,8 @@
 const fetch = require("node-fetch");
 const JSDOM = require("jsdom").JSDOM;
 const puppeteer = require("puppeteer");
-const chromium = require('chrome-aws-lambda')
-const fetchAndRetry = require('fetch-retry')(fetch);
+const chromium = require("chrome-aws-lambda");
+const fetchAndRetry = require("fetch-retry")(fetch);
 
 const output = {
   parties: [
@@ -73,7 +73,7 @@ function get338() {
       const dom = new JSDOM(text);
       const { document } = dom.window;
       const list = Array.from(
-        document.querySelectorAll("table tbody tr td:nth-child(6)")
+        document.querySelectorAll("table tbody tr td:nth-child(7)")
       )
         .map(x => {
           const color = x.innerHTML.match(/color:(.*);/);
@@ -93,10 +93,11 @@ function get338() {
 }
 
 function getCalculatedPolitics() {
-  const url = "https://calculatedpolitics.ca/projection/canadian-federal-election/";
+  const url =
+    "https://calculatedpolitics.ca/projection/canadian-federal-election/";
   return fetchAndRetry(url, {
     retries: 3,
-    retryDelay: attemptNumber => Math.pow(2, attemptNumber) * 8000 // 8000, 16000, 32000
+    retryDelay: attemptNumber => Math.pow(2, attemptNumber) * 8000, // 8000, 16000, 32000
   })
     .then(resp => resp.text())
     .then(text => {
@@ -107,11 +108,10 @@ function getCalculatedPolitics() {
           "div.vc_tta-panel:nth-child(2) table tr" // only select from correct tab
         ),
       ]
-        .filter(
-          x =>
-            ["liberal", "conservative", "ndp", "bloc", "green", "other"].some(
-              word => x.textContent.toLowerCase().includes(word)
-            )
+        .filter(x =>
+          ["liberal", "conservative", "ndp", "bloc", "green", "other"].some(
+            word => x.textContent.toLowerCase().includes(word)
+          )
         )
         .map(x => {
           const party = getShortPartyString(x.children[0].textContent);
@@ -140,7 +140,9 @@ async function getCBC() {
     ignoreHTTPSErrors: true,
   }); // using puppeteer because they load dynamic content
   const page = await browser.newPage();
-  await page.setUserAgent('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36');
+  await page.setUserAgent(
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  );
   await page.goto(url);
 
   await page.addScriptTag({ content: `${getShortPartyString}` });
@@ -148,9 +150,20 @@ async function getCBC() {
   await page.waitForSelector(".dsb__svg--canada");
 
   const list = await page.evaluate(() => {
-    const label = document.querySelector(".dsb__svg--canada").getAttribute("aria-label");
-    const parties = ["Liberal", "Conservative", "New Democrat", "Bloc Québécois", "Green", "Other"];
-    const totals = parties.map(party => label.match(new RegExp(`${party}: [0-9]+`,'g')));
+    const label = document
+      .querySelector(".dsb__svg--canada")
+      .getAttribute("aria-label");
+    const parties = [
+      "Liberal",
+      "Conservative",
+      "New Democrat",
+      "Bloc Québécois",
+      "Green",
+      "Other",
+    ];
+    const totals = parties.map(party =>
+      label.match(new RegExp(`${party}: [0-9]+`, "g"))
+    );
     const output = totals.map(([total]) => {
       return {
         party: getShortPartyString(total.split(": ")[0]),

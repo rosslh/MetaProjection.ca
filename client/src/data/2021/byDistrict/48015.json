@@ -6,18 +6,14 @@
       "confidence": 1
     },
     "calculatedPolitics": {
-      "party": "ndp",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     }
   },
   "scores": [
     {
       "party": "cpc",
       "score": 0.5
-    },
-    {
-      "party": "ndp",
-      "score": 0.25
     }
   ],
   "winner": {

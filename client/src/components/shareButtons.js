@@ -76,57 +76,59 @@ const ShareButtons = ({ page, title }) => {
   } else {
     // TODO: why doesn't wrapper CSS load on production
     return (
-          <div css={css`
-            display: flex;
-            align-items: center;
-            padding-top: 1.5rem;
-          `}>
-            <span
-              css={css`
-                padding-right: 0.4rem;
-              `}
-            >
-              Share:
-            </span>
-            <FacebookShareButton
-              css={css`
-               background-color: #3B579D;
-              `}
-              url={shareUrl}
-              quote={fullTitle}
-            >
-              <FaFacebookF />
-            </FacebookShareButton>
-            <TwitterShareButton
-              css={css`
-               background-color: #2CAAE1;
-              `}
-              url={shareUrl}
-              title={`${site.siteMetadata.description}. Take a look!`}
-            >
-              <FaTwitter />
-            </TwitterShareButton>
-            <RedditShareButton
-              css={css`
-              background-color: #FF4500 !important;
-            `}
-              title={fullTitle}
-              url={shareUrl}
-            >
-              <FaRedditAlien />
-            </RedditShareButton>
-            <LinkedinShareButton
-              css={css`
-              background-color: #007BB6;
-              `}
-              url={shareUrl}
-            >
-              <FaLinkedinIn />
-            </LinkedinShareButton>
-          </div>
-        )
-      }
+      <div
+        css={css`
+          display: flex;
+          align-items: center;
+          padding-top: 1.5rem;
+        `}
+      >
+        <span
+          css={css`
+            padding-right: 0.4rem;
+          `}
+        >
+          Share:
+        </span>
+        <FacebookShareButton
+          css={css`
+            background-color: #3b579d;
+          `}
+          url={shareUrl}
+          quote={fullTitle}
+        >
+          <FaFacebookF />
+        </FacebookShareButton>
+        <TwitterShareButton
+          css={css`
+            background-color: #2caae1;
+          `}
+          url={shareUrl}
+          title={`${site.siteMetadata.description}. Take a look!`}
+        >
+          <FaTwitter />
+        </TwitterShareButton>
+        <RedditShareButton
+          css={css`
+            background-color: #ff4500 !important;
+          `}
+          title={fullTitle}
+          url={shareUrl}
+        >
+          <FaRedditAlien />
+        </RedditShareButton>
+        <LinkedinShareButton
+          css={css`
+            background-color: #007bb6;
+          `}
+          url={shareUrl}
+        >
+          <FaLinkedinIn />
+        </LinkedinShareButton>
+      </div>
+    );
   }
+};
 
 ShareButtons.propTypes = {
   page: PropTypes.string,

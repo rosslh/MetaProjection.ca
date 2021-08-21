@@ -14,7 +14,9 @@ import ShareButtons from "../components/shareButtons";
 const getPartyStatus = (rank, seats) => {
   switch (rank) {
     case 0:
-      return seats > 169 ? "Likely Majority Government" : "Likely Minority Government";
+      return seats > 169
+        ? "Likely Majority Government"
+        : "Likely Minority Government";
     case 1:
       return "Likely Official Opposition";
     default:
@@ -174,7 +176,8 @@ const IndexPage = () => (
             margin: 4rem 0 2rem;
           `}
         >
-          <p>View the final projection for 2019 here:
+          <p>
+            View the final projection for 2019 here:
             <a
               href={"https://2019.metaprojection.ca"}
               css={css`
