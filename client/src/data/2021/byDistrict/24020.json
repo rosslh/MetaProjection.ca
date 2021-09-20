@@ -2,23 +2,23 @@
   "number": 24020,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "bq",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "cpc",
+      "party": "bq",
       "confidence": 0.5
     }
   },
   "scores": [
     {
-      "party": "cpc",
-      "score": 0.25
+      "party": "bq",
+      "score": 0.5
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "bq",
+    "score": 0.5
   },
   "name": "Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix",
   "slug": "Beauport-Cote-de-Beaupre-Ile-d'Orleans-Charlevoix",

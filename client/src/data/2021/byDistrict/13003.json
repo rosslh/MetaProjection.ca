@@ -7,18 +7,18 @@
     },
     "calculatedPolitics": {
       "party": "lpc",
-      "confidence": 0.5
+      "confidence": 1
     }
   },
   "scores": [
     {
       "party": "lpc",
-      "score": 0.25
+      "score": 0.5
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "lpc",
+    "score": 0.5
   },
   "name": "Fredericton",
   "slug": "Fredericton",

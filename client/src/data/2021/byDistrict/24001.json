@@ -2,18 +2,23 @@
   "number": 24001,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "bq",
+      "confidence": 1
     },
     "calculatedPolitics": {
-      "party": null,
-      "confidence": 0
+      "party": "bq",
+      "confidence": 0.5
     }
   },
-  "scores": [],
+  "scores": [
+    {
+      "party": "bq",
+      "score": 0.75
+    }
+  ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "bq",
+    "score": 0.75
   },
   "name": "Abitibi--Baie-James--Nunavik--Eeyou",
   "slug": "Abitibi-Baie-James-Nunavik-Eeyou",

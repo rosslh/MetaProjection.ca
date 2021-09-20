@@ -2,23 +2,23 @@
   "number": 35018,
   "projections": {
     "threethirtyeight": {
-      "party": "ndp",
+      "party": "lpc",
       "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": "ndp",
-      "confidence": 0.5
+      "party": "lpc",
+      "confidence": 1
     }
   },
   "scores": [
     {
-      "party": "ndp",
-      "score": 0.5
+      "party": "lpc",
+      "score": 0.75
     }
   ],
   "winner": {
-    "party": "ndp",
-    "score": 0.5
+    "party": "lpc",
+    "score": 0.75
   },
   "name": "Davenport",
   "slug": "Davenport",

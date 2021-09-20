@@ -6,19 +6,19 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": "cpc",
-      "confidence": 0.5
+      "party": "lpc",
+      "confidence": 1
     }
   },
   "scores": [
     {
-      "party": "cpc",
-      "score": 0.25
+      "party": "lpc",
+      "score": 0.5
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "lpc",
+    "score": 0.5
   },
   "name": "Sydney--Victoria",
   "slug": "Sydney-Victoria",

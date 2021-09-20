@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "lpc",
-      "confidence": 1
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "lpc",
@@ -13,12 +13,12 @@
   "scores": [
     {
       "party": "lpc",
-      "score": 0.75
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "lpc",
-    "score": 0.75
+    "score": 0.5
   },
   "name": "Cape Breton--Canso",
   "slug": "Cape-Breton-Canso",

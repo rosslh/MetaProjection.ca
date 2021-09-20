@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "cpc",
-      "confidence": 1
+      "confidence": 0.5
     },
     "calculatedPolitics": {
       "party": "cpc",
@@ -13,12 +13,12 @@
   "scores": [
     {
       "party": "cpc",
-      "score": 0.75
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "cpc",
-    "score": 0.75
+    "score": 0.5
   },
   "name": "Regina--Lewvan",
   "slug": "Regina-Lewvan",

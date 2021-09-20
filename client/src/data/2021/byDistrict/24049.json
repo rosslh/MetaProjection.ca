@@ -2,18 +2,23 @@
   "number": 24049,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "bq",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": null,
-      "confidence": 0
+      "party": "bq",
+      "confidence": 0.5
     }
   },
-  "scores": [],
+  "scores": [
+    {
+      "party": "bq",
+      "score": 0.5
+    }
+  ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "bq",
+    "score": 0.5
   },
   "name": "Montarville",
   "slug": "Montarville",

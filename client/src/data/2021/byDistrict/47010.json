@@ -6,19 +6,19 @@
       "confidence": 1
     },
     "calculatedPolitics": {
-      "party": "cpc",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     }
   },
   "scores": [
     {
       "party": "cpc",
-      "score": 0.75
+      "score": 0.5
     }
   ],
   "winner": {
     "party": "cpc",
-    "score": 0.75
+    "score": 0.5
   },
   "name": "Saskatoon--Grasswood",
   "slug": "Saskatoon-Grasswood",
