@@ -6,23 +6,19 @@
       "confidence": 1
     },
     "calculatedPolitics": {
-      "party": "lpc",
-      "confidence": 0.5
+      "party": "cpc",
+      "confidence": 1
     }
   },
   "scores": [
     {
       "party": "cpc",
-      "score": 0.5
-    },
-    {
-      "party": "lpc",
-      "score": 0.25
+      "score": 1
     }
   ],
   "winner": {
     "party": "cpc",
-    "score": 0.5
+    "score": 1
   },
   "name": "Brantford--Brant",
   "slug": "Brantford-Brant",

@@ -3,26 +3,22 @@
   "projections": {
     "threethirtyeight": {
       "party": "cpc",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
-      "party": "lpc",
+      "party": "cpc",
       "confidence": 1
     }
   },
   "scores": [
     {
-      "party": "lpc",
-      "score": 0.5
-    },
-    {
       "party": "cpc",
-      "score": 0.25
+      "score": 1
     }
   ],
   "winner": {
-    "party": "lpc",
-    "score": 0.5
+    "party": "cpc",
+    "score": 1
   },
   "name": "Regina--Wascana",
   "slug": "Regina-Wascana",

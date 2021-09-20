@@ -2,15 +2,24 @@
   "number": 60001,
   "projections": {
     "threethirtyeight": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 0.5
     },
     "calculatedPolitics": {
-      "party": null,
-      "confidence": 0
+      "party": "cpc",
+      "confidence": 0.5
     }
   },
-  "scores": [],
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.25
+    },
+    {
+      "party": "cpc",
+      "score": 0.25
+    }
+  ],
   "winner": {
     "party": null,
     "confidence": 0

@@ -3,7 +3,7 @@
   "projections": {
     "threethirtyeight": {
       "party": "bq",
-      "confidence": 0.5
+      "confidence": 1
     },
     "calculatedPolitics": {
       "party": "bq",
@@ -13,12 +13,12 @@
   "scores": [
     {
       "party": "bq",
-      "score": 0.75
+      "score": 1
     }
   ],
   "winner": {
     "party": "bq",
-    "score": 0.75
+    "score": 1
   },
   "name": "Abitibi--Témiscamingue",
   "slug": "Abitibi-Temiscamingue",

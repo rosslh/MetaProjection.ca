@@ -2,20 +2,15 @@
   "number": 59015,
   "projections": {
     "threethirtyeight": {
-      "party": "cpc",
-      "confidence": 1
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {}
   },
-  "scores": [
-    {
-      "party": "cpc",
-      "score": 0.5
-    }
-  ],
+  "scores": [],
   "winner": {
-    "party": "cpc",
-    "score": 0.5
+    "party": null,
+    "confidence": 0
   },
   "name": "Kootenay--Columbia",
   "slug": "Kootenay-Columbia",

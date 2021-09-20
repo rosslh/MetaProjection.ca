@@ -2,8 +2,8 @@
   "number": 62001,
   "projections": {
     "threethirtyeight": {
-      "party": "ndp",
-      "confidence": 0.5
+      "party": null,
+      "confidence": 0
     },
     "calculatedPolitics": {
       "party": "ndp",
@@ -13,12 +13,12 @@
   "scores": [
     {
       "party": "ndp",
-      "score": 0.5
+      "score": 0.25
     }
   ],
   "winner": {
-    "party": "ndp",
-    "score": 0.5
+    "party": null,
+    "confidence": 0
   },
   "name": "Nunavut",
   "slug": "Nunavut",

@@ -2,7 +2,7 @@
   "number": 35036,
   "projections": {
     "threethirtyeight": {
-      "party": "ndp",
+      "party": "lpc",
       "confidence": 0.5
     },
     "calculatedPolitics": {
@@ -12,17 +12,13 @@
   },
   "scores": [
     {
-      "party": "ndp",
-      "score": 0.25
-    },
-    {
       "party": "lpc",
-      "score": 0.25
+      "score": 0.5
     }
   ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "lpc",
+    "score": 0.5
   },
   "name": "Hamilton East--Stoney Creek",
   "slug": "Hamilton-East-Stoney-Creek",

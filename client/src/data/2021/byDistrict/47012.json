@@ -7,18 +7,18 @@
     },
     "calculatedPolitics": {
       "party": "ndp",
-      "confidence": 1
+      "confidence": 0.5
     }
   },
   "scores": [
     {
       "party": "ndp",
-      "score": 0.5
+      "score": 0.25
     }
   ],
   "winner": {
-    "party": "ndp",
-    "score": 0.5
+    "party": null,
+    "confidence": 0
   },
   "name": "Saskatoon West",
   "slug": "Saskatoon-West",

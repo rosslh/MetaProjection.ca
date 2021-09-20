@@ -6,14 +6,19 @@
       "confidence": 0
     },
     "calculatedPolitics": {
-      "party": null,
-      "confidence": 0
+      "party": "lpc",
+      "confidence": 1
     }
   },
-  "scores": [],
+  "scores": [
+    {
+      "party": "lpc",
+      "score": 0.5
+    }
+  ],
   "winner": {
-    "party": null,
-    "confidence": 0
+    "party": "lpc",
+    "score": 0.5
   },
   "name": "Aurora--Oak Ridges--Richmond Hill",
   "slug": "Aurora-Oak-Ridges-Richmond-Hill",
