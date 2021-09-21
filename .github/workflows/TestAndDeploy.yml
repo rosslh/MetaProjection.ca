@@ -1,32 +1,32 @@
-name: Test and deploy
-on:
-  schedule:
-    - cron: "1 */8 * * *"
+# name: Test and deploy
+# on:
+#   schedule:
+#     - cron: "1 */8 * * *"
 
-jobs:
-  TestAndDeploy:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v1
-      - name: Use Node.js 10.x
-        uses: actions/setup-node@v1
-        with:
-          node-version: "10.x"
-      - name: npm install
-        run: cd client && npm install
-      - name: get data
-        run: |
-          cd client
-          npm run getData
-      - name: build
-        run: |
-          cd client
-          npm rebuild sharp --force
-          npm run build
-      - name: test
-        run: |
-          cd client
-          npm run test
-      - name: deploy
-        run: |
-          curl -X POST -d {} ${{ secrets.BUILD_HOOK }}
+# jobs:
+#   TestAndDeploy:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v1
+#       - name: Use Node.js 10.x
+#         uses: actions/setup-node@v1
+#         with:
+#           node-version: "10.x"
+#       - name: npm install
+#         run: cd client && npm install
+#       - name: get data
+#         run: |
+#           cd client
+#           npm run getData
+#       - name: build
+#         run: |
+#           cd client
+#           npm rebuild sharp --force
+#           npm run build
+#       - name: test
+#         run: |
+#           cd client
+#           npm run test
+#       - name: deploy
+#         run: |
+#           curl -X POST -d {} ${{ secrets.BUILD_HOOK }}

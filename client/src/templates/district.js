@@ -46,12 +46,6 @@ const District = ({ data, pageContext }) => {
       </h2>
       <h3>Projected winner</h3>
       <table>
-        <thead>
-          <tr>
-            <th></th>
-            <th>Party</th>
-          </tr>
-        </thead>
         <tbody>
           <tr>
             <td
