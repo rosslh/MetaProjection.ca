@@ -16,22 +16,22 @@ module.exports = {
       },
     },
     `gatsby-transformer-json`,
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `ByDistrict2021`,
-        path: `${__dirname}/src/data/2021/byDistrict`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `Federal2021`,
-        path: `${__dirname}/src/data/2021/federal/${new Date()
-          .toISOString()
-          .slice(0, 10)}.json`,
-      },
-    },
+    // {
+    //   resolve: `gatsby-source-filesystem`,
+    //   options: {
+    //     name: `ByDistrict2021`,
+    //     path: `${__dirname}/src/data/2021/byDistrict`,
+    //   },
+    // },
+    // {
+    //   resolve: `gatsby-source-filesystem`,
+    //   options: {
+    //     name: `Federal2021`,
+    //     path: `${__dirname}/src/data/2021/federal/${new Date()
+    //       .toISOString()
+    //       .slice(0, 10)}.json`,
+    //   },
+    // },
     // {
     //   resolve: `gatsby-source-filesystem`,
     //   options: {

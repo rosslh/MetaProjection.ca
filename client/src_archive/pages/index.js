@@ -2,14 +2,14 @@ import React from "react";
 import { MdInfoOutline } from "react-icons/md";
 import { Popup } from "semantic-ui-react";
 
-import Image from "../components/image";
-import { addPartyDetails, projections } from "../utils/utils";
-import Layout from "../components/layout";
-import SEO from "../components/seo";
+import Image from "../src/components/image";
+import { addPartyDetails, projections } from "../src/utils/utils";
+import Layout from "../src/components/layout";
+import SEO from "../src/components/seo";
 import { StaticQuery, graphql } from "gatsby";
-import { css } from "@emotion/core";
-import FederalDetailPopup from "../components/federalDetailPopup";
-import ShareButtons from "../components/shareButtons";
+import { css } from "@emotion/react";
+import FederalDetailPopup from "../src/components/federalDetailPopup";
+import ShareButtons from "../src/components/shareButtons";
 
 const getPartyStatus = (rank, seats) => {
   switch (rank) {
@@ -115,7 +115,7 @@ const IndexPage = () => (
           <tbody>
             {federalJson.parties
               .sort((a, b) => b.avg - a.avg)
-              .map(party => addPartyDetails(party))
+              .map((party) => addPartyDetails(party))
               .map((party, i) => (
                 <tr key={party.name}>
                   <td

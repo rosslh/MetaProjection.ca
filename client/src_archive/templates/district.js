@@ -1,6 +1,6 @@
 import React from "react";
 import { graphql } from "gatsby";
-import { css } from "@emotion/core";
+import { css } from "@emotion/react";
 import { Link } from "gatsby";
 
 import Layout from "../components/layout";
@@ -9,7 +9,7 @@ import { addPartyDetails, projections } from "../utils/utils";
 import Image from "../components/image";
 import ShareButtons from "../components/shareButtons";
 
-const getConfidenceString = score => {
+const getConfidenceString = (score) => {
   if (score > 0.75) {
     return "High";
   } else if (score > 0.5) {
@@ -77,53 +77,56 @@ const District = ({ data, pageContext }) => {
           </tr>
         </thead>
         <tbody>
-          {Object.keys(data.byDistrictJson.projections).map(projectionName => {
-            const projection = data.byDistrictJson.projections[projectionName];
-            if (projection.party) {
-              const winner = addPartyDetails({ name: projection.party });
-              return (
-                <tr key={projectionName}>
-                  <td>
-                    {
-                      <a
-                        rel="noopener noreferrer"
-                        target="_blank"
-                        href={projections[projectionName].url}
-                      >
-                        {projections[projectionName].name}
-                      </a>
-                    }
-                  </td>
-                  <td>{winner.longName}</td>
-                  <td>{getConfidenceString(projection.confidence)}</td>
-                </tr>
-              );
-            } else {
-              return (
-                <tr key={projectionName}>
-                  <td>
-                    {
-                      <a
-                        rel="noopener noreferrer"
-                        target="_blank"
-                        href={projections[projectionName].url}
-                      >
-                        {projections[projectionName].name}
-                      </a>
-                    }
-                  </td>
-                  <td
-                    css={css`
-                      font-style: italic;
-                    `}
-                  >
-                    Toss up
-                  </td>
-                  <td>N/A</td>
-                </tr>
-              );
+          {Object.keys(data.byDistrictJson.projections).map(
+            (projectionName) => {
+              const projection =
+                data.byDistrictJson.projections[projectionName];
+              if (projection.party) {
+                const winner = addPartyDetails({ name: projection.party });
+                return (
+                  <tr key={projectionName}>
+                    <td>
+                      {
+                        <a
+                          rel="noopener noreferrer"
+                          target="_blank"
+                          href={projections[projectionName].url}
+                        >
+                          {projections[projectionName].name}
+                        </a>
+                      }
+                    </td>
+                    <td>{winner.longName}</td>
+                    <td>{getConfidenceString(projection.confidence)}</td>
+                  </tr>
+                );
+              } else {
+                return (
+                  <tr key={projectionName}>
+                    <td>
+                      {
+                        <a
+                          rel="noopener noreferrer"
+                          target="_blank"
+                          href={projections[projectionName].url}
+                        >
+                          {projections[projectionName].name}
+                        </a>
+                      }
+                    </td>
+                    <td
+                      css={css`
+                        font-style: italic;
+                      `}
+                    >
+                      Toss up
+                    </td>
+                    <td>N/A</td>
+                  </tr>
+                );
+              }
             }
-          })}
+          )}
         </tbody>
       </table>
       <ShareButtons title={districtName} page={pageContext.relativePath} />

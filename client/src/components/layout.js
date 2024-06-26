@@ -8,11 +8,11 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { useStaticQuery, graphql } from "gatsby";
-import { css } from "@emotion/core";
+import { css } from "@emotion/react";
 
 import Header from "./header";
 import Footer from "./footer";
-import Map from "./map";
+// import Map from "./map";
 
 import "./layout.css";
 
@@ -34,7 +34,8 @@ const Layout = ({ noMap, children, selectedDistrict }) => {
       `}
     >
       <Header shadow={noMap} siteTitle={data.site.siteMetadata.title} />
-      {noMap ? "" : <Map selectedDistrict={selectedDistrict} />}
+      {/* TODO: add the map back */}
+      {/* {noMap ? "" : <Map selectedDistrict={selectedDistrict} />} */}
       <div
         className="contentWrapper"
         css={css`

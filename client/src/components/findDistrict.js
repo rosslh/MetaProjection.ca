@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { css, ClassNames } from "@emotion/core";
+import { css, ClassNames } from "@emotion/react";
 import PropTypes from "prop-types";
 import Select from "react-select";
 import { navigate } from "gatsby";
@@ -9,14 +9,14 @@ import { observer, inject } from "mobx-react";
 
 const FindDistrict = inject(`store`)(
   observer(({ store, districts, selectedDistrict }) => {
-    const options = districts.map(d => ({
+    const options = districts.map((d) => ({
       value: d.slug,
       label: d.name,
     }));
 
     const [selectedOption, setSelectedOption] = useState(null);
 
-    const handleChange = option => {
+    const handleChange = (option) => {
       navigate(`/riding/${option.value}`);
       setSelectedOption(option);
     };
@@ -36,7 +36,7 @@ const FindDistrict = inject(`store`)(
     const geolocate = () => {
       if (geolocationApiAvailable()) {
         navigator.geolocation.getCurrentPosition(
-          position => {
+          (position) => {
             const userLocation = {
               latitude: position.coords.latitude,
               longitude: position.coords.longitude,
@@ -44,8 +44,8 @@ const FindDistrict = inject(`store`)(
             fetch(
               `https://represent.opennorth.ca/boundaries/?contains=${userLocation.latitude},${userLocation.longitude}&sets=federal-electoral-districts`
             )
-              .then(r => r.json())
-              .then(r => {
+              .then((r) => r.json())
+              .then((r) => {
                 if (
                   r &&
                   r.objects &&

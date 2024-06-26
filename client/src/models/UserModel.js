@@ -1,9 +1,20 @@
-import { observable, action, decorate } from "mobx";
+import { makeObservable, observable, action } from "mobx";
 
 class UserModel {
   UserDistrict = null;
   UserGeolocationDisabled = false;
   UserGeolocationError = "";
+
+  constructor() {
+    makeObservable(this, {
+      UserDistrict: observable,
+      SetDistrict: action,
+      UserGeolocationDisabled: observable,
+      SetGeolocationDisabled: action,
+      UserGeolocationError: observable,
+      SetGeolocationError: action,
+    });
+  }
 
   SetDistrict(val) {
     this.UserDistrict = val;
@@ -16,13 +27,6 @@ class UserModel {
     this.UserGeolocationError = err;
   }
 }
-decorate(UserModel, {
-  UserDistrict: observable,
-  SetDistrict: action,
-  UserGeolocationDisabled: observable,
-  SetGeolocationDisabled: action,
-  UserGeolocationError: observable,
-  SetGeolocationError: action,
-});
+
 const UserStore = new UserModel();
 export default UserStore;

@@ -1,6 +1,6 @@
 import { Link } from "gatsby";
 import React from "react";
-import { css } from "@emotion/core";
+import { css } from "@emotion/react";
 import { FaCanadianMapleLeaf } from "react-icons/fa";
 
 const Header = ({ shadow }) => (

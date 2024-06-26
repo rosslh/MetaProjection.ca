@@ -2,7 +2,7 @@ import React from "react";
 
 import Layout from "../components/layout";
 import SEO from "../components/seo";
-import { css } from "@emotion/core";
+import { css } from "@emotion/react";
 import { projections } from "../utils/utils";
 
 const About = () => (
@@ -29,7 +29,7 @@ const About = () => (
     <ul>
       {Object.keys(projections)
         .sort()
-        .map(key => {
+        .map((key) => {
           const projection = projections[key];
           return (
             <li key={key}>

@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { css } from "@emotion/core";
+import { css } from "@emotion/react";
 import {
   FacebookShareButton,
   LinkedinShareButton,
@@ -17,19 +17,17 @@ import {
 import { useStaticQuery, graphql } from "gatsby";
 
 const ShareButtons = ({ page, title }) => {
-  const { site } = useStaticQuery(
-    graphql`
-      query {
-        site {
-          siteMetadata {
-            title
-            description
-            url
-          }
+  const { site } = useStaticQuery(graphql`
+    query {
+      site {
+        siteMetadata {
+          title
+          description
+          url
         }
       }
-    `
-  );
+    }
+  `);
 
   const shareUrl = `${site.siteMetadata.url}${page}`;
   const fullTitle = `${title} | ${site.siteMetadata.title}`;

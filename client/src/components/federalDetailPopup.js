@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { css } from "@emotion/core";
+import { css } from "@emotion/react";
 
 import { projections } from "../utils/utils";
 
@@ -16,7 +16,8 @@ function FederalDetailPopup({ data, avg, status }) {
         background: #fff;
         padding: 0.8rem 1em;
         border-radius: 3px;
-        box-shadow: 0 2px 4px 0 rgba(34, 36, 38, 0.12),
+        box-shadow:
+          0 2px 4px 0 rgba(34, 36, 38, 0.12),
           0 2px 10px 0 rgba(34, 36, 38, 0.15);
         > * {
           font-size: 0.9rem !important;
@@ -39,7 +40,7 @@ function FederalDetailPopup({ data, avg, status }) {
         `}
       >
         <tbody>
-          {keysSorted.map(x => (
+          {keysSorted.map((x) => (
             <tr key={x}>
               <td>
                 <a
