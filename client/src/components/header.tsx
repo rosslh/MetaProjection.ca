@@ -3,7 +3,11 @@ import React from "react";
 import { css } from "@emotion/react";
 import { FaCanadianMapleLeaf } from "react-icons/fa";
 
-const Header = ({ shadow }) => (
+type Props = {
+  shadow?: boolean;
+};
+
+const Header = ({ shadow }: Props) => (
   <header
     css={css`
       width: 100%;

@@ -16,7 +16,12 @@ import {
 } from "react-icons/fa";
 import { useStaticQuery, graphql } from "gatsby";
 
-const ShareButtons = ({ page, title }) => {
+type ShareButtonsProps = {
+  page: string;
+  title: string;
+};
+
+const ShareButtons = ({ page, title }: ShareButtonsProps) => {
   const { site } = useStaticQuery(graphql`
     query {
       site {
@@ -39,7 +44,7 @@ const ShareButtons = ({ page, title }) => {
       title: fullTitle,
     });
 
-  if (typeof navigator !== "undefined" && navigator && navigator.share) {
+  if (typeof navigator !== "undefined" && navigator && "share" in navigator) {
     return (
       <button
         css={css`
@@ -93,7 +98,6 @@ const ShareButtons = ({ page, title }) => {
             background-color: #3b579d;
           `}
           url={shareUrl}
-          quote={fullTitle}
         >
           <FaFacebookF />
         </FacebookShareButton>

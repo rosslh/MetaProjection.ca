@@ -1,7 +1,7 @@
 import { makeObservable, observable, action } from "mobx";
 
 class UserModel {
-  UserDistrict = null;
+  UserDistrict: number | null = null;
   UserGeolocationDisabled = false;
   UserGeolocationError = "";
 
@@ -16,14 +16,15 @@ class UserModel {
     });
   }
 
-  SetDistrict(val) {
+  SetDistrict(val: number) {
     this.UserDistrict = val;
   }
-  SetGeolocationDisabled(bool) {
+
+  SetGeolocationDisabled(bool: boolean) {
     this.UserGeolocationDisabled = bool;
   }
 
-  SetGeolocationError(err) {
+  SetGeolocationError(err: string) {
     this.UserGeolocationError = err;
   }
 }

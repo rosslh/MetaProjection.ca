@@ -2,7 +2,11 @@ import React from "react";
 import { css } from "@emotion/react";
 import { formatDistanceToNow } from "date-fns";
 
-const Footer = ({ publishTimestamp }) => {
+type Props = {
+  publishTimestamp: number;
+};
+
+const Footer = ({ publishTimestamp }: Props) => {
   const generatedAgo = formatDistanceToNow(publishTimestamp);
   return (
     <footer

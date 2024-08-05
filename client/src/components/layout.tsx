@@ -5,7 +5,7 @@
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
 
-import React from "react";
+import React, { ReactNode } from "react";
 import PropTypes from "prop-types";
 import { useStaticQuery, graphql } from "gatsby";
 import { css } from "@emotion/react";
@@ -16,7 +16,13 @@ import Footer from "./footer";
 
 import "./layout.css";
 
-const Layout = ({ noMap, children, selectedDistrict }) => {
+type Props = {
+  noMap?: boolean;
+  children: ReactNode;
+  selectedDistrict?: number;
+};
+
+const Layout = ({ noMap, children, selectedDistrict }: Props) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       site {
@@ -33,7 +39,7 @@ const Layout = ({ noMap, children, selectedDistrict }) => {
         background-color: #fafafa;
       `}
     >
-      <Header shadow={noMap} siteTitle={data.site.siteMetadata.title} />
+      <Header shadow={noMap} />
       {/* TODO: add the map back */}
       {/* {noMap ? "" : <Map selectedDistrict={selectedDistrict} />} */}
       <div
@@ -47,12 +53,6 @@ const Layout = ({ noMap, children, selectedDistrict }) => {
       <Footer publishTimestamp={data.site.siteMetadata.publishTimestamp} />
     </div>
   );
-};
-
-Layout.propTypes = {
-  children: PropTypes.node.isRequired,
-  noMap: PropTypes.string,
-  selectedDistrict: PropTypes.number,
 };
 
 export default Layout;

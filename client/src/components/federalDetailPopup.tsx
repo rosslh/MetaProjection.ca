@@ -4,10 +4,17 @@ import { css } from "@emotion/react";
 
 import { projections } from "../utils/utils";
 
-function FederalDetailPopup({ data, avg, status }) {
-  const keysSorted = Object.keys(data).sort((a, b) =>
-    projections[a].name.localeCompare(projections[b].name)
-  );
+type Props = {
+  data: Record<keyof typeof projections, number>;
+  avg: number;
+  status?: string;
+};
+
+function FederalDetailPopup({ data, avg, status }: Props) {
+  const keysSorted = Object.keys(data)
+    .filter((key): key is keyof typeof projections => key in projections)
+    .sort((a, b) => projections[a].name.localeCompare(projections[b].name));
+
   return (
     <div
       css={css`

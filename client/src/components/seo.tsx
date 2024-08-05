@@ -11,21 +11,26 @@ import Helmet from "react-helmet";
 import { useStaticQuery, graphql } from "gatsby";
 import image from "../images/siteImage.png";
 
-function SEO({ description, lang, meta, title }) {
-  const { site } = useStaticQuery(
-    graphql`
-      query {
-        site {
-          siteMetadata {
-            title
-            description
-            author
-            url
-          }
+type Props = {
+  description?: string;
+  lang?: string;
+  meta: { name: string; content: string }[];
+  title: string;
+};
+
+function SEO({ description, lang, meta, title }: Props) {
+  const { site } = useStaticQuery(graphql`
+    query {
+      site {
+        siteMetadata {
+          title
+          description
+          author
+          url
         }
       }
-    `
-  );
+    }
+  `);
 
   const metaDescription = description || site.siteMetadata.description;
   const fullTitle = `${title} | ${site.siteMetadata.title}`;

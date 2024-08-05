@@ -29,6 +29,7 @@ const About = () => (
     <ul>
       {Object.keys(projections)
         .sort()
+        .filter((key): key is keyof typeof projections => key in projections)
         .map((key) => {
           const projection = projections[key];
           return (

@@ -1,22 +1,46 @@
 import React, { useState } from "react";
 import { css, ClassNames } from "@emotion/react";
 import PropTypes from "prop-types";
-import Select from "react-select";
+import Select, { SingleValue } from "react-select";
 import { navigate } from "gatsby";
 import { IoMdPin } from "react-icons/io";
 import { MdErrorOutline } from "react-icons/md";
 import { observer, inject } from "mobx-react";
+import UserStore from "../models/UserModel";
+
+type District = {
+  number: number;
+  name: string;
+  name_fr: string;
+  slug: string;
+};
+
+type ObserverProps = {
+  store: typeof UserStore;
+  districts: District[];
+  selectedDistrict: number;
+};
+
+type Option = {
+  value: string;
+  label: string;
+};
 
 const FindDistrict = inject(`store`)(
-  observer(({ store, districts, selectedDistrict }) => {
+  observer(({ store, districts, selectedDistrict }: ObserverProps) => {
     const options = districts.map((d) => ({
       value: d.slug,
       label: d.name,
     }));
 
-    const [selectedOption, setSelectedOption] = useState(null);
+    const [selectedOption, setSelectedOption] = useState<Option | null>(null);
 
-    const handleChange = (option) => {
+    const handleChange = (
+      option: SingleValue<{ value: string; label: string }>
+    ) => {
+      if (!option) {
+        return;
+      }
       navigate(`/riding/${option.value}`);
       setSelectedOption(option);
     };
@@ -233,9 +257,5 @@ const FindDistrict = inject(`store`)(
     );
   })
 );
-
-FindDistrict.propTypes = {
-  districts: PropTypes.arrayOf(PropTypes.object),
-};
 
 export default FindDistrict;

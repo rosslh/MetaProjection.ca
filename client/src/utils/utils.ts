@@ -1,4 +1,10 @@
-export const addPartyDetails = party => {
+export const addPartyDetails = (party: {
+  name: string;
+  avg: number;
+  longName?: string;
+  imageString?: string;
+  color?: string;
+}) => {
   let longName;
   let imageString;
   let color;

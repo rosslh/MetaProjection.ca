@@ -8,6 +8,7 @@
     "@emotion/core": "^11.0.0",
     "date-fns": "^3.6.0",
     "fetch-retry": "^6.0.0",
+    "gatsby": "^5.13.6",
     "gatsby-image": "^2.2.29",
     "gatsby-plugin-emotion": "^8.13.1",
     "gatsby-plugin-manifest": "^5.13.1",
@@ -20,12 +21,12 @@
     "gatsby-source-filesystem": "^5.13.1",
     "gatsby-transformer-json": "^5.13.1",
     "gatsby-transformer-sharp": "^5.13.1",
-    "gatsby": "^5.13.6",
     "jsdom": "^24.1.0",
     "leaflet": "^1.5.1",
-    "mobx-react": "^9.1.1",
     "mobx": "^6.12.4",
+    "mobx-react": "^9.1.1",
     "prop-types": "^15.8.1",
+    "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-helmet": "^6.1.0",
     "react-icons": "^5.2.1",
@@ -33,12 +34,13 @@
     "react-select": "^5.8.0",
     "react-share": "^5.1.0",
     "react-typography": "^0.16.23",
-    "react": "^18.3.1",
     "semantic-ui-react": "^2.1.5",
-    "typography-theme-ocean-beach": "^0.16.19",
-    "typography": "^0.16.24"
+    "typography": "^0.16.24",
+    "typography-theme-ocean-beach": "^0.16.19"
   },
   "devDependencies": {
+    "@types/react-helmet": "^6.1.11",
+    "@types/typography": "^0.16.7",
     "chrome-aws-lambda": "^10.1.0",
     "cypress": "^13.12.0",
     "nearest-color": "^0.4.4",
@@ -65,7 +67,8 @@
     "runTestServer": "gatsby serve --port 3939",
     "test": "server-test runTestServer 3939 cyTest",
     "testGui": "server-test runTestServer 3939 cyTestGui",
-    "clean": "rm -rf .cache && rm -rf public && gatsby clean"
+    "clean": "rm -rf .cache && rm -rf public && gatsby clean",
+    "tsc": "tsc"
   },
   "repository": {
     "type": "git",
