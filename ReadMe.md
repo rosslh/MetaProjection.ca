@@ -2,9 +2,9 @@
 
 [MetaProjection.ca](https://www.metaprojection.ca/) is a web application designed to provide Canadian voters with up-to-date electoral projections. By aggregating data from multiple trusted sources, it offers a clear and comprehensive overview of how the election is shaping up, both at the federal level and within individual electoral districts.
 
-![Netlify](https://img.shields.io/netlify/3dd4e416-74a7-49b1-847a-ad95a0b44607?style=flat-square&label=Netlify)
-![Uptime Robot status](https://img.shields.io/uptimerobot/status/m792388124-b7e4417815ddd9388914883d?up_message=online&style=flat-square&label=Status)
-![Uptime Robot ratio (30 days)](<https://img.shields.io/uptimerobot/ratio/m792388124-b7e4417815ddd9388914883d?style=flat-square&label=Uptime%20(1mo)>)
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m792388124-b7e4417815ddd9388914883d?up_message=online&style=flat&label=Status)
+![Uptime Robot ratio (30 days)](<https://img.shields.io/uptimerobot/ratio/m792388124-b7e4417815ddd9388914883d?style=flat&label=Uptime%20(1mo)>)
+[![Hosted in Canada with MapleDeploy](https://mapledeploy.ca/api/badge/shields)](https://mapledeploy.ca)
 
 ## Features
 
@@ -38,5 +38,5 @@ MetaProjection.ca aims to be an essential tool for Canadian voters, political an
 - **Scraping**: [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 - **Integration testing**: [Cypress](https://www.cypress.io/)
 - **Error tracking**: [Sentry](https://sentry.io/welcome/)
-- **Hosting**: [Netlify](https://www.netlify.com/)
+- **Hosting**: [MapleDeploy](https://mapledeploy.ca/)
 - **Continuous integration**: [GitHub Actions](https://github.com/features/actions)
