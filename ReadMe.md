@@ -1,10 +1,20 @@
-# MetaProjection.ca
+<p align="center">
+  <a href="https://www.metaprojection.ca">
+    <img src="https://raw.githubusercontent.com/rosslh/metaprojection.ca/master/icon.png" height="50px" width="50px" alt="MetaProjection.ca icon">
+  </a>
+</p>
 
-[MetaProjection.ca](https://www.metaprojection.ca/) is a web application designed to provide Canadian voters with up-to-date electoral projections. By aggregating data from multiple trusted sources, it offers a clear and comprehensive overview of how the election is shaping up, both at the federal level and within individual electoral districts.
+<h1 align="center">MetaProjection.ca</h1>
 
-![Uptime Robot status](https://img.shields.io/uptimerobot/status/m792388124-b7e4417815ddd9388914883d?up_message=online&style=flat&label=Status)
-![Uptime Robot ratio (30 days)](<https://img.shields.io/uptimerobot/ratio/m792388124-b7e4417815ddd9388914883d?style=flat&label=Uptime%20(1mo)>)
-[![Hosted in Canada with MapleDeploy](https://mapledeploy.ca/api/badge/shields)](https://mapledeploy.ca)
+<p align="center">
+  <a href="https://www.metaprojection.ca">MetaProjection.ca</a> is a web application that provides Canadian voters with up-to-date electoral projections. By aggregating data from multiple trusted sources, it offers a clear overview of how the election is shaping up, both at the federal level and within individual electoral districts.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/uptimerobot/status/m792388124-b7e4417815ddd9388914883d?up_message=online&style=flat&label=Status" alt="Uptime Robot status">
+  <img src="https://img.shields.io/uptimerobot/ratio/m792388124-b7e4417815ddd9388914883d?style=flat&label=Uptime%20(1mo)" alt="Uptime Robot ratio (30 days)">
+  <a href="https://mapledeploy.ca"><img src="https://mapledeploy.ca/api/badge/shields" alt="Hosted in Canada with MapleDeploy"></a>
+</p>
 
 ## Features
 
