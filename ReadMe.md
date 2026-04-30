@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://www.metaprojection.ca">
-    <img src="https://raw.githubusercontent.com/rosslh/metaprojection.ca/master/icon.png" height="50px" width="50px" alt="MetaProjection.ca icon">
+    <img src="https://raw.githubusercontent.com/rosslh/metaprojection.ca/master/icon.png" height="50px" width="50px" alt="MetaProjection icon">
   </a>
 </p>
 
-<h1 align="center">MetaProjection.ca</h1>
+<h1 align="center">MetaProjection</h1>
 
 <p align="center">
-  <a href="https://www.metaprojection.ca">MetaProjection.ca</a> is a web application that provides Canadian voters with up-to-date electoral projections. By aggregating data from multiple trusted sources, it offers a clear overview of how the election is shaping up, both at the federal level and within individual electoral districts.
+  <a href="https://www.metaprojection.ca">MetaProjection</a> is a web application that provides Canadian voters with up-to-date electoral projections. By aggregating data from multiple trusted sources, it offers a clear overview of how the election is shaping up, both at the federal level and within individual electoral districts.
 </p>
 
 <p align="center">
@@ -24,20 +24,20 @@ The centerpiece of the application is an interactive map displayed prominently a
 
 ### Personalized District Information
 
-MetaProjection.ca takes user experience a step further by utilizing geolocation technology. Upon granting permission, the application can identify the user's current electoral district and highlight it on the map. This feature allows voters to immediately see the projected outcome for their local area, fostering a more engaged and informed electorate.
+MetaProjection takes user experience a step further by utilizing geolocation technology. Upon granting permission, the application can identify the user's current electoral district and highlight it on the map. This feature allows voters to immediately see the projected outcome for their local area, fostering a more engaged and informed electorate.
 
 ### Comprehensive Data Aggregation
 
-By compiling projections from various reputable sources, MetaProjection.ca offers a balanced and nuanced view of the electoral landscape. This approach helps mitigate potential biases and provides users with a more accurate overall picture of the upcoming election.
+By compiling projections from various reputable sources, MetaProjection offers a balanced and nuanced view of the electoral landscape. This approach helps mitigate potential biases and provides users with a more accurate overall picture of the upcoming election.
 
 ## How It Works
 
-1. Visit [MetaProjection.ca](https://www.metaprojection.ca/)
+1. Visit [MetaProjection](https://www.metaprojection.ca/)
 2. Allow geolocation access for personalized district information (optional)
 3. Explore the interactive map to view projections for different regions
 4. Dive deeper into specific districts or overall federal projections as needed
 
-MetaProjection.ca aims to be an essential tool for Canadian voters, political analysts, and anyone interested in staying informed about the country's electoral dynamics.
+MetaProjection aims to be an essential tool for Canadian voters, political analysts, and anyone interested in staying informed about the country's electoral dynamics.
 
 ## Technologies used
 
